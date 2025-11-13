@@ -1,0 +1,901 @@
+Age,Gender,Year of Study,Discipline/Field,What is your anxiety level before exams or academic presentations?,How do you rate your self-esteem while handling academic challenges?,How often do you feel depressed during your studies?,"I experience physical symptoms (headache, stomachache) before exams or presentations",I push myself to meet the deadlines even when it negatively affects my sleep quality or health,Background noise distracts me during study.,Poor lighting in my room or home study area makes my living conditions for studying harder.,"Lack of basic needs (water, electricity, and internet) causes me stress during studies.",How often do you feel pressured by your classmates or peers about your academic performance?,How heavy is your study load when maintaining a CGPA?,I feel my relationship with teachers is affected by my lower grades.,I worry that low grades may negatively affect my future career.,How supportive are your family and friends in your studies?
+20 - 22,Male,3rd Semester ,BSCS,2,2,1,1,2,3,1,2,2,2,2,2,1
+20 - 22,Female,Second Year,Computer science ,2,2,1,1,3,3,3,3,1,2,2,3,3
+20 - 22,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0
+20 - 22,Female,Second Year,Computer science ,2,2,3,1,1,3,1,3,3,2,2,2,2
+20 - 22,Female,Second Year,Cs,2,1,1,1,3,2,3,2,0,3,0,3,3
+23 - 25,Male,Second Year,Computer Science,3,0,1,3,3,3,0,0,2,3,3,3,3
+20 - 22,Male,Second Year,Cs,2,2,1,1,2,2,0,0,1,1,2,1,3
+20 - 22,Male,Second Year,IT/CS/Software/AI,3,2,1,3,3,3,3,2,3,3,3,3,3
+20 - 22,Male,Second Year,IT/CS/Software/AI,2,2,3,2,3,3,3,3,3,2,3,3,3
+20 - 22,Male,Second Year,IT/CS/Software/AI,2,1,0,0,0,2,1,0,0,2,1,1,3
+20 - 22,Male,Second Year,IT/CS/Software/AI,3,3,2,1,1,1,0,0,2,3,0,3,0
+20 - 22,Female,Second Year,IT/CS/Software/AI,2,3,1,1,3,3,1,3,2,2,1,3,2
+20 - 22,Male,Second Year,IT/CS/Software/AI,2,3,0,0,3,3,2,1,3,2,0,3,3
+17 - 19,Female,Second Year,IT/CS/Software/AI,3,1,2,3,2,3,1,2,2,2,3,3,3
+17 - 19,Female,Second Year,IT/CS/Software/AI,2,0,2,3,2,1,2,0,1,0,0,3,3
+20 - 22,Female,First Year,IT/CS/Software/AI,3,1,1,2,1,0,1,2,2,1,3,1,3
+20 - 22,Female,Second Year,Natural Sciences/Social Sciences,3,2,2,2,2,2,2,1,3,2,2,3,3
+20 - 22,Male,Second Year,IT/CS/Software/AI,3,1,1,0,3,0,0,0,1,2,1,0,3
+20 - 22,Female,Second Year,IT/CS/Software/AI,1,1,2,1,1,2,3,1,3,2,3,2,3
+20 - 22,Female,Second Year,Natural Sciences/Social Sciences,3,3,1,0,3,3,3,3,0,3,1,3,3
+20 - 22,Female,Second Year,Natural Sciences/Social Sciences,3,2,2,1,1,3,2,3,1,2,2,3,2
+20 - 22,Female,Second Year,Natural Sciences/Social Sciences,1,2,3,1,2,3,3,2,3,3,1,3,2
+17 - 19,Female,Second Year,IT/CS/Software/AI,3,1,3,3,2,3,3,1,3,3,3,3,1
+20 - 22,Female,Fourth Year,Natural Sciences/Social Sciences,3,2,3,2,3,3,3,3,1,3,2,3,3
+20 - 22,Male,Second Year,IT/CS/Software/AI,0,2,3,0,3,1,2,0,1,1,0,0,2
+20 - 22,Female,Second Year,Natural Sciences/Social Sciences,3,2,3,2,3,2,0,1,2,3,2,3,1
+20 - 22,Female,Second Year,Natural Sciences/Social Sciences,1,0,1,2,0,2,2,1,2,3,1,2,2
+23 - 25,Male,Fourth Year,Natural Sciences/Social Sciences,2,3,2,1,2,2,2,1,0,3,2,2,2
+20 - 22,Female,Second Year,IT/CS/Software/AI,3,3,1,3,0,3,2,0,3,1,2,0,1
+20 - 22,Female,First Year,Natural Sciences/Social Sciences,3,0,2,1,1,1,0,0,2,0,1,1,2
+20 - 22,Male,Second Year,IT/CS/Software/AI,1,3,2,0,1,0,0,0,0,0,1,0,3
+20 - 22,Male,Fourth Year,Natural Sciences/Social Sciences,1,3,1,1,1,2,2,3,0,2,1,2,3
+17 - 19,Female,Second Year,Civil/Mechanical Engineering,1,1,2,1,1,2,1,2,1,2,1,0,3
+20 - 22,Female,Second Year,Natural Sciences/Social Sciences,3,1,2,3,2,3,2,3,3,3,3,3,3
+20 - 22,Female,First Year,Natural Sciences/Social Sciences,2,1,3,1,1,3,3,2,1,3,2,3,3
+20 - 22,Female,Second Year,IT/CS/Software/AI,2,2,2,3,2,1,0,1,1,2,1,2,3
+17 - 19,Female,Second Year,IT/CS/Software/AI,0,1,0,0,1,1,0,0,0,1,0,0,3
+20 - 22,Female,Third Year,Natural Sciences/Social Sciences,2,2,2,2,3,3,3,3,3,2,0,1,3
+17 - 19,Female,Second Year,Natural Sciences/Social Sciences,3,2,2,2,1,3,3,2,1,3,1,3,2
+17 - 19,Male,Second Year,IT/CS/Software/AI,2,3,1,1,3,2,0,0,2,2,0,1,3
+20 - 22,Female,Second Year,Natural Sciences/Social Sciences,3,2,1,2,1,1,0,0,1,2,0,3,2
+20 - 22,Female,Second Year,IT/CS/Software/AI,2,1,3,1,3,3,0,0,2,2,1,1,3
+20 - 22,Male,Second Year,IT/CS/Software/AI,2,2,2,2,2,2,1,2,1,2,3,3,2
+20 - 22,Male,Second Year,Natural Sciences/Social Sciences,1,1,1,0,1,1,1,3,1,3,0,2,2
+20 - 22,Female,Second Year,IT/CS/Software/AI,1,1,2,2,3,3,2,3,1,2,1,1,2
+20 - 22,Female,Second Year,Natural Sciences/Social Sciences,3,0,0,0,0,3,3,3,0,3,3,3,3
+20 - 22,Male,Third Year,Business Administration,1,2,0,1,3,0,0,1,0,1,0,0,3
+20 - 22,Male,Fourth Year,IT/CS/Software/AI,1,1,2,2,3,1,2,0,1,1,2,2,3
+20 - 22,Male,Fourth Year,IT/CS/Software/AI,3,1,2,0,3,0,2,1,1,3,3,3,2
+20 - 22,Male,First Year,IT/CS/Software/AI,2,2,1,1,1,2,1,2,2,3,2,1,3
+17 - 20,Male,Third Year,Natural Sciences/Social Sciences,1,3,2,2,1,2,2,2,1,2,2,2,1
+17 - 20,Male,Second Year,IT/CS/Software/AI,0,2,2,1,3,3,3,3,2,3,3,3,2
+17 - 20,Female,Second Year,IT/CS/Software/AI,1,0,2,2,0,1,0,0,1,1,1,3,1
+17 - 20,Male,Second Year,IT/CS/Software/AI,1,1,2,0,3,3,3,3,1,2,3,3,3
+17 - 20,Male,Second Year,IT/CS/Software/AI,1,2,2,1,2,3,2,3,2,2,3,3,2
+17 - 20,Male,Second Year,IT/CS/Software/AI,1,2,3,0,3,1,3,1,3,1,2,0,2
+20 - 22,Male,Fourth Year,Natural Sciences/Social Sciences,1,3,2,1,2,2,2,2,1,2,1,1,3
+20 - 22,Male,Fourth Year,Natural Sciences/Social Sciences,2,3,3,3,2,2,2,2,2,2,1,3,3
+20 - 22,Male,Second Year,Natural Sciences/Social Sciences,1,1,1,0,3,3,3,0,0,2,3,2,3
+20 - 22,Male,Fourth Year,Business Administration,2,1,3,1,3,2,2,1,1,3,1,3,1
+23 - 25,Male,Fourth Year,Business Administration,3,2,2,2,1,3,3,3,2,2,1,1,1
+20 - 22,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,2,0,2,1,1,2,1,1,1,0,2
+23 - 25,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,2,1,2,0,0,3,1,2,2,2,3
+20 - 22,Female,Fourth Year,Natural Sciences/Social Sciences,2,3,3,0,3,3,0,3,0,3,3,1,3
+23 - 25,Male,Fourth Year,Natural Sciences/Social Sciences,1,0,1,0,0,0,1,1,0,1,1,1,0
+23 - 25,Male,Fourth Year,Business Administration,2,3,1,1,1,0,2,3,1,2,0,3,2
+17 - 20,Male,Third Year,IT/CS/Software/AI,0,1,1,1,1,0,1,1,0,0,1,0,1
+20 - 22,Male,Third Year,Business Administration,2,0,2,1,3,3,1,3,1,3,0,1,3
+20 - 22,Female,Third Year,IT/CS/Software/AI,3,2,3,3,3,3,1,2,0,3,3,3,2
+20 - 22,Female,Third Year,IT/CS/Software/AI,2,2,2,1,3,1,1,1,1,3,0,3,1
+17 - 20,Male,Third Year,IT/CS/Software/AI,3,3,3,2,3,3,1,1,3,3,0,3,0
+20 - 22,Female,Third Year,IT/CS/Software/AI,3,0,3,1,1,3,2,2,3,3,1,3,0
+23 - 25,Female,Fourth Year,Natural Sciences/Social Sciences,1,1,2,2,2,1,2,1,1,1,1,2,1
+20 - 22,Female,Third Year,Natural Sciences/Social Sciences,3,1,1,2,0,3,1,0,0,2,0,0,3
+23 - 25,Male,Fourth Year,IT/CS/Software/AI,1,2,1,0,1,2,2,2,1,2,1,1,3
+17 - 20,Male,Second Year,IT/CS/Software/AI,2,2,2,1,1,2,2,1,1,2,1,2,2
+17 - 20,Male,Third Year,IT/CS/Software/AI,2,1,2,1,1,1,2,3,0,1,2,2,1
+23 - 25,Male,Fourth Year,Natural Sciences/Social Sciences,0,1,0,0,0,3,3,3,0,0,0,1,1
+23 - 25,Female,Fourth Year,IT/CS/Software/AI,2,0,1,2,1,2,1,1,0,2,2,3,3
+17 - 20,Male,Second Year,IT/CS/Software/AI,1,2,0,0,0,0,3,0,2,2,2,3,3
+23 - 25,Male,Fourth Year,Civil/Mechanical Engineering,1,2,1,1,1,1,1,2,2,2,1,2,3
+23 - 25,Male,Fourth Year,IT/CS/Software/AI,1,3,2,1,2,2,1,1,1,2,1,2,3
+23 - 25,Female,Fourth Year,IT/CS/Software/AI,2,2,2,1,3,3,3,3,3,3,2,2,3
+23 - 25,Female,Fourth Year,IT/CS/Software/AI,3,2,3,3,3,2,1,0,3,3,3,1,3
+23 - 25,Male,Fourth Year,IT/CS/Software/AI,2,1,2,2,2,2,1,1,1,2,2,2,1
+23 - 25,Male,Fourth Year,Business Administration,0,2,1,1,2,1,1,2,1,3,0,1,2
+20 - 22,Female,Fourth Year,Natural Sciences/Social Sciences,3,2,2,3,2,2,2,1,1,2,1,1,2
+17 - 20,Female,Second Year,Natural Sciences/Social Sciences,1,1,1,1,3,2,2,1,1,2,1,2,1
+23 - 25,Female,Fourth Year,Natural Sciences/Social Sciences,1,1,1,1,3,3,3,3,2,3,0,3,3
+23 - 25,Female,Fourth Year,IT/CS/Software/AI,3,2,2,3,3,3,3,3,2,3,3,3,3
+17 - 20,Male,First Year,Natural Sciences/Social Sciences,1,1,1,1,1,1,1,1,1,1,1,1,1
+23 - 25,Male,First Year,IT/CS/Software/AI,1,1,1,1,1,1,1,1,1,1,1,1,1
+20 - 22,Female,Third Year,Natural Sciences/Social Sciences,3,3,1,2,0,1,3,2,0,1,0,3,3
+17 - 20,Male,Second Year,Business Administration,0,2,1,0,3,0,2,2,2,3,2,3,3
+23 - 25,Male,Fourth Year,IT/CS/Software/AI,0,3,0,0,0,1,0,1,0,0,0,0,3
+20 - 22,Male,Second Year,Natural Sciences/Social Sciences,2,3,2,2,1,3,3,3,0,2,2,2,2
+23 - 25,Female,Fourth Year,Natural Sciences/Social Sciences,2,3,1,2,3,3,3,3,1,2,0,2,1
+21,Male,Third Year,IT/CS/Software/AI,3,3,0,1,3,3,1,1,1,1,0,3,2
+24,Male,Second Year,IT/CS/Software/AI,1,1,1,1,3,3,0,1,1,2,3,3,3
+24,Male,Second Year,IT/CS/Software/AI,3,2,2,3,3,1,1,0,3,2,2,2,2
+23,Female,Second Year,IT/CS/Software/AI,3,1,3,1,1,3,2,3,3,3,2,2,1
+19,Male,Fourth Year,IT/CS/Software/AI,2,1,2,3,3,0,0,0,3,3,1,3,3
+20,Male,Fourth Year,IT/CS/Software/AI,2,2,2,3,1,3,1,2,1,1,0,3,2
+18,Female,Second Year,IT/CS/Software/AI,3,2,1,0,0,1,3,3,2,1,2,3,3
+21,Male,Second Year,IT/CS/Software/AI,2,2,2,1,3,2,1,2,1,2,0,1,3
+22,Male,Second Year,IT/CS/Software/AI,2,1,2,1,1,0,1,1,1,1,3,1,3
+24,Male,Second Year,IT/CS/Software/AI,3,1,1,0,2,3,3,0,2,3,2,3,1
+21,Female,Second Year,IT/CS/Software/AI,2,2,1,2,1,0,1,3,2,3,1,2,1
+20,Female,Second Year,IT/CS/Software/AI,0,2,2,0,2,2,0,2,2,2,2,3,1
+20,Female,Fourth Year,IT/CS/Software/AI,3,1,1,0,3,1,1,3,0,1,0,2,2
+22,Female,Second Year,IT/CS/Software/AI,3,3,2,1,3,0,2,3,0,3,1,0,0
+23,Female,Fourth Year,IT/CS/Software/AI,2,1,2,0,0,3,1,3,1,2,2,1,2
+24,Female,Second Year,IT/CS/Software/AI,1,2,2,2,2,1,0,0,3,0,1,1,2
+24,Female,Second Year,IT/CS/Software/AI,3,2,2,2,0,3,1,0,2,2,1,3,3
+18,Male,First Year,IT/CS/Software/AI,2,0,3,2,3,2,1,1,3,2,2,0,3
+18,Male,Second Year,IT/CS/Software/AI,2,3,0,0,0,1,1,2,3,2,2,1,2
+18,Male,Second Year,IT/CS/Software/AI,3,1,2,0,3,1,1,1,1,2,3,2,3
+23,Female,Third Year,IT/CS/Software/AI,0,3,1,0,1,3,2,3,2,2,2,3,0
+19,Female,Second Year,IT/CS/Software/AI,3,1,2,1,0,3,1,0,2,1,1,1,2
+19,Male,Third Year,IT/CS/Software/AI,2,2,2,3,3,2,2,3,3,3,2,3,1
+18,Male,Third Year,IT/CS/Software/AI,1,1,1,0,0,3,2,3,1,2,3,1,3
+22,Male,Second Year,IT/CS/Software/AI,2,2,3,0,1,3,3,3,3,1,0,3,1
+22,Male,Third Year,IT/CS/Software/AI,1,1,3,3,3,1,1,0,2,2,1,3,3
+22,Female,Fourth Year,IT/CS/Software/AI,1,2,2,0,1,3,1,3,1,1,1,2,3
+24,Female,Fourth Year,IT/CS/Software/AI,1,2,2,3,2,0,1,0,3,3,1,3,3
+20,Female,Second Year,IT/CS/Software/AI,2,3,2,3,3,0,1,2,1,2,1,3,3
+19,Female,Third Year,IT/CS/Software/AI,2,1,3,1,3,3,1,1,0,0,3,3,1
+24,Male,Second Year,IT/CS/Software/AI,3,2,2,2,1,3,2,2,2,2,0,3,3
+19,Female,Fourth Year,IT/CS/Software/AI,3,2,2,1,2,3,3,3,1,1,3,3,3
+19,Male,Fourth Year,IT/CS/Software/AI,1,1,2,3,3,3,1,1,1,2,3,0,2
+24,Male,Second Year,IT/CS/Software/AI,2,2,0,1,0,2,2,1,0,2,1,0,1
+19,Female,Second Year,IT/CS/Software/AI,0,1,2,0,2,0,3,1,2,1,2,0,3
+24,Female,Second Year,IT/CS/Software/AI,3,3,2,2,1,3,1,2,3,2,1,3,1
+19,Male,Second Year,IT/CS/Software/AI,2,0,3,1,2,0,2,3,1,2,0,1,1
+20,Female,Third Year,IT/CS/Software/AI,0,2,0,0,3,0,0,0,2,2,0,0,3
+21,Male,Second Year,IT/CS/Software/AI,1,2,1,1,1,0,1,1,0,1,3,3,3
+21,Male,Second Year,IT/CS/Software/AI,2,2,0,2,3,3,1,1,2,1,1,1,1
+18,Male,Second Year,IT/CS/Software/AI,1,0,0,2,3,2,0,1,2,2,1,3,2
+21,Female,Second Year,IT/CS/Software/AI,3,1,0,1,3,2,1,3,1,3,0,3,1
+19,Female,Second Year,IT/CS/Software/AI,0,1,2,1,2,3,2,1,3,3,1,3,3
+20,Male,Second Year,IT/CS/Software/AI,3,2,3,3,3,3,1,2,1,2,1,1,3
+21,Female,Third Year,IT/CS/Software/AI,2,1,3,1,3,0,2,1,0,2,1,3,2
+23,Male,Fourth Year,IT/CS/Software/AI,3,1,1,1,2,3,2,2,1,0,2,1,2
+23,Male,Fourth Year,IT/CS/Software/AI,2,1,2,1,1,2,3,0,0,2,3,2,0
+21,Male,Second Year,IT/CS/Software/AI,0,1,0,0,3,1,2,0,1,2,0,2,3
+22,Female,Second Year,IT/CS/Software/AI,1,3,1,2,3,1,0,1,3,3,0,0,1
+24,Female,Fourth Year,IT/CS/Software/AI,1,3,3,3,3,0,1,2,3,2,2,3,3
+22,Male,Second Year,IT/CS/Software/AI,2,1,2,0,3,3,3,3,3,2,1,2,2
+24,Male,Second Year,IT/CS/Software/AI,2,1,0,2,3,1,3,3,0,0,0,3,0
+24,Male,Second Year,IT/CS/Software/AI,1,1,2,1,1,2,0,1,2,3,0,3,3
+21,Male,Second Year,IT/CS/Software/AI,1,2,2,0,3,2,3,3,2,1,3,3,3
+23,Female,Third Year,IT/CS/Software/AI,2,2,3,1,2,2,0,0,1,3,0,3,3
+18,Male,Fourth Year,IT/CS/Software/AI,1,2,0,1,0,1,1,2,3,1,0,3,2
+19,Female,Second Year,IT/CS/Software/AI,1,1,3,1,1,2,1,1,2,0,2,3,1
+19,Male,Fourth Year,IT/CS/Software/AI,2,0,1,0,1,3,1,3,3,1,2,0,3
+20,Male,Second Year,IT/CS/Software/AI,2,3,1,1,3,2,3,2,0,1,1,3,3
+21,Female,Second Year,IT/CS/Software/AI,1,3,3,2,3,0,1,2,1,3,2,1,1
+19,Male,Second Year,IT/CS/Software/AI,2,1,2,3,2,1,0,2,2,3,0,3,3
+19,Male,Fourth Year,IT/CS/Software/AI,2,1,1,1,2,3,2,2,1,3,2,3,0
+19,Female,Second Year,IT/CS/Software/AI,2,1,2,2,1,1,2,1,1,3,3,3,3
+24,Female,Second Year,IT/CS/Software/AI,1,1,2,1,2,3,3,1,0,2,0,3,1
+20,Male,Third Year,IT/CS/Software/AI,1,2,2,0,1,3,1,3,1,1,0,0,3
+18,Male,First Year,IT/CS/Software/AI,2,1,1,0,3,3,2,3,1,3,1,2,0
+22,Female,Fourth Year,IT/CS/Software/AI,2,2,2,0,3,1,1,1,1,3,1,3,2
+19,Male,Second Year,IT/CS/Software/AI,1,2,2,1,3,3,0,0,2,2,0,3,2
+18,Male,Second Year,IT/CS/Software/AI,1,2,2,0,3,3,2,1,1,2,3,1,3
+18,Male,Second Year,IT/CS/Software/AI,3,2,0,1,2,1,1,0,1,2,0,0,1
+22,Male,Second Year,IT/CS/Software/AI,1,3,0,0,3,1,2,2,3,3,1,0,3
+24,Male,Third Year,IT/CS/Software/AI,0,3,0,2,3,1,1,1,1,2,3,3,2
+18,Male,Fourth Year,IT/CS/Software/AI,1,1,2,2,3,2,2,1,3,3,2,1,3
+22,Female,Second Year,IT/CS/Software/AI,1,2,2,1,2,2,3,1,1,2,1,2,0
+23,Male,Second Year,IT/CS/Software/AI,0,2,1,1,1,0,2,1,0,2,1,3,3
+21,Male,Fourth Year,IT/CS/Software/AI,3,3,2,1,3,0,0,2,2,1,1,3,3
+18,Male,Second Year,IT/CS/Software/AI,2,2,2,1,3,0,2,1,2,2,1,0,0
+23,Male,Second Year,IT/CS/Software/AI,2,1,2,0,3,3,0,0,1,2,2,3,3
+19,Male,Second Year,IT/CS/Software/AI,1,2,1,0,3,1,2,2,1,3,3,3,3
+22,Male,Second Year,IT/CS/Software/AI,3,2,1,1,3,2,2,2,0,3,3,3,3
+21,Female,First Year,IT/CS/Software/AI,2,1,2,3,2,3,2,3,2,2,3,3,3
+23,Male,Second Year,IT/CS/Software/AI,2,2,1,1,0,3,3,1,3,3,0,1,2
+23,Female,First Year,IT/CS/Software/AI,1,1,2,0,2,3,3,2,3,2,2,1,2
+19,Female,Second Year,IT/CS/Software/AI,2,3,2,1,1,1,2,2,1,2,1,2,3
+22,Female,Second Year,IT/CS/Software/AI,3,0,1,1,0,2,1,1,2,2,1,2,1
+22,Male,Second Year,IT/CS/Software/AI,1,2,2,0,0,3,2,1,0,2,1,3,3
+21,Female,Second Year,IT/CS/Software/AI,2,0,2,3,3,2,0,2,1,3,2,3,3
+20,Female,Fourth Year,IT/CS/Software/AI,0,1,2,1,3,2,0,0,3,2,3,0,3
+22,Male,Second Year,IT/CS/Software/AI,3,1,3,1,0,1,1,0,3,2,1,0,3
+18,Male,First Year,IT/CS/Software/AI,3,1,2,0,2,3,1,2,2,3,1,0,1
+22,Female,Second Year,IT/CS/Software/AI,2,3,3,0,3,1,0,1,0,3,3,3,1
+23,Male,Second Year,IT/CS/Software/AI,0,2,3,0,1,3,0,3,3,3,1,2,3
+19,Female,Fourth Year,IT/CS/Software/AI,3,1,0,1,3,2,0,1,1,3,3,3,3
+18,Male,Fourth Year,IT/CS/Software/AI,0,1,2,1,3,1,3,1,1,0,2,2,1
+20,Female,Second Year,IT/CS/Software/AI,2,3,1,0,3,1,3,1,1,0,0,3,2
+23,Male,Second Year,IT/CS/Software/AI,1,0,2,1,3,1,1,3,1,2,3,2,2
+18,Female,Second Year,IT/CS/Software/AI,3,2,2,3,3,0,3,3,1,2,3,3,2
+20,Male,Fourth Year,IT/CS/Software/AI,3,1,2,1,3,3,1,3,2,0,1,1,3
+22,Female,Second Year,IT/CS/Software/AI,2,2,3,3,3,0,1,1,3,3,0,3,3
+22,Male,Second Year,IT/CS/Software/AI,1,1,2,0,2,2,1,1,3,2,3,1,3
+18,Female,Second Year,IT/CS/Software/AI,2,3,2,2,1,3,1,0,3,3,0,0,3
+18,Male,Second Year,IT/CS/Software/AI,2,3,2,1,1,0,3,3,1,3,3,2,2
+24,Female,Second Year,IT/CS/Software/AI,1,2,1,1,1,2,3,1,2,3,3,2,0
+24,Male,Third Year,IT/CS/Software/AI,3,1,1,3,0,3,0,1,1,2,3,3,1
+21,Female,Second Year,IT/CS/Software/AI,2,2,3,0,1,3,3,1,3,3,2,0,3
+19,Female,Second Year,IT/CS/Software/AI,3,2,2,1,3,0,0,0,0,1,3,3,2
+22,Female,First Year,IT/CS/Software/AI,3,2,3,1,2,3,2,1,1,2,2,2,2
+18,Female,Fourth Year,IT/CS/Software/AI,2,2,1,0,3,2,1,0,1,2,3,3,3
+21,Male,Second Year,IT/CS/Software/AI,3,3,2,1,2,3,3,2,2,2,3,2,3
+23,Male,Fourth Year,IT/CS/Software/AI,1,1,3,2,2,1,1,3,0,3,3,3,1
+19,Male,Second Year,IT/CS/Software/AI,2,3,2,2,1,1,1,3,3,2,1,1,3
+19,Male,Fourth Year,IT/CS/Software/AI,2,1,2,0,3,3,3,2,1,1,1,3,3
+19,Female,Second Year,IT/CS/Software/AI,1,1,2,1,3,3,1,0,3,3,3,2,3
+20,Female,Third Year,IT/CS/Software/AI,3,1,2,1,1,1,1,1,3,3,1,3,3
+19,Female,Second Year,IT/CS/Software/AI,3,1,0,3,3,2,0,0,3,3,3,1,3
+19,Male,Fourth Year,IT/CS/Software/AI,2,2,3,2,2,3,3,1,0,2,3,2,1
+19,Male,Third Year,IT/CS/Software/AI,1,3,3,2,3,3,1,2,0,2,2,3,3
+24,Male,Second Year,IT/CS/Software/AI,3,2,2,0,0,2,1,2,2,2,3,0,3
+19,Male,Fourth Year,IT/CS/Software/AI,1,1,0,1,3,3,2,1,1,2,1,3,3
+18,Male,Second Year,IT/CS/Software/AI,3,2,3,3,1,3,3,0,1,1,1,3,3
+22,Male,Second Year,IT/CS/Software/AI,2,1,2,3,1,3,3,0,3,2,2,1,1
+21,Male,Third Year,IT/CS/Software/AI,2,0,2,2,2,2,1,2,2,3,0,3,2
+20,Male,First Year,IT/CS/Software/AI,3,2,1,3,3,2,2,1,1,3,2,1,3
+19,Male,First Year,IT/CS/Software/AI,1,2,3,1,3,3,1,1,3,2,2,2,2
+18,Male,Second Year,IT/CS/Software/AI,2,0,2,0,1,1,1,3,3,2,3,0,2
+23,Female,First Year,IT/CS/Software/AI,0,2,1,0,3,0,0,1,1,2,2,2,1
+19,Male,First Year,IT/CS/Software/AI,2,2,2,1,1,0,2,0,2,0,3,3,3
+18,Male,Second Year,IT/CS/Software/AI,0,1,1,2,0,3,2,3,2,3,1,2,3
+24,Female,Fourth Year,IT/CS/Software/AI,0,1,2,1,3,2,0,3,2,0,3,2,1
+19,Female,Second Year,IT/CS/Software/AI,1,2,0,0,0,1,3,1,2,3,0,0,2
+21,Male,Second Year,IT/CS/Software/AI,1,3,0,0,0,3,2,1,3,2,0,3,3
+22,Male,First Year,IT/CS/Software/AI,2,1,2,2,3,3,0,1,1,2,2,3,3
+22,Female,Fourth Year,IT/CS/Software/AI,2,3,0,3,1,0,2,0,2,3,1,3,3
+23,Male,Second Year,IT/CS/Software/AI,2,2,2,2,3,0,2,0,1,2,3,1,3
+18,Female,Third Year,IT/CS/Software/AI,3,3,2,2,3,1,2,0,2,2,0,1,2
+18,Male,Third Year,IT/CS/Software/AI,1,2,2,0,3,3,1,1,0,3,3,3,2
+18,Male,Fourth Year,IT/CS/Software/AI,2,0,3,0,3,1,2,2,0,3,0,3,1
+23,Female,Third Year,IT/CS/Software/AI,0,1,2,1,3,2,3,0,1,2,2,0,1
+19,Male,Fourth Year,IT/CS/Software/AI,2,3,2,0,2,3,2,0,1,3,0,2,3
+23,Female,First Year,IT/CS/Software/AI,1,2,3,1,1,0,1,3,2,0,0,3,2
+24,Male,Second Year,IT/CS/Software/AI,2,2,2,3,0,1,3,2,3,2,1,0,3
+21,Male,Second Year,IT/CS/Software/AI,2,2,1,2,3,2,1,0,2,3,0,3,1
+21,Male,Second Year,IT/CS/Software/AI,2,2,1,2,1,3,3,2,2,3,2,3,3
+22,Male,Second Year,IT/CS/Software/AI,0,2,3,1,2,3,3,0,1,3,1,3,1
+24,Male,Fourth Year,IT/CS/Software/AI,0,1,2,1,2,3,1,2,1,1,3,1,3
+22,Male,Second Year,IT/CS/Software/AI,1,2,2,1,1,1,3,0,1,3,1,1,3
+24,Female,First Year,IT/CS/Software/AI,0,1,3,1,3,3,0,3,0,2,2,0,3
+20,Male,Second Year,IT/CS/Software/AI,2,2,2,3,3,1,2,0,1,1,2,1,3
+21,Female,Second Year,IT/CS/Software/AI,2,3,1,2,1,3,2,2,2,3,0,3,3
+24,Female,First Year,IT/CS/Software/AI,1,1,2,1,0,0,3,0,3,0,2,1,3
+19,Female,Second Year,IT/CS/Software/AI,2,2,3,1,2,3,3,0,2,0,2,2,1
+22,Female,Second Year,IT/CS/Software/AI,1,2,3,2,3,3,1,2,1,1,1,2,2
+18,Male,Second Year,IT/CS/Software/AI,2,1,2,0,2,2,1,2,1,2,3,3,3
+21,Male,Second Year,IT/CS/Software/AI,2,1,2,1,3,3,1,3,1,2,1,1,2
+22,Female,Fourth Year,IT/CS/Software/AI,1,2,2,3,0,3,0,2,3,3,1,3,1
+24,Female,Second Year,IT/CS/Software/AI,2,2,2,1,1,1,2,3,2,2,1,3,3
+22,Male,Third Year,IT/CS/Software/AI,2,3,2,0,3,1,2,3,3,3,2,3,1
+19,Female,First Year,IT/CS/Software/AI,1,1,3,2,2,2,2,3,1,2,1,0,1
+24,Male,First Year,IT/CS/Software/AI,2,3,2,1,0,2,1,1,0,2,0,3,0
+23,Male,Second Year,IT/CS/Software/AI,2,1,1,0,3,1,2,0,2,0,3,2,3
+21,Female,Second Year,IT/CS/Software/AI,3,2,2,1,1,2,1,0,2,2,1,0,3
+22,Male,Second Year,IT/CS/Software/AI,0,2,1,2,0,2,1,0,1,2,0,1,2
+21,Female,Second Year,IT/CS/Software/AI,3,3,0,1,3,3,2,0,3,0,2,0,3
+22,Male,Second Year,IT/CS/Software/AI,1,3,2,0,3,2,0,1,2,3,1,1,3
+19,Female,Fourth Year,IT/CS/Software/AI,2,2,2,0,3,3,2,1,1,3,1,1,2
+21,Male,Third Year,IT/CS/Software/AI,3,2,3,1,2,0,1,2,2,3,3,0,3
+22,Female,Second Year,IT/CS/Software/AI,3,2,3,1,3,2,3,1,3,3,3,3,3
+22,Male,Second Year,IT/CS/Software/AI,2,0,1,2,1,0,2,2,2,3,0,0,3
+20,Male,Second Year,IT/CS/Software/AI,0,0,2,1,1,2,1,1,3,3,3,3,3
+22,Female,Second Year,IT/CS/Software/AI,2,0,1,0,1,2,3,0,2,2,2,3,3
+18,Male,Third Year,IT/CS/Software/AI,3,2,2,1,1,2,0,1,2,3,1,2,3
+21,Male,Third Year,IT/CS/Software/AI,3,1,3,3,3,0,2,0,3,3,1,1,1
+23,Male,Second Year,IT/CS/Software/AI,3,2,3,3,3,3,1,2,1,1,0,1,1
+20,Female,Third Year,IT/CS/Software/AI,2,3,2,2,1,3,3,3,2,0,1,0,3
+20,Female,Fourth Year,IT/CS/Software/AI,1,1,2,1,2,2,2,0,1,3,2,3,2
+21,Male,Second Year,IT/CS/Software/AI,2,3,2,0,1,3,2,0,1,2,2,0,1
+19,Female,First Year,IT/CS/Software/AI,3,3,1,1,3,1,1,0,1,0,2,3,3
+19,Female,Second Year,IT/CS/Software/AI,3,2,2,3,1,0,3,0,3,2,1,2,3
+22,Female,Second Year,IT/CS/Software/AI,1,2,2,0,0,3,2,1,2,2,2,0,2
+21,Female,First Year,IT/CS/Software/AI,0,2,1,2,3,1,3,0,1,1,3,3,3
+18,Male,Fourth Year,IT/CS/Software/AI,1,2,1,1,1,2,1,0,0,3,2,3,3
+21,Female,Fourth Year,IT/CS/Software/AI,2,1,2,0,1,3,3,2,3,1,0,3,3
+24,Female,Third Year,IT/CS/Software/AI,2,0,2,3,2,3,0,1,1,2,2,3,3
+18,Female,Fourth Year,IT/CS/Software/AI,0,0,0,1,3,1,2,0,0,2,0,1,2
+18,Male,First Year,IT/CS/Software/AI,0,2,1,3,3,2,2,3,3,2,0,1,3
+18,Male,Third Year,IT/CS/Software/AI,3,2,3,0,1,2,1,3,1,2,0,3,2
+19,Female,Second Year,IT/CS/Software/AI,3,0,3,2,1,3,2,2,1,2,1,2,2
+23,Male,Fourth Year,IT/CS/Software/AI,3,2,3,0,1,3,1,0,1,3,2,2,1
+18,Male,Second Year,IT/CS/Software/AI,2,2,1,2,0,1,3,1,3,2,1,2,3
+18,Male,Second Year,IT/CS/Software/AI,1,3,0,1,1,1,3,0,1,2,3,3,1
+19,Female,Third Year,IT/CS/Software/AI,2,3,1,3,3,3,0,2,3,2,0,3,2
+21,Female,Second Year,IT/CS/Software/AI,2,3,2,2,3,3,1,1,2,2,3,1,3
+22,Male,Third Year,IT/CS/Software/AI,3,0,0,2,3,0,0,1,0,3,3,1,3
+24,Male,Fourth Year,IT/CS/Software/AI,3,1,1,1,1,2,2,1,3,3,1,3,3
+24,Male,Second Year,IT/CS/Software/AI,1,3,2,1,0,0,1,1,3,2,3,1,2
+21,Male,Second Year,IT/CS/Software/AI,2,2,3,1,1,1,3,1,2,1,3,3,2
+18,Male,Third Year,IT/CS/Software/AI,3,3,3,0,0,3,1,0,1,2,0,2,2
+20,Male,Second Year,IT/CS/Software/AI,2,0,1,1,1,1,2,1,0,3,2,3,3
+22,Male,Third Year,IT/CS/Software/AI,3,1,2,2,1,1,3,0,0,1,1,3,3
+22,Male,Fourth Year,IT/CS/Software/AI,2,3,1,2,1,2,1,0,3,2,3,2,2
+21,Female,Fourth Year,IT/CS/Software/AI,1,2,1,2,3,2,0,0,0,3,1,1,0
+19,Female,Second Year,IT/CS/Software/AI,0,3,2,1,0,2,2,0,1,1,3,3,3
+24,Female,Second Year,IT/CS/Software/AI,1,2,2,2,3,3,0,1,0,0,1,1,3
+18,Male,Second Year,IT/CS/Software/AI,2,1,1,1,1,3,1,1,0,3,3,2,3
+18,Female,Second Year,IT/CS/Software/AI,2,3,1,1,0,1,3,1,2,3,1,0,2
+23,Male,Second Year,IT/CS/Software/AI,3,1,2,1,0,3,2,2,1,2,0,2,2
+19,Female,Second Year,IT/CS/Software/AI,1,2,1,1,2,1,2,0,1,0,3,3,1
+19,Male,Third Year,IT/CS/Software/AI,3,3,2,1,3,3,3,1,1,0,3,3,3
+22,Male,Third Year,IT/CS/Software/AI,3,1,2,1,2,3,1,1,1,1,3,1,1
+21,Female,Second Year,IT/CS/Software/AI,3,2,2,3,0,3,3,1,3,3,3,1,3
+22,Male,Fourth Year,IT/CS/Software/AI,2,1,2,3,3,3,1,0,1,3,1,1,2
+24,Female,Second Year,IT/CS/Software/AI,0,2,2,2,2,1,1,0,1,3,1,1,1
+20,Male,Fourth Year,IT/CS/Software/AI,1,0,1,3,3,2,0,1,1,2,3,0,3
+20,Male,Fourth Year,IT/CS/Software/AI,2,2,3,0,3,3,1,0,1,3,3,0,0
+19,Male,Second Year,IT/CS/Software/AI,1,1,1,2,1,3,1,1,2,0,1,3,1
+18,Male,Third Year,IT/CS/Software/AI,2,1,3,3,2,3,3,1,1,3,2,3,2
+22,Female,Fourth Year,IT/CS/Software/AI,2,3,2,0,1,2,3,2,2,3,1,3,3
+23,Male,Third Year,IT/CS/Software/AI,0,1,0,1,3,1,0,0,2,2,0,3,3
+22,Male,Second Year,IT/CS/Software/AI,3,1,2,1,0,2,2,1,3,2,1,0,3
+20,Male,Second Year,IT/CS/Software/AI,1,3,2,0,3,2,0,2,2,3,1,0,3
+19,Female,Fourth Year,IT/CS/Software/AI,2,2,1,2,3,0,3,2,1,0,3,3,3
+23,Male,Fourth Year,IT/CS/Software/AI,1,1,2,1,1,2,3,1,3,2,1,1,3
+21,Male,Third Year,IT/CS/Software/AI,2,1,1,3,1,2,2,0,0,1,2,0,2
+21,Male,Second Year,IT/CS/Software/AI,1,0,1,1,1,3,3,3,1,1,1,3,3
+22,Male,Fourth Year,IT/CS/Software/AI,1,3,2,2,3,3,1,2,2,3,1,3,3
+21,Female,Second Year,IT/CS/Software/AI,2,1,2,0,3,2,1,3,1,2,1,0,3
+20,Male,Second Year,IT/CS/Software/AI,1,2,1,2,0,3,2,0,0,2,1,2,2
+24,Male,Fourth Year,IT/CS/Software/AI,2,1,3,1,1,1,0,3,0,3,2,1,3
+22,Female,Fourth Year,IT/CS/Software/AI,2,2,2,3,2,3,1,1,0,1,1,3,3
+18,Female,Second Year,IT/CS/Software/AI,2,2,2,1,3,0,3,2,1,0,3,1,2
+21,Male,Second Year,IT/CS/Software/AI,3,1,2,3,3,1,2,1,1,0,1,3,3
+21,Female,Fourth Year,IT/CS/Software/AI,1,3,1,1,1,1,2,0,3,2,2,3,3
+24,Male,First Year,IT/CS/Software/AI,2,2,0,0,3,2,1,2,0,2,2,2,3
+21,Male,Second Year,IT/CS/Software/AI,2,1,0,0,2,1,3,0,2,2,0,3,2
+18,Female,First Year,IT/CS/Software/AI,2,2,3,1,1,1,1,2,3,2,0,1,2
+19,Male,Second Year,IT/CS/Software/AI,0,2,2,3,1,0,1,3,1,2,2,2,3
+22,Male,Second Year,IT/CS/Software/AI,2,2,2,0,3,3,1,1,2,3,3,1,3
+22,Male,Fourth Year,IT/CS/Software/AI,2,1,3,3,3,2,0,1,3,2,0,1,3
+19,Male,Second Year,IT/CS/Software/AI,1,2,2,3,3,2,3,1,1,2,3,2,3
+18,Female,Second Year,IT/CS/Software/AI,3,3,2,1,1,1,1,1,0,1,2,0,0
+19,Female,Second Year,IT/CS/Software/AI,3,0,2,0,3,1,1,3,2,2,0,1,3
+21,Male,Second Year,IT/CS/Software/AI,0,1,1,1,0,0,3,1,3,3,0,1,3
+22,Male,Fourth Year,IT/CS/Software/AI,1,1,1,1,1,0,0,1,1,0,0,1,2
+23,Female,Second Year,IT/CS/Software/AI,2,3,2,3,2,3,1,0,2,1,1,3,1
+20,Male,Second Year,IT/CS/Software/AI,2,1,1,0,1,3,1,2,1,1,2,0,2
+20,Male,Second Year,IT/CS/Software/AI,1,2,2,2,3,1,3,2,3,0,2,1,3
+22,Female,Fourth Year,IT/CS/Software/AI,1,1,2,1,3,3,3,1,3,1,0,0,3
+23,Female,Third Year,IT/CS/Software/AI,2,1,3,3,0,1,1,1,3,2,0,3,3
+18,Male,Fourth Year,IT/CS/Software/AI,1,2,2,2,3,1,0,2,3,3,1,3,3
+19,Female,Second Year,IT/CS/Software/AI,2,1,3,3,1,2,3,0,3,3,3,2,2
+20,Female,Third Year,IT/CS/Software/AI,1,3,2,3,1,3,2,1,0,0,2,3,2
+22,Female,Fourth Year,IT/CS/Software/AI,3,1,2,2,2,3,3,2,2,3,1,3,3
+24,Male,Fourth Year,IT/CS/Software/AI,2,2,2,1,2,0,0,1,2,0,1,3,2
+20,Male,Second Year,IT/CS/Software/AI,2,1,2,3,2,3,1,1,1,2,0,3,1
+21,Male,Second Year,IT/CS/Software/AI,2,3,1,0,1,2,1,1,2,0,3,2,3
+23,Male,Second Year,IT/CS/Software/AI,3,2,2,1,3,0,1,1,3,3,3,3,1
+21,Female,Second Year,IT/CS/Software/AI,1,1,1,0,3,0,2,2,1,1,3,3,2
+23,Male,Second Year,IT/CS/Software/AI,3,1,1,3,2,2,0,3,1,2,3,3,2
+20,Male,Second Year,IT/CS/Software/AI,1,0,2,1,2,2,1,1,0,0,0,0,2
+18,Male,Third Year,IT/CS/Software/AI,3,1,2,0,1,3,1,1,3,3,3,3,3
+21,Male,Second Year,IT/CS/Software/AI,2,1,1,0,2,3,0,0,2,2,1,1,2
+21,Female,Third Year,IT/CS/Software/AI,1,1,2,0,0,1,2,0,0,3,0,2,3
+24,Male,Second Year,IT/CS/Software/AI,3,0,2,0,2,2,1,1,3,1,1,2,3
+24,Female,Third Year,IT/CS/Software/AI,2,3,3,1,2,1,1,3,3,2,3,1,1
+23,Female,Second Year,IT/CS/Software/AI,2,2,0,3,1,1,3,3,3,1,3,0,1
+23,Male,Third Year,IT/CS/Software/AI,2,3,0,1,1,3,0,0,3,2,3,3,1
+23,Male,Fourth Year,IT/CS/Software/AI,1,2,2,1,3,3,1,1,2,1,3,3,1
+19,Female,Third Year,IT/CS/Software/AI,0,1,1,2,3,3,3,0,1,2,2,1,3
+24,Female,Second Year,IT/CS/Software/AI,1,1,1,0,1,0,2,2,3,3,0,1,1
+19,Female,Third Year,IT/CS/Software/AI,3,1,2,1,3,3,3,3,3,2,2,2,1
+21,Male,First Year,IT/CS/Software/AI,3,1,2,1,3,2,3,1,2,3,1,1,2
+21,Female,Second Year,IT/CS/Software/AI,2,2,2,1,1,3,2,3,3,2,1,3,3
+20,Male,Third Year,IT/CS/Software/AI,2,1,2,1,3,2,0,2,0,3,3,3,0
+18,Female,Third Year,IT/CS/Software/AI,1,0,2,3,3,1,1,2,1,1,3,2,1
+19,Female,Second Year,IT/CS/Software/AI,1,1,1,2,0,2,2,0,0,2,1,3,3
+24,Male,Second Year,IT/CS/Software/AI,1,3,2,3,1,3,2,1,0,1,3,0,2
+24,Male,Second Year,IT/CS/Software/AI,2,2,3,0,3,1,2,0,3,0,0,1,3
+19,Male,Second Year,IT/CS/Software/AI,1,1,2,2,3,0,1,0,2,1,2,0,2
+24,Male,First Year,IT/CS/Software/AI,2,3,1,1,3,2,2,0,1,1,3,1,3
+23,Male,Fourth Year,IT/CS/Software/AI,3,1,2,0,1,1,1,0,1,2,1,2,3
+20,Male,First Year,IT/CS/Software/AI,3,0,0,1,1,2,1,1,1,3,0,2,3
+19,Female,First Year,IT/CS/Software/AI,1,2,1,3,3,0,0,2,3,3,1,3,3
+18,Female,Second Year,IT/CS/Software/AI,1,1,1,2,3,2,2,1,0,2,0,3,3
+20,Male,Fourth Year,IT/CS/Software/AI,2,2,3,0,3,3,0,3,0,3,2,3,3
+19,Female,Third Year,IT/CS/Software/AI,2,1,1,1,1,2,2,2,0,3,1,3,3
+21,Female,Second Year,IT/CS/Software/AI,1,3,1,0,3,1,1,3,3,3,1,3,3
+20,Male,Second Year,IT/CS/Software/AI,3,2,2,2,3,1,3,3,1,2,2,3,0
+20,Male,First Year,IT/CS/Software/AI,3,2,2,3,3,3,1,1,1,2,1,2,3
+21,Male,Second Year,IT/CS/Software/AI,3,3,1,1,1,0,2,1,2,1,1,0,2
+22,Female,Second Year,IT/CS/Software/AI,1,2,2,1,0,1,3,1,3,3,0,3,3
+19,Male,Fourth Year,IT/CS/Software/AI,0,2,0,0,2,2,1,0,1,0,3,3,3
+19,Male,Fourth Year,IT/CS/Software/AI,2,3,2,3,1,0,1,1,1,2,3,3,2
+18,Female,Second Year,IT/CS/Software/AI,2,2,1,0,1,3,2,2,3,0,0,2,2
+22,Male,Second Year,IT/CS/Software/AI,2,1,2,1,1,3,0,2,3,1,3,3,2
+18,Female,Second Year,IT/CS/Software/AI,2,1,2,2,0,3,0,3,3,3,0,3,0
+24,Female,Second Year,IT/CS/Software/AI,2,1,2,1,2,3,2,1,2,2,1,3,3
+19,Female,Second Year,IT/CS/Software/AI,0,1,2,1,3,1,0,3,1,1,2,3,3
+21,Female,Second Year,IT/CS/Software/AI,3,1,3,3,3,2,2,2,3,2,0,2,1
+23,Male,Second Year,IT/CS/Software/AI,3,1,2,3,2,2,1,1,2,1,0,3,2
+21,Male,Second Year,IT/CS/Software/AI,1,2,1,1,0,3,1,2,2,1,1,3,2
+21,Female,Second Year,IT/CS/Software/AI,3,2,2,0,2,2,1,1,1,2,0,2,3
+19,Female,Second Year,IT/CS/Software/AI,1,0,3,0,3,0,0,1,1,1,3,2,1
+20,Female,Fourth Year,IT/CS/Software/AI,0,3,1,0,1,2,3,0,3,2,0,2,2
+21,Male,First Year,IT/CS/Software/AI,1,2,3,2,3,1,1,2,1,0,1,3,3
+21,Female,Second Year,IT/CS/Software/AI,2,2,2,3,1,2,3,0,0,2,3,3,1
+19,Female,Second Year,IT/CS/Software/AI,1,3,1,1,2,0,2,1,3,3,2,2,1
+22,Female,Second Year,IT/CS/Software/AI,3,2,0,3,3,3,0,2,3,3,1,3,1
+21,Male,Second Year,IT/CS/Software/AI,3,2,2,1,1,3,0,3,0,1,1,3,3
+20,Female,Third Year,IT/CS/Software/AI,2,1,2,0,1,2,2,0,0,3,1,2,2
+19,Male,Second Year,IT/CS/Software/AI,3,1,2,1,3,3,1,3,2,1,3,3,2
+22,Male,Second Year,IT/CS/Software/AI,1,0,1,2,1,2,1,2,1,3,3,0,0
+24,Female,Second Year,IT/CS/Software/AI,3,2,0,1,0,1,3,3,1,2,3,2,2
+22,Female,Second Year,IT/CS/Software/AI,1,1,3,1,2,3,3,1,3,2,2,3,2
+19,Male,Fourth Year,IT/CS/Software/AI,3,3,2,1,2,2,3,0,0,1,3,3,3
+18,Male,Second Year,IT/CS/Software/AI,2,0,1,1,1,3,1,1,1,2,1,3,2
+19,Male,Second Year,IT/CS/Software/AI,3,2,0,3,1,3,2,1,3,2,3,3,1
+19,Male,Second Year,IT/CS/Software/AI,0,2,2,0,3,3,3,0,0,1,0,3,2
+19,Male,Second Year,IT/CS/Software/AI,3,1,2,3,3,3,2,0,2,2,1,3,3
+18,Female,Third Year,IT/CS/Software/AI,2,2,3,1,1,3,3,1,2,3,3,1,3
+20,Female,Fourth Year,IT/CS/Software/AI,2,1,2,1,1,3,1,1,3,2,2,3,3
+20,Male,Second Year,IT/CS/Software/AI,3,1,1,0,1,1,1,2,0,3,1,3,2
+21,Male,Third Year,IT/CS/Software/AI,3,2,1,0,3,3,1,3,3,2,0,3,2
+22,Male,Third Year,IT/CS/Software/AI,2,2,2,2,2,0,2,0,1,2,0,3,3
+19,Male,Fourth Year,IT/CS/Software/AI,2,1,2,1,2,1,0,1,3,3,3,3,0
+18,Female,Second Year,IT/CS/Software/AI,3,2,3,1,3,1,2,3,1,1,0,1,3
+20,Male,Second Year,IT/CS/Software/AI,3,3,2,1,2,3,1,0,2,0,3,3,3
+24,Female,Second Year,IT/CS/Software/AI,2,1,3,2,1,3,3,1,3,3,3,3,1
+21,Male,Second Year,IT/CS/Software/AI,2,0,3,3,1,2,0,1,1,2,1,3,3
+19,Female,Third Year,IT/CS/Software/AI,3,3,2,2,2,3,3,3,2,0,3,3,1
+24,Male,Fourth Year,IT/CS/Software/AI,3,2,1,3,3,3,2,2,2,3,3,3,1
+24,Female,Second Year,IT/CS/Software/AI,0,1,3,0,1,3,2,3,1,2,0,1,3
+18,Female,First Year,IT/CS/Software/AI,3,2,1,3,3,3,3,3,2,3,1,0,3
+21,Female,Second Year,IT/CS/Software/AI,2,1,2,1,3,3,1,0,1,3,3,1,3
+19,Male,Second Year,IT/CS/Software/AI,2,3,2,0,1,1,1,1,2,1,1,3,3
+21,Female,Second Year,IT/CS/Software/AI,1,1,2,1,3,3,3,3,3,2,1,0,1
+19,Male,Third Year,IT/CS/Software/AI,0,2,2,3,0,1,3,0,3,2,0,1,3
+22,Male,Fourth Year,IT/CS/Software/AI,3,3,2,2,3,3,2,1,1,1,2,3,3
+21,Male,Second Year,IT/CS/Software/AI,1,0,3,0,3,1,0,3,1,0,0,3,1
+22,Male,Third Year,IT/CS/Software/AI,3,2,0,2,2,2,1,3,1,2,1,0,1
+20,Female,Second Year,IT/CS/Software/AI,3,2,1,2,3,3,0,0,2,0,3,3,3
+22,Female,Third Year,IT/CS/Software/AI,2,2,2,3,1,1,1,2,3,2,1,1,3
+24,Male,Second Year,IT/CS/Software/AI,2,3,2,1,3,1,0,1,3,1,2,3,3
+18,Male,Second Year,IT/CS/Software/AI,1,3,0,0,1,3,3,1,0,2,3,3,2
+22,Male,Second Year,IT/CS/Software/AI,3,2,1,3,3,3,1,1,0,2,1,2,3
+22,Male,Second Year,IT/CS/Software/AI,1,0,2,0,0,3,3,2,2,2,3,0,2
+21,Male,Fourth Year,IT/CS/Software/AI,3,1,2,3,3,3,1,1,0,2,0,1,3
+24,Female,Second Year,IT/CS/Software/AI,0,3,2,3,3,3,2,0,1,1,3,3,3
+19,Female,Fourth Year,IT/CS/Software/AI,2,1,2,0,3,1,1,0,3,2,1,0,2
+19,Male,First Year,IT/CS/Software/AI,3,1,1,0,3,3,1,1,1,3,2,3,3
+20,Male,Third Year,IT/CS/Software/AI,1,1,1,2,0,2,1,2,3,3,2,2,3
+19,Female,Second Year,IT/CS/Software/AI,3,1,2,1,1,0,2,0,1,2,2,3,3
+24,Female,Fourth Year,IT/CS/Software/AI,0,3,0,1,2,3,2,0,1,0,3,1,3
+23,Female,Second Year,IT/CS/Software/AI,3,3,2,3,2,3,2,1,0,1,0,3,2
+19,Female,First Year,IT/CS/Software/AI,2,1,3,1,0,3,1,3,0,2,3,3,3
+21,Female,Fourth Year,IT/CS/Software/AI,1,3,2,0,3,0,3,1,1,3,2,0,3
+20,Male,Second Year,IT/CS/Software/AI,1,1,2,0,3,1,1,1,0,2,3,3,3
+24,Male,Third Year,IT/CS/Software/AI,3,0,3,3,3,3,1,2,1,2,1,1,2
+18,Female,Second Year,IT/CS/Software/AI,1,2,2,2,3,1,0,1,3,1,3,3,1
+23,Male,Second Year,IT/CS/Software/AI,3,1,3,2,3,3,1,2,0,1,0,1,1
+20,Female,Third Year,IT/CS/Software/AI,0,1,2,1,2,2,2,1,1,2,3,3,2
+18,Male,First Year,IT/CS/Software/AI,3,2,2,0,1,3,3,0,1,3,1,3,1
+22,Female,Second Year,IT/CS/Software/AI,0,2,2,2,1,0,2,0,3,3,3,2,1
+20,Male,First Year,IT/CS/Software/AI,2,1,1,0,3,1,1,3,3,1,1,2,3
+18,Male,Third Year,IT/CS/Software/AI,2,2,2,2,2,3,1,3,3,3,2,3,3
+23,Male,Second Year,IT/CS/Software/AI,3,1,1,3,2,2,1,0,2,0,0,3,0
+24,Male,Fourth Year,IT/CS/Software/AI,3,1,3,3,0,3,2,0,1,2,3,1,0
+23,Male,Second Year,IT/CS/Software/AI,3,2,3,1,3,3,3,1,2,2,2,0,2
+23,Male,Second Year,IT/CS/Software/AI,1,1,2,2,0,3,2,0,0,2,3,2,0
+21,Male,Second Year,IT/CS/Software/AI,3,0,1,1,3,3,3,3,1,2,1,1,3
+22,Female,Second Year,IT/CS/Software/AI,2,0,2,2,3,0,2,1,1,3,2,1,1
+21,Female,Second Year,IT/CS/Software/AI,2,0,2,1,1,2,1,1,3,3,1,1,0
+18,Female,Third Year,IT/CS/Software/AI,2,1,2,3,2,3,1,0,1,3,3,1,3
+20,Female,Fourth Year,IT/CS/Software/AI,2,1,1,1,3,2,2,1,1,3,3,3,1
+24,Male,Second Year,IT/CS/Software/AI,2,2,3,2,3,2,3,1,3,3,1,2,3
+24,Female,Third Year,IT/CS/Software/AI,3,2,2,0,3,3,1,3,3,1,3,0,1
+24,Female,Second Year,IT/CS/Software/AI,2,3,3,0,0,3,0,2,3,1,1,3,3
+19,Female,Second Year,IT/CS/Software/AI,2,1,2,0,3,1,1,3,1,3,1,1,1
+19,Male,Second Year,IT/CS/Software/AI,2,1,0,2,3,3,3,3,1,2,1,3,3
+24,Male,Second Year,IT/CS/Software/AI,3,1,1,2,3,3,3,0,1,3,1,1,3
+24,Female,Second Year,IT/CS/Software/AI,3,2,1,1,0,2,1,3,0,3,2,3,2
+20,Male,Third Year,IT/CS/Software/AI,3,3,2,2,3,2,1,0,0,3,3,0,3
+21,Female,Fourth Year,Natural Sciences/Social Sciences,3,1,3,0,1,2,2,3,1,2,2,1,0
+22,Female,Second Year,Natural Sciences/Social Sciences,3,3,2,2,2,3,3,0,3,3,0,0,3
+22,Female,Second Year,Natural Sciences/Social Sciences,1,1,2,1,2,2,2,1,0,3,2,2,1
+21,Male,Third Year,Natural Sciences/Social Sciences,3,1,0,2,1,2,3,2,0,3,0,2,2
+22,Female,Third Year,Natural Sciences/Social Sciences,2,1,2,2,0,2,1,1,3,0,1,2,3
+20,Male,Fourth Year,Natural Sciences/Social Sciences,1,3,1,2,2,3,3,3,3,1,1,1,2
+23,Female,Second Year,Natural Sciences/Social Sciences,2,1,1,0,2,3,1,0,2,1,3,2,3
+24,Female,Third Year,Natural Sciences/Social Sciences,2,0,2,1,0,3,1,2,1,3,3,2,1
+22,Male,Third Year,Natural Sciences/Social Sciences,1,3,1,1,0,0,2,2,0,3,0,3,1
+22,Male,Fourth Year,Natural Sciences/Social Sciences,1,1,3,1,1,1,3,3,3,1,1,1,3
+22,Female,Second Year,Natural Sciences/Social Sciences,2,1,1,1,0,2,3,2,0,3,2,3,3
+18,Female,Fourth Year,Natural Sciences/Social Sciences,3,0,1,2,3,3,3,2,1,2,1,1,3
+21,Female,Third Year,Natural Sciences/Social Sciences,1,0,3,2,1,0,1,3,0,2,1,3,3
+18,Male,Fourth Year,Natural Sciences/Social Sciences,2,3,3,2,1,1,3,1,3,3,0,3,1
+19,Female,Second Year,Natural Sciences/Social Sciences,3,1,1,3,0,3,3,0,2,3,3,2,2
+23,Female,Third Year,Natural Sciences/Social Sciences,3,1,1,2,1,2,2,0,1,2,0,2,1
+21,Female,Fourth Year,Natural Sciences/Social Sciences,3,2,1,2,1,3,3,2,1,3,2,3,3
+20,Female,Second Year,Natural Sciences/Social Sciences,3,1,1,1,2,1,0,3,3,1,0,3,3
+21,Female,Fourth Year,Natural Sciences/Social Sciences,1,3,2,0,3,2,2,3,0,1,2,3,2
+23,Female,Second Year,Natural Sciences/Social Sciences,3,3,1,1,2,3,2,3,2,3,1,3,2
+21,Female,Second Year,Natural Sciences/Social Sciences,3,2,3,3,0,0,2,1,0,0,1,3,3
+24,Female,Fourth Year,Natural Sciences/Social Sciences,1,0,2,0,1,3,2,2,2,2,1,1,3
+19,Female,Third Year,Natural Sciences/Social Sciences,3,1,1,2,0,3,2,3,0,3,0,2,0
+24,Male,Second Year,Natural Sciences/Social Sciences,2,1,2,1,0,3,2,1,0,2,2,3,1
+18,Female,Third Year,Natural Sciences/Social Sciences,2,0,2,2,3,0,1,1,1,1,1,2,2
+21,Male,Second Year,Natural Sciences/Social Sciences,1,3,3,2,3,2,1,1,0,3,2,2,2
+21,Male,Fourth Year,Natural Sciences/Social Sciences,3,1,2,0,1,3,2,3,1,3,0,2,1
+21,Female,Fourth Year,Natural Sciences/Social Sciences,0,2,1,0,1,1,3,3,0,2,2,1,3
+19,Female,First Year,Natural Sciences/Social Sciences,3,0,2,2,1,3,2,0,0,2,0,0,2
+20,Male,Third Year,Natural Sciences/Social Sciences,3,3,1,0,0,1,3,1,0,2,1,2,3
+21,Female,Third Year,Natural Sciences/Social Sciences,3,1,3,1,2,1,3,2,0,2,1,1,2
+19,Female,Second Year,Natural Sciences/Social Sciences,1,1,1,3,1,1,2,1,0,2,1,2,2
+23,Female,Second Year,Natural Sciences/Social Sciences,2,1,2,1,2,3,0,3,0,3,1,3,3
+21,Female,Fourth Year,Natural Sciences/Social Sciences,3,1,2,2,2,2,2,1,1,3,0,3,3
+18,Female,Fourth Year,Natural Sciences/Social Sciences,1,2,1,2,2,2,1,3,3,2,1,3,2
+19,Female,Fourth Year,Natural Sciences/Social Sciences,2,0,1,1,2,3,3,1,1,3,0,3,3
+18,Female,Second Year,Natural Sciences/Social Sciences,3,3,2,1,0,1,2,3,0,0,3,1,0
+22,Female,Fourth Year,Natural Sciences/Social Sciences,2,2,1,1,3,2,0,1,0,0,3,1,2
+19,Female,Second Year,Natural Sciences/Social Sciences,2,3,3,1,0,2,2,3,1,1,1,2,2
+21,Female,Second Year,Natural Sciences/Social Sciences,1,2,1,1,1,3,2,3,1,1,0,3,2
+24,Male,Second Year,Natural Sciences/Social Sciences,2,0,2,1,3,3,2,3,1,3,3,2,0
+18,Female,Fourth Year,Natural Sciences/Social Sciences,3,0,2,2,0,2,2,3,0,2,2,3,2
+24,Female,First Year,Natural Sciences/Social Sciences,1,3,3,1,3,2,2,3,1,3,3,3,2
+23,Female,First Year,Natural Sciences/Social Sciences,2,2,0,1,3,3,1,3,1,3,2,3,1
+18,Female,Third Year,Natural Sciences/Social Sciences,3,2,2,0,2,0,2,3,1,3,1,0,3
+23,Female,First Year,Natural Sciences/Social Sciences,3,2,2,1,2,2,3,0,0,1,0,3,1
+21,Female,Fourth Year,Natural Sciences/Social Sciences,3,3,2,1,1,3,0,0,0,1,3,2,2
+18,Female,Second Year,Natural Sciences/Social Sciences,1,0,1,1,3,3,2,3,1,0,2,3,3
+18,Female,Third Year,Natural Sciences/Social Sciences,2,1,1,0,2,2,2,1,3,0,2,2,1
+22,Female,Second Year,Natural Sciences/Social Sciences,3,2,1,2,3,2,2,2,0,2,2,3,1
+24,Female,Fourth Year,Natural Sciences/Social Sciences,0,1,1,1,2,2,1,0,0,2,2,2,3
+19,Female,Fourth Year,Natural Sciences/Social Sciences,3,0,2,2,3,3,2,3,1,3,1,2,1
+24,Male,Fourth Year,Natural Sciences/Social Sciences,2,2,1,2,1,2,3,2,1,2,2,3,3
+24,Female,Second Year,Natural Sciences/Social Sciences,2,0,1,1,2,3,2,3,1,1,1,3,2
+21,Female,Fourth Year,Natural Sciences/Social Sciences,1,3,2,2,3,2,3,3,1,2,3,1,3
+21,Male,Third Year,Natural Sciences/Social Sciences,3,2,2,2,2,2,2,2,1,2,0,3,3
+20,Male,Second Year,Natural Sciences/Social Sciences,1,3,2,1,1,2,3,3,0,2,1,2,1
+22,Female,Fourth Year,Natural Sciences/Social Sciences,1,0,1,2,0,3,3,3,3,2,1,1,3
+20,Female,Fourth Year,Natural Sciences/Social Sciences,3,3,1,0,1,0,1,2,1,3,0,3,1
+21,Male,Fourth Year,Natural Sciences/Social Sciences,1,2,1,2,2,3,0,3,1,3,0,3,2
+20,Female,Fourth Year,Natural Sciences/Social Sciences,3,3,1,2,2,2,3,1,0,3,0,2,3
+23,Male,Fourth Year,Natural Sciences/Social Sciences,2,3,1,1,1,3,3,3,3,2,1,2,2
+24,Male,Second Year,Natural Sciences/Social Sciences,0,0,1,3,1,2,0,1,2,3,1,3,1
+18,Female,Second Year,Natural Sciences/Social Sciences,1,2,1,2,2,1,2,3,1,2,0,2,3
+19,Female,Third Year,Natural Sciences/Social Sciences,1,0,2,2,3,2,1,2,3,1,1,2,1
+23,Female,Fourth Year,Natural Sciences/Social Sciences,3,1,3,2,2,1,2,3,1,3,2,1,1
+21,Female,Second Year,Natural Sciences/Social Sciences,1,2,2,1,1,3,3,1,0,2,0,2,3
+20,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,2,2,1,2,3,2,2,1,0,1,2
+21,Female,Second Year,Natural Sciences/Social Sciences,2,1,2,1,2,1,3,3,0,3,1,3,1
+22,Male,First Year,Natural Sciences/Social Sciences,1,2,2,2,1,1,3,1,2,2,1,3,3
+23,Male,Fourth Year,Natural Sciences/Social Sciences,3,0,1,3,3,1,3,2,2,0,1,3,1
+19,Female,Second Year,Natural Sciences/Social Sciences,0,1,1,1,2,1,3,0,2,3,1,3,3
+23,Male,Fourth Year,Natural Sciences/Social Sciences,3,2,1,2,3,0,3,3,1,2,2,3,2
+21,Male,Fourth Year,Natural Sciences/Social Sciences,3,1,1,0,2,3,1,2,1,0,3,1,2
+24,Male,Second Year,Natural Sciences/Social Sciences,2,3,1,0,1,2,3,3,1,0,0,0,1
+22,Female,First Year,Natural Sciences/Social Sciences,0,1,3,2,3,2,3,1,1,3,1,0,1
+18,Female,Second Year,Natural Sciences/Social Sciences,1,2,2,2,1,3,3,2,1,1,2,1,2
+18,Female,First Year,Natural Sciences/Social Sciences,3,0,1,0,0,1,2,3,1,0,1,2,1
+23,Female,Fourth Year,Natural Sciences/Social Sciences,2,3,2,1,2,3,0,1,0,2,1,1,0
+23,Male,First Year,Natural Sciences/Social Sciences,3,1,3,0,2,3,2,1,0,3,2,1,3
+21,Female,Second Year,Natural Sciences/Social Sciences,3,3,1,2,2,3,2,3,1,2,0,2,3
+22,Female,Second Year,Natural Sciences/Social Sciences,3,3,1,1,2,0,2,1,0,2,3,0,2
+21,Female,Fourth Year,Natural Sciences/Social Sciences,3,3,2,1,3,3,2,2,1,1,2,1,3
+23,Male,Fourth Year,Natural Sciences/Social Sciences,2,2,1,2,1,1,2,3,3,1,1,2,3
+20,Male,Second Year,Natural Sciences/Social Sciences,2,3,1,2,0,2,0,1,2,2,1,2,1
+20,Female,Third Year,Natural Sciences/Social Sciences,2,1,1,1,0,3,3,2,0,1,2,2,3
+21,Male,Fourth Year,Natural Sciences/Social Sciences,3,2,2,3,0,2,2,3,1,2,1,2,3
+19,Male,Fourth Year,Natural Sciences/Social Sciences,2,2,2,0,3,2,0,2,0,3,1,3,2
+19,Female,Fourth Year,Natural Sciences/Social Sciences,0,2,0,0,2,3,3,1,1,2,0,3,3
+21,Female,Fourth Year,Natural Sciences/Social Sciences,2,3,0,1,1,1,1,0,1,3,1,3,3
+23,Female,Second Year,Natural Sciences/Social Sciences,1,2,1,1,1,3,2,1,1,3,2,3,2
+20,Female,Second Year,Natural Sciences/Social Sciences,2,1,2,3,3,3,3,1,2,3,1,1,1
+24,Female,Fourth Year,Natural Sciences/Social Sciences,2,2,2,1,0,2,2,2,3,3,1,0,2
+19,Female,Second Year,Natural Sciences/Social Sciences,3,3,2,1,2,3,3,3,0,2,1,3,0
+22,Female,Fourth Year,Natural Sciences/Social Sciences,3,1,2,0,3,3,3,1,0,3,1,1,3
+18,Female,Fourth Year,Natural Sciences/Social Sciences,3,1,2,0,2,2,3,1,1,2,1,1,2
+19,Male,Second Year,Natural Sciences/Social Sciences,2,3,2,1,0,2,0,0,1,3,1,1,2
+22,Female,Second Year,Natural Sciences/Social Sciences,3,1,2,1,2,3,0,3,0,3,2,2,1
+18,Male,First Year,Natural Sciences/Social Sciences,2,3,2,3,0,3,2,3,1,2,1,3,3
+21,Female,Fourth Year,Natural Sciences/Social Sciences,0,1,1,0,1,2,3,3,1,1,3,1,1
+19,Male,Fourth Year,Natural Sciences/Social Sciences,3,2,3,1,3,2,2,1,0,2,0,3,3
+21,Male,Fourth Year,Natural Sciences/Social Sciences,1,2,1,1,2,1,2,1,1,1,0,3,3
+22,Male,Fourth Year,Natural Sciences/Social Sciences,3,2,1,1,0,3,1,1,1,2,1,1,2
+18,Female,Second Year,Natural Sciences/Social Sciences,1,0,2,0,3,2,3,2,1,2,2,3,2
+23,Female,Fourth Year,Natural Sciences/Social Sciences,1,1,2,2,0,3,0,2,3,3,2,0,3
+18,Female,Fourth Year,Natural Sciences/Social Sciences,2,0,3,0,3,2,0,2,1,3,2,2,2
+24,Female,First Year,Natural Sciences/Social Sciences,3,1,1,2,3,1,3,0,2,3,0,2,3
+19,Male,Fourth Year,Natural Sciences/Social Sciences,0,2,2,1,0,3,2,2,1,3,1,3,1
+23,Female,Second Year,Natural Sciences/Social Sciences,3,3,2,1,2,2,2,3,1,3,1,1,1
+19,Female,Fourth Year,Natural Sciences/Social Sciences,2,2,1,0,1,3,1,3,0,3,2,1,3
+19,Female,Second Year,Natural Sciences/Social Sciences,0,2,3,1,3,1,0,1,1,3,2,3,3
+19,Female,Second Year,Natural Sciences/Social Sciences,2,1,2,2,0,2,3,3,1,3,1,2,1
+23,Female,Fourth Year,Natural Sciences/Social Sciences,1,1,3,0,0,2,3,2,0,1,3,3,2
+19,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,2,1,0,1,3,3,0,3,1,2,2
+20,Female,Fourth Year,Natural Sciences/Social Sciences,3,2,2,1,3,3,3,1,0,2,3,3,3
+23,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,1,1,3,1,2,1,3,2,1,3,2
+22,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,1,0,3,3,3,1,1,2,2,3,1
+19,Male,Fourth Year,Natural Sciences/Social Sciences,3,3,2,1,3,2,3,3,1,2,0,3,3
+22,Female,Third Year,Natural Sciences/Social Sciences,1,1,1,0,0,2,3,2,0,2,1,1,1
+23,Male,Second Year,Natural Sciences/Social Sciences,2,2,1,1,1,1,2,1,1,1,0,3,3
+23,Female,Fourth Year,Natural Sciences/Social Sciences,2,3,2,1,1,3,2,0,0,3,1,2,3
+23,Female,Fourth Year,Natural Sciences/Social Sciences,3,3,2,0,1,3,2,3,3,3,2,2,2
+23,Female,Fourth Year,Natural Sciences/Social Sciences,2,0,0,0,3,3,3,3,1,3,0,0,3
+22,Female,Second Year,Natural Sciences/Social Sciences,2,3,1,3,3,1,2,2,0,2,2,2,3
+21,Male,Fourth Year,Natural Sciences/Social Sciences,2,3,1,0,2,1,3,1,0,3,1,2,2
+24,Male,Fourth Year,Natural Sciences/Social Sciences,3,1,3,0,2,3,2,2,0,2,2,3,3
+21,Male,Fourth Year,Natural Sciences/Social Sciences,2,3,0,0,2,1,1,3,1,2,0,2,3
+20,Female,Second Year,Natural Sciences/Social Sciences,3,3,2,0,0,3,0,1,3,1,2,1,3
+21,Female,Fourth Year,Natural Sciences/Social Sciences,3,2,2,1,2,1,3,3,1,1,1,1,3
+18,Female,Third Year,Natural Sciences/Social Sciences,1,2,1,0,1,3,2,0,1,2,1,3,2
+23,Male,Third Year,Natural Sciences/Social Sciences,1,3,1,2,1,2,0,1,1,0,1,2,3
+21,Female,Fourth Year,Natural Sciences/Social Sciences,3,3,1,0,2,1,0,3,0,2,2,2,0
+20,Female,Second Year,Natural Sciences/Social Sciences,3,2,2,1,2,1,0,3,0,1,3,3,1
+20,Male,Second Year,Natural Sciences/Social Sciences,3,2,2,2,3,2,3,2,0,2,1,1,3
+19,Female,Second Year,Natural Sciences/Social Sciences,1,1,2,3,1,3,0,3,0,3,1,1,1
+18,Female,Second Year,Natural Sciences/Social Sciences,0,1,2,1,0,2,2,1,0,3,2,3,2
+21,Female,Third Year,Natural Sciences/Social Sciences,1,1,2,0,3,3,3,2,2,3,1,0,3
+19,Female,First Year,Natural Sciences/Social Sciences,3,3,0,1,2,3,2,2,2,3,0,3,1
+24,Female,Third Year,Natural Sciences/Social Sciences,2,1,1,2,0,2,2,3,1,0,0,2,2
+23,Female,Fourth Year,Natural Sciences/Social Sciences,1,2,1,1,0,1,0,3,1,2,1,3,2
+19,Female,Fourth Year,Natural Sciences/Social Sciences,1,1,1,3,1,3,2,2,0,3,1,3,2
+21,Male,Second Year,Natural Sciences/Social Sciences,3,3,1,1,1,2,3,0,3,2,1,2,1
+18,Male,Second Year,Natural Sciences/Social Sciences,1,1,1,1,1,2,2,3,1,3,0,1,3
+18,Male,Fourth Year,Natural Sciences/Social Sciences,2,3,1,0,0,1,0,1,2,3,2,3,1
+20,Female,Second Year,Natural Sciences/Social Sciences,2,3,1,2,3,2,1,2,0,3,2,1,3
+22,Male,Fourth Year,Natural Sciences/Social Sciences,3,0,2,1,2,1,0,1,1,2,1,2,1
+18,Female,Fourth Year,Natural Sciences/Social Sciences,3,2,1,3,2,3,3,1,0,1,1,3,1
+23,Male,Fourth Year,Natural Sciences/Social Sciences,3,2,2,2,2,0,3,2,0,2,2,2,2
+23,Female,First Year,Natural Sciences/Social Sciences,2,1,3,2,0,3,3,0,2,2,2,3,1
+19,Male,Fourth Year,Natural Sciences/Social Sciences,1,2,1,2,2,2,3,3,0,3,3,2,2
+22,Female,Second Year,Natural Sciences/Social Sciences,3,1,1,1,2,3,1,3,1,0,0,1,1
+24,Female,Second Year,Natural Sciences/Social Sciences,2,3,2,2,2,3,2,1,0,3,0,1,3
+21,Male,First Year,Natural Sciences/Social Sciences,3,3,1,3,1,2,2,3,2,2,3,1,1
+22,Female,Fourth Year,Natural Sciences/Social Sciences,1,2,2,1,3,1,3,2,1,2,2,1,2
+23,Female,Fourth Year,Natural Sciences/Social Sciences,3,2,1,2,0,3,3,3,0,2,1,3,2
+21,Male,Second Year,Natural Sciences/Social Sciences,1,3,1,2,3,3,2,0,1,1,0,1,1
+21,Male,Second Year,Natural Sciences/Social Sciences,1,3,1,1,2,2,1,1,0,2,1,1,3
+21,Female,Second Year,Natural Sciences/Social Sciences,3,3,2,2,1,3,1,2,1,3,0,3,3
+22,Female,Second Year,Natural Sciences/Social Sciences,1,1,3,2,1,3,2,3,0,2,1,3,3
+18,Female,Fourth Year,Natural Sciences/Social Sciences,3,2,3,0,0,3,2,1,0,0,1,2,2
+20,Male,Fourth Year,Natural Sciences/Social Sciences,3,1,2,0,3,3,1,2,1,3,2,2,1
+19,Female,First Year,Natural Sciences/Social Sciences,1,3,1,1,1,1,3,3,2,2,2,3,3
+22,Female,Third Year,Natural Sciences/Social Sciences,1,0,2,3,3,2,3,1,1,3,1,3,2
+21,Male,Second Year,Natural Sciences/Social Sciences,1,2,2,2,1,2,2,3,0,2,1,2,3
+18,Female,Third Year,Natural Sciences/Social Sciences,1,2,2,1,0,3,2,0,0,3,1,3,3
+18,Female,Second Year,Natural Sciences/Social Sciences,1,3,1,1,2,3,2,0,0,2,1,3,3
+24,Female,Fourth Year,Natural Sciences/Social Sciences,3,1,3,2,1,1,2,2,1,2,2,0,2
+21,Female,Second Year,Natural Sciences/Social Sciences,3,3,1,3,2,2,3,2,1,3,1,3,1
+24,Female,Second Year,Natural Sciences/Social Sciences,1,0,3,1,1,2,2,3,0,3,1,2,1
+19,Male,Fourth Year,Natural Sciences/Social Sciences,2,3,2,0,0,1,2,0,0,3,0,3,1
+18,Female,First Year,Natural Sciences/Social Sciences,3,2,0,1,1,2,1,3,3,0,2,1,3
+19,Female,First Year,Natural Sciences/Social Sciences,3,3,1,3,2,3,2,2,1,3,1,3,1
+19,Female,Fourth Year,Natural Sciences/Social Sciences,3,3,2,0,2,3,2,1,3,2,2,3,2
+21,Male,Second Year,Natural Sciences/Social Sciences,1,3,1,2,0,1,1,2,2,3,2,1,1
+19,Male,Second Year,Natural Sciences/Social Sciences,2,2,1,1,1,2,3,3,1,3,1,1,1
+18,Female,First Year,Natural Sciences/Social Sciences,3,3,1,2,2,1,0,1,1,2,1,3,3
+21,Female,First Year,Natural Sciences/Social Sciences,3,2,1,0,1,3,3,3,1,3,1,3,2
+23,Female,Second Year,Natural Sciences/Social Sciences,1,3,3,2,2,2,0,2,0,3,1,0,3
+22,Male,Fourth Year,Natural Sciences/Social Sciences,1,3,3,0,3,2,2,1,2,1,1,2,3
+22,Female,Third Year,Natural Sciences/Social Sciences,1,1,1,1,1,3,1,2,1,1,2,2,1
+24,Female,Fourth Year,Natural Sciences/Social Sciences,3,0,1,0,1,2,3,2,3,3,2,3,1
+22,Female,Fourth Year,Natural Sciences/Social Sciences,1,1,3,2,1,2,2,1,0,3,1,1,3
+24,Female,Fourth Year,Natural Sciences/Social Sciences,3,1,2,1,2,2,2,2,1,2,2,3,1
+20,Female,Second Year,Natural Sciences/Social Sciences,3,3,0,1,3,1,2,1,1,1,3,3,2
+21,Female,Fourth Year,Natural Sciences/Social Sciences,2,3,2,1,1,2,2,0,1,1,2,2,0
+22,Male,Third Year,Natural Sciences/Social Sciences,2,2,1,0,2,3,3,1,1,2,0,2,2
+21,Male,Fourth Year,Natural Sciences/Social Sciences,3,3,2,3,3,2,1,3,0,2,0,3,3
+18,Male,Second Year,Natural Sciences/Social Sciences,3,3,2,1,3,2,0,0,1,2,1,2,3
+21,Male,Fourth Year,Natural Sciences/Social Sciences,1,2,1,2,1,2,3,3,0,3,1,2,3
+20,Male,First Year,Natural Sciences/Social Sciences,1,3,2,1,1,0,3,3,1,2,1,2,3
+19,Male,Fourth Year,Natural Sciences/Social Sciences,0,2,1,1,0,2,1,3,0,1,1,2,3
+21,Female,Second Year,Natural Sciences/Social Sciences,1,1,3,2,1,2,3,3,2,3,2,1,2
+20,Female,Second Year,Natural Sciences/Social Sciences,1,2,1,1,2,3,3,2,1,2,2,1,3
+21,Female,First Year,Natural Sciences/Social Sciences,2,1,3,1,3,3,2,3,1,3,1,1,1
+18,Female,First Year,Natural Sciences/Social Sciences,1,3,2,2,3,3,1,1,3,3,0,1,3
+19,Female,Second Year,Natural Sciences/Social Sciences,0,1,3,0,2,3,0,3,0,3,1,2,3
+22,Female,Fourth Year,Natural Sciences/Social Sciences,1,2,1,3,3,1,3,3,1,1,1,3,2
+19,Female,Fourth Year,Natural Sciences/Social Sciences,1,2,1,1,3,3,3,3,0,3,3,3,3
+18,Male,Second Year,Natural Sciences/Social Sciences,3,1,2,0,3,3,2,3,3,3,3,3,1
+23,Male,Second Year,Natural Sciences/Social Sciences,1,3,1,3,1,1,3,1,2,0,3,3,3
+19,Female,Third Year,Natural Sciences/Social Sciences,3,3,2,0,1,3,1,3,0,3,2,2,2
+21,Female,Fourth Year,Natural Sciences/Social Sciences,1,0,1,1,1,3,0,2,1,3,3,3,3
+22,Female,First Year,Natural Sciences/Social Sciences,3,2,3,3,1,1,3,3,0,2,2,3,3
+23,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,3,1,2,3,3,3,0,3,0,3,1
+23,Female,Second Year,Natural Sciences/Social Sciences,1,2,2,0,3,1,3,1,2,2,1,1,2
+23,Male,Second Year,Natural Sciences/Social Sciences,2,3,2,3,2,1,2,1,0,3,1,2,3
+23,Male,Second Year,Natural Sciences/Social Sciences,2,2,2,1,3,0,2,0,0,0,2,2,3
+24,Female,Second Year,Natural Sciences/Social Sciences,1,3,1,1,2,1,2,1,0,0,1,3,2
+24,Male,Second Year,Natural Sciences/Social Sciences,2,3,2,3,3,1,3,2,1,3,1,1,0
+23,Male,Second Year,Natural Sciences/Social Sciences,2,2,1,0,2,3,3,3,1,1,1,3,1
+20,Female,Third Year,Natural Sciences/Social Sciences,2,3,3,3,3,2,3,2,0,3,1,1,3
+19,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,2,1,3,1,2,3,1,3,2,2,3
+20,Male,First Year,Natural Sciences/Social Sciences,0,0,2,0,2,3,2,1,1,3,1,1,3
+21,Male,Second Year,Natural Sciences/Social Sciences,0,0,3,2,0,2,3,2,1,3,1,2,0
+21,Female,Fourth Year,Natural Sciences/Social Sciences,1,0,2,0,1,2,0,3,0,3,1,3,1
+21,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,1,1,2,1,0,1,3,2,1,1,3
+24,Female,Second Year,Natural Sciences/Social Sciences,3,3,2,2,3,2,2,2,2,2,2,2,3
+22,Male,Fourth Year,Natural Sciences/Social Sciences,1,3,0,3,0,2,2,0,1,0,1,1,1
+23,Female,Second Year,Natural Sciences/Social Sciences,2,2,1,1,2,1,3,1,2,1,2,3,0
+24,Female,Fourth Year,Natural Sciences/Social Sciences,1,2,2,2,2,3,2,3,1,2,1,3,3
+18,Male,Second Year,Natural Sciences/Social Sciences,1,2,1,3,3,2,3,2,0,2,1,2,3
+18,Female,Third Year,Natural Sciences/Social Sciences,1,2,3,2,1,2,2,1,1,2,2,1,3
+19,Female,Second Year,Natural Sciences/Social Sciences,1,2,3,2,2,1,1,3,0,1,0,1,2
+19,Female,Fourth Year,Natural Sciences/Social Sciences,3,3,1,1,1,3,0,1,1,2,2,2,3
+23,Male,Third Year,Natural Sciences/Social Sciences,1,1,2,0,3,2,2,1,1,1,1,3,3
+23,Female,Second Year,Natural Sciences/Social Sciences,2,0,2,0,2,1,1,0,1,2,2,3,1
+22,Female,Fourth Year,Natural Sciences/Social Sciences,1,3,2,3,2,3,2,2,1,2,1,3,1
+23,Female,Second Year,Natural Sciences/Social Sciences,3,3,1,3,1,2,3,3,1,3,1,3,0
+23,Female,Fourth Year,Natural Sciences/Social Sciences,3,1,1,0,2,2,2,0,1,3,3,3,3
+21,Female,Fourth Year,Natural Sciences/Social Sciences,3,3,2,2,2,3,3,3,1,2,0,3,2
+19,Female,Second Year,Natural Sciences/Social Sciences,2,1,1,1,1,2,3,0,1,1,1,2,2
+20,Female,Second Year,Natural Sciences/Social Sciences,1,1,2,1,3,2,0,1,0,1,1,2,1
+22,Male,Third Year,Natural Sciences/Social Sciences,1,2,2,2,2,3,3,2,1,1,2,2,2
+21,Female,Second Year,Natural Sciences/Social Sciences,2,1,1,0,2,1,2,3,3,2,2,1,1
+24,Female,Second Year,Natural Sciences/Social Sciences,2,1,1,0,2,2,3,2,2,3,2,3,2
+22,Female,Second Year,Natural Sciences/Social Sciences,3,3,3,2,3,2,2,1,0,2,1,1,2
+18,Female,Third Year,Natural Sciences/Social Sciences,1,2,1,1,2,2,3,2,1,1,0,1,3
+20,Male,Fourth Year,Natural Sciences/Social Sciences,1,3,2,0,2,2,3,2,3,3,3,1,0
+22,Female,Second Year,Natural Sciences/Social Sciences,3,3,1,2,2,3,2,3,1,2,0,2,2
+22,Female,Fourth Year,Natural Sciences/Social Sciences,2,0,2,1,1,0,1,3,1,3,2,2,1
+20,Female,Fourth Year,Natural Sciences/Social Sciences,1,1,1,2,2,0,1,0,1,2,2,3,3
+18,Male,Second Year,Natural Sciences/Social Sciences,3,1,1,0,1,2,2,2,1,2,3,1,3
+20,Male,First Year,Natural Sciences/Social Sciences,1,1,2,1,3,2,2,1,1,2,1,1,3
+18,Female,Second Year,Natural Sciences/Social Sciences,1,3,2,1,2,1,2,1,0,2,2,3,3
+24,Female,Fourth Year,Natural Sciences/Social Sciences,1,2,3,1,1,3,2,2,0,3,2,2,1
+18,Male,Second Year,Natural Sciences/Social Sciences,2,2,1,2,2,3,1,3,1,2,2,1,2
+21,Female,Third Year,Natural Sciences/Social Sciences,3,1,1,2,0,2,3,2,3,2,1,1,3
+20,Male,Second Year,Natural Sciences/Social Sciences,3,3,1,1,2,2,1,3,2,3,1,1,2
+24,Female,Second Year,Natural Sciences/Social Sciences,1,1,1,3,2,3,2,3,1,2,1,3,2
+20,Female,Third Year,Natural Sciences/Social Sciences,0,1,3,0,0,1,0,2,1,2,0,3,1
+21,Female,Second Year,Natural Sciences/Social Sciences,1,3,3,2,0,0,3,3,0,2,3,3,3
+22,Female,Fourth Year,Natural Sciences/Social Sciences,0,2,2,2,1,1,3,1,1,0,0,2,1
+22,Female,Second Year,Natural Sciences/Social Sciences,3,2,2,2,1,3,3,2,0,0,1,2,1
+22,Female,Fourth Year,Natural Sciences/Social Sciences,2,3,1,2,0,3,0,1,1,2,1,2,3
+20,Female,Second Year,Natural Sciences/Social Sciences,1,1,2,1,2,1,3,3,1,2,2,1,1
+20,Female,Second Year,Natural Sciences/Social Sciences,2,3,3,2,0,3,2,3,0,1,1,2,3
+18,Female,Fourth Year,Natural Sciences/Social Sciences,1,3,2,1,1,1,3,1,0,2,0,0,1
+24,Female,Second Year,Natural Sciences/Social Sciences,3,3,1,2,2,3,2,3,0,2,1,0,1
+18,Male,Fourth Year,Natural Sciences/Social Sciences,3,3,1,0,0,3,3,0,1,1,2,1,0
+20,Female,Third Year,Natural Sciences/Social Sciences,1,3,1,0,2,3,1,2,3,2,0,2,3
+22,Male,Second Year,Natural Sciences/Social Sciences,1,2,1,2,0,3,3,0,1,3,2,1,3
+24,Female,Second Year,Natural Sciences/Social Sciences,3,1,1,3,3,3,2,0,0,2,1,1,3
+20,Female,Fourth Year,Natural Sciences/Social Sciences,2,1,1,2,1,3,3,2,0,2,2,2,2
+21,Female,Fourth Year,Natural Sciences/Social Sciences,1,1,2,1,3,2,3,3,3,1,2,3,3
+22,Male,Third Year,Natural Sciences/Social Sciences,1,1,3,2,1,1,2,2,3,2,2,3,1
+22,Male,Fourth Year,Natural Sciences/Social Sciences,2,0,3,0,1,1,3,1,0,3,0,1,1
+23,Male,Fourth Year,Natural Sciences/Social Sciences,2,2,1,3,2,2,2,3,0,1,1,2,2
+19,Female,Second Year,Natural Sciences/Social Sciences,3,0,2,2,2,2,2,2,1,2,3,0,2
+22,Female,Fourth Year,Natural Sciences/Social Sciences,1,2,2,1,3,2,3,3,0,3,1,3,2
+19,Female,Fourth Year,Natural Sciences/Social Sciences,3,1,0,0,1,2,1,1,1,1,3,2,3
+19,Male,Fourth Year,Natural Sciences/Social Sciences,3,1,2,2,2,3,2,2,1,3,1,1,3
+22,Female,Fourth Year,Natural Sciences/Social Sciences,1,3,0,0,0,2,2,3,1,3,1,3,3
+20,Female,Second Year,Natural Sciences/Social Sciences,3,0,0,2,2,1,0,3,3,3,1,1,3
+18,Male,Fourth Year,Natural Sciences/Social Sciences,3,2,1,0,0,3,1,3,0,2,2,2,2
+19,Male,Second Year,Natural Sciences/Social Sciences,1,0,2,1,1,3,1,3,2,3,1,3,3
+24,Female,Third Year,Natural Sciences/Social Sciences,1,0,3,1,3,3,1,2,0,3,3,3,1
+21,Female,Second Year,Natural Sciences/Social Sciences,1,3,2,3,1,1,1,3,1,3,2,3,2
+24,Female,Fourth Year,Natural Sciences/Social Sciences,1,0,2,0,2,1,3,1,0,2,2,3,3
+18,Male,Third Year,Natural Sciences/Social Sciences,3,0,1,1,3,3,3,0,3,3,2,0,2
+22,Female,Second Year,Natural Sciences/Social Sciences,3,3,1,0,2,2,1,2,1,2,1,3,2
+18,Male,Second Year,Natural Sciences/Social Sciences,1,1,1,0,2,3,2,3,1,2,1,3,3
+24,Female,Second Year,Natural Sciences/Social Sciences,2,1,2,0,1,3,2,3,1,2,3,1,2
+21,Male,Fourth Year,Natural Sciences/Social Sciences,3,2,1,2,0,3,2,1,0,3,0,1,2
+22,Male,Fourth Year,Natural Sciences/Social Sciences,3,0,2,1,2,2,2,1,1,2,2,1,0
+20,Female,Second Year,Natural Sciences/Social Sciences,2,2,0,3,1,3,0,0,1,3,2,1,2
+23,Female,Second Year,Natural Sciences/Social Sciences,3,2,1,2,1,2,2,2,2,2,1,2,3
+19,Male,Fourth Year,Natural Sciences/Social Sciences,1,2,3,0,0,1,3,3,2,2,1,2,1
+21,Male,Third Year,Natural Sciences/Social Sciences,2,2,1,2,3,3,1,1,1,3,1,0,1
+22,Female,Second Year,Natural Sciences/Social Sciences,1,3,1,1,2,3,0,3,1,0,2,1,3
+19,Female,Second Year,Natural Sciences/Social Sciences,1,1,2,2,2,2,2,2,0,3,0,2,2
+24,Male,Fourth Year,Business Administration,2,1,0,1,3,0,1,2,0,3,0,0,3
+18,Male,Third Year,Business Administration,0,1,2,1,3,3,1,2,1,3,0,3,1
+18,Male,Fourth Year,Business Administration,3,3,0,1,1,0,2,3,1,3,0,1,1
+21,Male,Third Year,Business Administration,1,2,2,1,1,3,2,3,2,2,0,3,1
+20,Male,Fourth Year,Business Administration,2,2,2,1,3,3,0,3,0,1,0,1,3
+22,Male,Second Year,Business Administration,0,2,1,0,3,0,2,1,2,1,0,3,1
+18,Male,Fourth Year,Business Administration,0,2,1,0,3,0,0,3,1,3,2,3,1
+20,Male,Fourth Year,Business Administration,0,0,1,1,3,2,1,2,1,3,1,3,2
+18,Male,Fourth Year,Business Administration,0,3,1,1,1,3,1,1,1,3,1,1,3
+24,Male,Fourth Year,Business Administration,1,0,1,2,3,0,2,3,2,3,0,1,1
+24,Male,Fourth Year,Business Administration,2,1,0,0,1,1,0,2,0,2,0,3,3
+19,Male,Third Year,Business Administration,3,2,1,1,3,1,2,2,0,2,0,3,1
+23,Male,Fourth Year,Business Administration,1,2,1,2,1,1,0,3,1,3,0,3,3
+20,Male,Fourth Year,Business Administration,1,3,1,1,3,2,0,3,2,3,2,3,3
+23,Male,Fourth Year,Business Administration,1,1,2,1,3,3,1,2,2,2,0,0,1
+20,Male,Second Year,Business Administration,1,3,1,2,1,3,1,3,2,2,2,1,2
+20,Male,Fourth Year,Business Administration,2,3,2,2,1,0,1,2,2,1,2,3,2
+21,Male,Third Year,Business Administration,2,2,0,1,2,3,2,3,2,1,0,3,1
+19,Male,Fourth Year,Business Administration,2,2,2,1,1,1,2,2,2,3,2,3,3
+23,Male,Fourth Year,Business Administration,2,0,2,2,2,1,2,1,1,3,1,1,2
+18,Male,Fourth Year,Business Administration,0,2,3,1,1,3,0,2,1,3,0,0,1
+20,Male,Fourth Year,Business Administration,0,2,2,1,3,2,3,1,2,2,0,3,3
+24,Male,Third Year,Business Administration,1,0,1,1,1,1,2,2,1,1,1,1,2
+23,Male,Fourth Year,Business Administration,1,2,1,1,3,0,0,2,1,2,0,1,1
+24,Male,Fourth Year,Business Administration,2,0,3,1,3,1,3,3,1,2,0,1,2
+22,Male,Fourth Year,Business Administration,0,2,0,1,3,0,2,1,1,3,1,1,3
+23,Male,Fourth Year,Business Administration,2,2,2,0,3,3,2,3,1,2,2,3,1
+24,Male,Fourth Year,Business Administration,2,3,1,1,3,3,3,2,1,1,0,0,3
+18,Male,Fourth Year,Business Administration,3,0,1,1,1,1,1,1,1,3,1,3,1
+24,Male,Third Year,Business Administration,2,0,1,1,3,3,2,3,0,3,0,1,3
+21,Male,Fourth Year,Business Administration,3,2,2,0,1,0,1,2,1,3,0,1,3
+18,Male,Third Year,Business Administration,0,0,1,2,2,1,2,1,1,3,2,0,1
+20,Male,Fourth Year,Business Administration,2,2,1,1,1,2,2,3,2,3,1,1,2
+18,Male,Third Year,Business Administration,0,0,1,1,3,0,3,1,1,3,2,3,3
+23,Male,Fourth Year,Business Administration,0,1,3,1,2,1,1,2,1,3,1,3,3
+19,Male,Third Year,Business Administration,1,0,0,1,3,0,0,2,1,2,0,0,1
+19,Male,Fourth Year,Business Administration,0,1,1,1,2,1,2,2,2,2,2,3,1
+20,Male,Fourth Year,Business Administration,0,2,3,2,2,1,2,3,2,1,0,3,3
+22,Male,Third Year,Business Administration,3,2,1,1,3,1,0,1,1,2,0,3,3
+24,Male,Fourth Year,Business Administration,2,2,2,2,2,2,1,1,1,3,0,0,2
+20,Male,Fourth Year,Business Administration,0,2,1,2,3,0,1,1,2,2,0,3,1
+19,Male,Second Year,Business Administration,0,3,1,0,3,2,3,2,1,3,2,3,3
+21,Male,Third Year,Business Administration,2,2,0,1,3,1,0,2,1,3,0,0,2
+23,Male,Fourth Year,Business Administration,0,3,0,1,3,3,1,1,1,2,0,3,1
+20,Male,Third Year,Business Administration,3,1,1,2,3,3,1,2,1,3,1,3,3
+21,Male,Second Year,Business Administration,2,2,1,1,3,0,2,1,1,1,0,0,3
+19,Male,Second Year,Business Administration,2,2,1,1,1,1,1,3,1,3,0,0,2
+20,Male,Third Year,Business Administration,0,3,1,1,2,3,0,2,1,2,0,0,3
+18,Male,Third Year,Business Administration,0,1,1,0,1,0,0,3,1,2,0,1,1
+21,Male,Third Year,Business Administration,1,2,0,1,2,3,3,2,2,2,0,3,2
+22,Male,Third Year,Business Administration,0,2,3,0,1,0,2,2,1,3,0,3,1
+21,Male,Fourth Year,Business Administration,3,2,0,1,1,2,1,3,1,3,0,3,1
+19,Male,Third Year,Business Administration,3,2,1,1,1,3,2,1,1,2,2,3,1
+19,Male,Fourth Year,Business Administration,1,2,1,1,2,0,1,1,1,3,0,3,3
+22,Male,Fourth Year,Business Administration,2,2,1,1,3,3,0,2,2,3,0,1,3
+23,Male,Fourth Year,Business Administration,2,1,3,2,1,2,1,2,2,3,0,3,3
+18,Male,Second Year,Business Administration,2,3,1,1,3,0,2,3,1,3,2,3,1
+24,Male,Fourth Year,Business Administration,1,2,3,1,3,0,1,2,2,3,0,1,3
+19,Female,Second Year,Computer science ,2,2,3,1,3,3,1,3,3,2,2,2,3
+19,Female,Second Year,Computer science ,2,2,3,1,1,3,1,3,3,2,2,3,2
+21,Female,Second Year,Computer science ,2,2,1,1,1,3,3,3,3,2,2,2,2
+19,Female,Second Year,Computer science ,2,2,1,1,3,3,1,3,1,2,2,2,3
+21,Female,Second Year,Computer science ,2,2,3,1,1,3,1,3,1,2,2,3,3
+21,Female,Second Year,Computer science ,2,2,3,1,3,3,3,3,1,2,2,2,2
+19,Female,Second Year,Computer science ,2,2,1,1,1,3,3,3,1,2,2,3,2
+24,Female,Second Year,Computer science ,2,2,1,1,3,3,1,3,3,2,2,3,3
+21,Female,Second Year,Computer science ,2,2,1,1,1,3,3,3,3,2,2,3,2
+18,Female,Second Year,Computer science ,2,2,3,1,1,3,3,3,1,2,2,3,3
+20,Female,Second Year,Computer science ,2,2,1,1,1,3,1,3,1,2,2,3,2
+19,Female,Second Year,Computer science ,2,2,1,1,1,3,1,3,1,2,2,2,2
+21,Female,Second Year,Computer science ,2,2,3,1,3,3,3,3,1,2,2,2,2
+19,Female,Second Year,Computer science ,2,2,1,1,1,3,1,3,3,2,2,3,3
+22,Female,Second Year,Computer science ,2,2,3,1,3,3,3,3,1,2,2,3,3
+18,Female,Second Year,Computer science ,2,2,3,1,3,3,3,3,1,2,2,3,2
+21,Female,Second Year,Computer science ,2,2,1,1,1,3,1,3,3,2,2,2,2
+19,Female,Second Year,Cs,2,2,1,1,3,2,0,0,1,3,2,1,3
+18,Female,Second Year,Cs,2,1,1,1,3,2,0,2,0,1,0,3,3
+19,Male,Second Year,Cs,2,2,1,1,2,2,3,2,0,1,0,3,3
+22,Female,Second Year,Cs,2,1,1,1,3,2,3,2,0,1,0,3,3
+19,Female,Second Year,Cs,2,2,1,1,2,2,3,2,0,1,0,1,3
+23,Female,Second Year,Cs,2,1,1,1,3,2,0,0,0,3,0,1,3
+24,Male,Second Year,Cs,2,2,1,1,2,2,3,0,1,1,2,3,3
+23,Female,Second Year,Cs,2,1,1,1,3,2,3,0,1,1,0,3,3
+23,Female,Second Year,Cs,2,1,1,1,3,2,3,2,0,1,2,3,3
+21,Male,Second Year,Cs,2,2,1,1,3,2,3,0,1,1,0,1,3
+24,Female,Second Year,Cs,2,1,1,1,3,2,3,2,1,3,0,1,3
+18,Female,Second Year,Cs,2,1,1,1,2,2,0,0,1,1,2,1,3
+24,Female,Second Year,Cs,2,1,1,1,2,2,3,2,1,1,2,3,3
+23,Female,Second Year,Cs,2,1,1,1,2,2,0,2,0,1,2,3,3
+19,Female,Second Year,Cs,2,2,1,1,2,2,3,2,1,3,0,1,3
+21,Female,Second Year,Cs,2,1,1,1,3,2,0,0,0,3,0,3,3
+20,Female,Second Year,Cs,2,1,1,1,3,2,0,2,0,1,2,1,3
+23,Male,Second Year,Civil/Mechanical Engineering,1,2,2,1,1,1,1,2,1,2,1,0,3
+24,Female,Fourth Year,Civil/Mechanical Engineering,1,1,2,1,1,2,1,2,2,2,1,2,3
+21,Female,Second Year,Civil/Mechanical Engineering,1,2,1,1,1,1,1,2,1,2,1,0,3
+24,Male,Second Year,Civil/Mechanical Engineering,1,2,1,1,1,2,1,2,2,2,1,0,3
+20,Male,Second Year,Civil/Mechanical Engineering,1,2,1,1,1,2,1,2,1,2,1,0,3
+19,Male,Fourth Year,Civil/Mechanical Engineering,1,2,2,1,1,2,1,2,1,2,1,2,3
+22,Female,Fourth Year,Civil/Mechanical Engineering,1,1,2,1,1,1,1,2,1,2,1,2,3
+19,Female,Fourth Year,Civil/Mechanical Engineering,1,1,2,1,1,1,1,2,2,2,1,2,3
+19,Male,Second Year,Civil/Mechanical Engineering,1,1,2,1,1,2,1,2,1,2,1,2,3
+21,Male,Second Year,Civil/Mechanical Engineering,1,1,2,1,1,1,1,2,2,2,1,0,3
+19,Male,Second Year,Civil/Mechanical Engineering,1,1,1,1,1,1,1,2,1,2,1,0,3
+21,Female,Second Year,Civil/Mechanical Engineering,1,2,1,1,1,2,1,2,1,2,1,2,3
+21,Male,Second Year,Civil/Mechanical Engineering,1,2,2,1,1,1,1,2,2,2,1,0,3
+20,Male,Fourth Year,Civil/Mechanical Engineering,1,2,1,1,1,2,1,2,2,2,1,2,3
+22,Female,Second Year,Civil/Mechanical Engineering,1,2,1,1,1,1,1,2,1,2,1,0,3
+20,Female,Fourth Year,Civil/Mechanical Engineering,1,1,2,1,1,1,1,2,2,2,1,0,3
+21,Male,3rd Semester ,BSCS,2,2,1,1,2,3,1,2,2,2,2,2,1
+18,Male,3rd Semester ,BSCS,2,2,1,1,2,3,1,2,2,2,2,2,1
+22,Male,3rd Semester ,BSCS,2,2,1,1,2,3,1,2,2,2,2,2,1
+22,Male,3rd Semester ,BSCS,2,2,1,1,2,3,1,2,2,2,2,2,1
+21,Male,3rd Semester ,BSCS,2,2,1,1,2,3,1,2,2,2,2,2,1
+24,Male,3rd Semester ,BSCS,2,2,1,1,2,3,1,2,2,2,2,2,1
+23,Male,3rd Semester ,BSCS,2,2,1,1,2,3,1,2,2,2,2,2,1
+18,Male,3rd Semester ,BSCS,2,2,1,1,2,3,1,2,2,2,2,2,1
+20,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0
+20,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0
+22,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0
+19,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0
+23,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0
+20,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0
+24,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0
+20,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0
+18,Male,Second Year,Computer Science,3,0,1,3,3,3,0,0,2,3,3,3,3
+24,Male,Second Year,Computer Science,3,0,1,3,3,3,0,0,2,3,3,3,3
+18,Male,Second Year,Computer Science,3,0,1,3,3,3,0,0,2,3,3,3,3
+23,Male,Second Year,Computer Science,3,0,1,3,3,3,0,0,2,3,3,3,3
+23,Male,Second Year,Computer Science,3,0,1,3,3,3,0,0,2,3,3,3,3
+22,Male,Second Year,Computer Science,3,0,1,3,3,3,0,0,2,3,3,3,3
+19,Male,Second Year,Computer Science,3,0,1,3,3,3,0,0,2,3,3,3,3
+21,Male,Second Year,Computer Science,3,0,1,3,3,3,0,0,2,3,3,3,3
