@@ -1,0 +1,14 @@
+Feature,Mean_Abs_SHAP,Mean_SHAP,Direction
+sleep_quality,0.11781914,0.011157,Increases Stress
+peer_pressure,0.10269461,0.0031728668,Increases Stress
+self_esteem,0.09708319,-0.016735883,Reduces Stress
+headache,0.0960505,0.0018144776,Increases Stress
+anxiety_level,0.092634074,-0.0006793703,Reduces Stress
+social_support,0.08355894,-0.0034194759,Reduces Stress
+depression,0.08102941,0.0013552352,Increases Stress
+study_load,0.07642525,0.0038091543,Increases Stress
+living_conditions,0.002648843,0.00030454044,Increases Stress
+noise_level,0.0024471558,0.00014645896,Increases Stress
+basic_needs,0.0023606985,-9.4112074e-05,Reduces Stress
+teacher_student_relationship,0.0021334016,0.000233846,Increases Stress
+future_career_concerns,0.0021152142,0.00016325725,Increases Stress

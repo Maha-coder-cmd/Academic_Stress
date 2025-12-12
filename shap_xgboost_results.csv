@@ -1,0 +1,6 @@
+Feature,Mean_Abs_SHAP,Mean_SHAP
+teacher_student_relationship,1.1291598,-0.06407587
+headache,0.6027293,-0.06781656
+noise_level,0.5712151,-0.056185108
+living_conditions,0.39959946,-0.029980917
+academic_performance,0.33109555,0.019307273

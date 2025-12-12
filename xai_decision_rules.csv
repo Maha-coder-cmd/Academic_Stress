@@ -1,0 +1,6 @@
+rule,prediction,samples
+headache <= 1.50 AND sleep_quality <= 2.50 AND peer_pressure <= 1.50 AND sleep_quality > 0.50 AND anxiety_level > 1.50,1.5777777777777777,90
+headache <= 1.50 AND sleep_quality <= 2.50 AND peer_pressure <= 1.50 AND sleep_quality > 0.50 AND anxiety_level <= 1.50,1.3784246575342465,73
+headache > 1.50 AND sleep_quality > 1.50 AND peer_pressure <= 1.50 AND anxiety_level > 1.50 AND study_load > 1.50,2.0526315789473686,57
+headache <= 1.50 AND sleep_quality <= 2.50 AND peer_pressure > 1.50 AND anxiety_level <= 2.50 AND headache > 0.50,1.6830357142857142,56
+headache <= 1.50 AND sleep_quality > 2.50 AND anxiety_level > 0.50 AND self_esteem > 1.50 AND peer_pressure > 0.50,1.9727272727272727,55
