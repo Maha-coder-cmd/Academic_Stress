@@ -1,0 +1,901 @@
+Age,Gender,Year of Study,Discipline/Field,anxiety_level,self_esteem,depression,headache,sleep_quality,noise_level,living_conditions,basic_needs,peer_pressure,study_load,teacher_student_relationship,future_career_concerns,social_support,Stress_measurement,Heart_rate,Blood_oxygen,Triggers,Headache_sleep_stress_causes
+20 - 22,Male,Second Year,CS,2,2,1,1,2,3,1,2,2,2,2,2,1,37.0,90.0,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Female,Second Year,CS,2,2,1,1,3,3,3,3,1,2,2,3,3,37.0,89.0,96.0,Presentations,Mostly worried about exams or assignments
+20 - 22,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0,39.0,90.0,98.0,Presentations,Work pressure
+20 - 22,Female,Second Year,CS,2,2,3,1,1,3,1,3,3,2,2,2,2,36.0,99.0,98.0,Exams deadlines,When I study for exam exams deadlines and assignments keep me worried
+20 - 22,Female,Second Year,CS,2,1,1,1,3,2,3,2,0,3,0,3,3,36.0,94.0,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23 - 25,Male,Second Year,CS,3,0,1,3,3,3,0,0,2,3,3,3,3,35.0,105.0,98.0,Failure,Tests and exam deadlines
+20 - 22,Male,Second Year,CS,2,2,1,1,2,2,0,0,1,1,2,1,3,34.0,108.0,99.0,Exams,Exams or tests deadlines make me worried
+20 - 22,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,1,3,3,3,3,2,3,3,3,3,3,28.0,101.0,98.0,Exams,Exams
+20 - 22,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,3,2,3,3,3,3,3,2,3,3,3,37.0,115.0,99.0,Exams,Tests or exams or assignments keep me worried
+20 - 22,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,0,0,0,2,1,0,0,2,1,1,3,97.0,100.0,99.0,Exams,Mostly exams or tests or assignments keep me awake
+20 - 22,Male,Second Year,IT/CS/SOFTWARE/AI,3,3,2,1,1,1,0,0,2,3,0,3,0,36.0,96.0,99.0,Exams deadlines,Overthinking about grades
+20 - 22,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,1,1,3,3,1,3,2,2,1,3,2,35.0,113.0,96.0,Exams,Exams and grades
+20 - 22,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,0,0,3,3,2,1,3,2,0,3,3,35.0,87.0,95.0,Assignments,During assignments and exams I don't sleep
+17 - 19,Female,Second Year,IT/CS/SOFTWARE/AI,3,1,2,3,2,3,1,2,2,2,3,3,3,35.0,77.0,99.0,Exams,Feel worried during exams and don't sleep
+17 - 19,Female,Second Year,IT/CS/SOFTWARE/AI,2,0,2,3,2,1,2,0,1,0,0,3,3,26.0,65.0,98.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Female,First Year,IT/CS/SOFTWARE/AI,3,1,1,2,1,0,1,2,2,1,3,1,3,34.0,128.0,96.0,Exams,During exams
+20 - 22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,2,2,2,2,1,3,2,2,3,3,32.0,105.0,95.0,Exams,When I don’t study I feel stressed
+20 - 22,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,1,0,3,0,0,0,1,2,1,0,3,31.0,106.0,95.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,2,1,1,2,3,1,3,2,3,2,3,38.0,86.0,96.0,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,0,3,3,3,3,0,3,1,3,3,37.0,92.0,96.0,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,1,1,3,2,3,1,2,2,3,2,38.0,96.0,97.0,Grades,Assignment submission
+20 - 22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,3,1,2,3,3,2,3,3,1,3,2,42.01,83.01,98.53,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+17 - 19,Female,Second Year,IT/CS/SOFTWARE/AI,3,1,3,3,2,3,3,1,3,3,3,3,1,26.0,79.43,97.58,Exams,When I don’t study I feel stressed
+20 - 22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,3,2,3,3,3,3,1,3,2,3,3,37.53,85.57,98.73,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Male,Second Year,IT/CS/SOFTWARE/AI,0,2,3,0,3,1,2,0,1,1,0,0,2,38.68,112.66,98.1,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,3,2,3,2,0,1,2,3,2,3,1,42.91,84.12,98.73,Failure,Feel worried during exams and don't sleep
+20 - 22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,1,2,0,2,2,1,2,3,1,2,2,35.18,87.92,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23 - 25,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,1,2,2,2,1,0,3,2,2,2,31.79,92.42,98.2,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Female,Second Year,IT/CS/SOFTWARE/AI,3,3,1,3,0,3,2,0,3,1,2,0,1,43.52,103.13,99.0,Exams,Assignment submission
+20 - 22,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,2,1,1,1,0,0,2,0,1,1,2,30.61,86.11,98.32,Exams,When I study for exam exams deadlines and assignments keep me worried
+20 - 22,Male,Second Year,IT/CS/SOFTWARE/AI,1,3,2,0,1,0,0,0,0,0,1,0,3,36.17,85.75,96.12,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,1,1,2,2,3,0,2,1,2,3,48.13,104.67,96.36,Exams,When I don’t study I feel stressed
+17 - 19,Female,Second Year,CIVIL/MECHANICAL ENGINEERING,1,1,2,1,1,2,1,2,1,2,1,0,3,39.39,100.23,98.72,Exams,Work pressure
+20 - 22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,3,2,3,2,3,3,3,3,3,3,47.23,98.16,97.82,Exams,Feel worried during exams and don't sleep
+20 - 22,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,3,1,1,3,3,2,1,3,2,3,3,26.0,92.87,96.66,Exams deadlines,Exams and grades
+20 - 22,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,2,3,2,1,0,1,1,2,1,2,3,33.92,117.69,96.05,Exams,Mostly exams or tests or assignments keep me awake
+17 - 19,Female,Second Year,IT/CS/SOFTWARE/AI,0,1,0,0,1,1,0,0,0,1,0,0,3,26.0,92.66,97.63,Exams,Exams and grades
+20 - 22,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,2,2,3,3,3,3,3,2,0,1,3,47.69,108.09,96.85,Exams,Mostly exams or tests or assignments keep me awake
+17 - 19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,2,1,3,3,2,1,3,1,3,2,49.73,94.62,95.43,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+17 - 19,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,1,1,3,2,0,0,2,2,0,1,3,26.0,104.04,97.6,Exams,Feel worried during exams and don't sleep
+20 - 22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,2,1,1,0,0,1,2,0,3,2,31.8,99.41,98.34,Exams,Tests or exams or assignments keep me worried
+20 - 22,Female,Second Year,IT/CS/SOFTWARE/AI,2,1,3,1,3,3,0,0,2,2,1,1,3,44.14,88.18,96.82,Presentations,Mostly worried about exams or assignments
+20 - 22,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,2,2,2,2,1,2,1,2,3,3,2,26.0,103.9,96.66,Exams ,Overthinking about grades
+20 - 22,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,0,1,1,1,3,1,3,0,2,2,44.47,103.35,98.4,Exams deadlines,Tests or exams or assignments keep me worried
+20 - 22,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,2,2,3,3,2,3,1,2,1,1,2,31.86,96.15,95.0,Grades,Mostly worried about exams or assignments
+20 - 22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,0,0,0,3,3,3,0,3,3,3,3,26.0,83.6,97.99,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Male,Third Year,BUSINESS ADMINISTRATION,1,2,0,1,3,0,0,1,0,1,0,0,3,32.49,115.01,96.84,Failure,During exams
+20 - 22,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,1,2,2,3,1,2,0,1,1,2,2,3,26.0,94.43,95.93,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,1,2,0,3,0,2,1,1,3,3,3,2,49.49,73.61,98.05,Exams,During assignments and exams I don't sleep
+20 - 22,Male,First Year,IT/CS/SOFTWARE/AI,2,2,1,1,1,2,1,2,2,3,2,1,3,29.47,77.46,97.49,Exams deadlines,During exams
+17 - 20,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,2,1,2,2,2,1,2,2,2,1,41.01,97.54,99.0,Presentations,Feel worried during exams and don't sleep
+17 - 20,Male,Second Year,IT/CS/SOFTWARE/AI,0,2,2,1,3,3,3,3,2,3,3,3,2,26.0,99.69,97.72,Exams deadlines,Overthinking about grades
+17 - 20,Female,Second Year,IT/CS/SOFTWARE/AI,1,0,2,2,0,1,0,0,1,1,1,3,1,49.41,102.12,99.0,Exams deadlines,During assignments and exams I don't sleep
+17 - 20,Male,Second Year,IT/CS/SOFTWARE/AI,1,1,2,0,3,3,3,3,1,2,3,3,3,28.84,84.56,96.78,Exams,Exams
+17 - 20,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,2,1,2,3,2,3,2,2,3,3,2,46.62,94.2,95.13,Exams,Overthinking about grades
+17 - 20,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,3,0,3,1,3,1,3,1,2,0,2,42.14,108.7,99.0,Exams,Overthinking about grades
+20 - 22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,1,2,2,2,2,1,2,1,1,3,43.54,83.7,95.0,Exams,Tests and exam deadlines
+20 - 22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,3,3,2,2,2,2,2,2,1,3,3,26.42,91.56,96.44,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,0,3,3,3,0,0,2,3,2,3,52.64,99.39,97.14,Exams,Exams and grades
+20 - 22,Male,Fourth Year,BUSINESS ADMINISTRATION,2,1,3,1,3,2,2,1,1,3,1,3,1,26.0,90.59,97.3,Exams,During exams
+23 - 25,Male,Fourth Year,BUSINESS ADMINISTRATION,3,2,2,2,1,3,3,3,2,2,1,1,1,39.58,110.68,96.62,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,0,2,1,1,2,1,1,1,0,2,26.0,87.32,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23 - 25,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,1,2,0,0,3,1,2,2,2,3,49.46,84.89,98.81,Exams,Exams or tests deadlines make me worried
+20 - 22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,3,0,3,3,0,3,0,3,3,1,3,35.58,96.68,96.38,Exams deadlines,When I study for exam exams deadlines and assignments keep me worried
+23 - 25,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,1,0,0,0,1,1,0,1,1,1,0,31.41,80.47,95.42,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+23 - 25,Male,Fourth Year,BUSINESS ADMINISTRATION,2,3,1,1,1,0,2,3,1,2,0,3,2,59.8,99.43,97.2,Presentations,Overthinking about grades
+17 - 20,Male,Third Year,IT/CS/SOFTWARE/AI,0,1,1,1,1,0,1,1,0,0,1,0,1,55.98,100.24,96.75,Exams,Exams
+20 - 22,Male,Third Year,BUSINESS ADMINISTRATION,2,0,2,1,3,3,1,3,1,3,0,1,3,43.74,118.24,97.66,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20 - 22,Female,Third Year,IT/CS/SOFTWARE/AI,3,2,3,3,3,3,1,2,0,3,3,3,2,26.0,119.82,99.0,Exams ,When I study for exam exams deadlines and assignments keep me worried
+20 - 22,Female,Third Year,IT/CS/SOFTWARE/AI,2,2,2,1,3,1,1,1,1,3,0,3,1,32.42,117.23,95.68,Failure,Exams or tests deadlines make me worried
+17 - 20,Male,Third Year,IT/CS/SOFTWARE/AI,3,3,3,2,3,3,1,1,3,3,0,3,0,46.74,91.84,97.37,Exams,When I study for exam exams deadlines and assignments keep me worried
+20 - 22,Female,Third Year,IT/CS/SOFTWARE/AI,3,0,3,1,1,3,2,2,3,3,1,3,0,42.47,116.49,97.52,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23 - 25,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,2,2,1,2,1,1,1,1,2,1,26.0,96.57,96.09,Exams,During assignments and exams I don't sleep
+20 - 22,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,2,0,3,1,0,0,2,0,0,3,26.0,92.67,98.78,Presentations,During exams
+23 - 25,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,2,1,0,1,2,2,2,1,2,1,1,3,38.19,90.62,96.88,Presentations,Overthinking about grades
+17 - 20,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,2,1,1,2,2,1,1,2,1,2,2,45.27,115.53,97.14,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+17 - 20,Male,Third Year,IT/CS/SOFTWARE/AI,2,1,2,1,1,1,2,3,0,1,2,2,1,34.64,100.55,97.65,Presentations,Work pressure
+23 - 25,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,1,0,0,0,3,3,3,0,0,0,1,1,39.02,100.36,99.0,Exams deadlines,During assignments and exams I don't sleep
+23 - 25,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,0,1,2,1,2,1,1,0,2,2,3,3,26.0,93.31,95.14,Exams,When I don’t study I feel stressed
+17 - 20,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,0,0,0,0,3,0,2,2,2,3,3,42.17,113.73,96.26,Failure,When I don’t study I feel stressed
+23 - 25,Male,Fourth Year,CIVIL/MECHANICAL ENGINEERING,1,2,1,1,1,1,1,2,2,2,1,2,3,26.0,95.01,95.75,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+23 - 25,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,3,2,1,2,2,1,1,1,2,1,2,3,68.61,90.0,96.04,Presentations,Feel worried during exams and don't sleep
+23 - 25,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,2,2,1,3,3,3,3,3,3,2,2,3,26.0,77.17,99.0,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+23 - 25,Female,Fourth Year,IT/CS/SOFTWARE/AI,3,2,3,3,3,2,1,0,3,3,3,1,3,26.0,122.36,99.0,Exams ,Mostly worried about exams or assignments
+23 - 25,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,2,2,2,1,1,1,2,2,2,1,32.62,101.91,99.0,Exams,Exams or tests deadlines make me worried
+23 - 25,Male,Fourth Year,BUSINESS ADMINISTRATION,0,2,1,1,2,1,1,2,1,3,0,1,2,34.34,107.87,98.05,Exams deadlines,Tests and exam deadlines
+20 - 22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,3,2,2,2,1,1,2,1,1,2,35.89,78.43,97.02,Exams,Mostly worried about exams or assignments
+17 - 20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,1,3,2,2,1,1,2,1,2,1,41.0,89.64,98.1,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+23 - 25,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,1,3,3,3,3,2,3,0,3,3,39.93,102.05,97.46,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23 - 25,Female,Fourth Year,IT/CS/SOFTWARE/AI,3,2,2,3,3,3,3,3,2,3,3,3,3,27.69,101.57,97.23,Exams,Tests and exam deadlines
+17 - 20,Male,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,1,1,1,1,1,1,1,1,1,1,59.72,102.52,96.21,Exams,Exams
+23 - 25,Male,First Year,IT/CS/SOFTWARE/AI,1,1,1,1,1,1,1,1,1,1,1,1,1,41.41,82.02,99.0,Presentations,Mostly worried about exams or assignments
+20 - 22,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,2,0,1,3,2,0,1,0,3,3,44.46,73.38,98.8,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+17 - 20,Male,Second Year,BUSINESS ADMINISTRATION,0,2,1,0,3,0,2,2,2,3,2,3,3,26.0,90.79,97.79,Exams,Feel worried during exams and don't sleep
+23 - 25,Male,Fourth Year,IT/CS/SOFTWARE/AI,0,3,0,0,0,1,0,1,0,0,0,0,3,33.69,95.82,96.99,Exams,Overthinking about grades
+20 - 22,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,2,1,3,3,3,0,2,2,2,2,58.29,65.0,97.02,Exams,Feel worried during exams and don't sleep
+23 - 25,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,1,2,3,3,3,3,1,2,0,2,1,41.89,92.15,95.0,Exams deadlines,Tests or exams or assignments keep me worried
+21,Male,Third Year,IT/CS/SOFTWARE/AI,3,3,0,1,3,3,1,1,1,1,0,3,2,61.86,76.26,98.7,Exams,Exams or tests deadlines make me worried
+24,Male,Second Year,IT/CS/SOFTWARE/AI,1,1,1,1,3,3,0,1,1,2,3,3,3,36.91,82.84,96.87,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,2,3,3,1,1,0,3,2,2,2,2,45.89,120.93,99.0,Exams,Exams and grades
+23,Female,Second Year,IT/CS/SOFTWARE/AI,3,1,3,1,1,3,2,3,3,3,2,2,1,62.1,103.24,98.65,Exams,Exams and grades
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,3,3,0,0,0,3,3,1,3,3,38.69,87.7,98.9,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,2,2,3,1,3,1,2,1,1,0,3,2,48.68,94.63,99.0,Exams,Mostly worried about exams or assignments
+18,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,1,0,0,1,3,3,2,1,2,3,3,63.17,107.23,95.0,Exams,Work pressure
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,2,1,3,2,1,2,1,2,0,1,3,26.0,90.15,99.0,Exams,When I don’t study I feel stressed
+22,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,2,1,1,0,1,1,1,1,3,1,3,28.01,83.37,97.43,Exams,During assignments and exams I don't sleep
+24,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,1,0,2,3,3,0,2,3,2,3,1,28.4,101.51,99.0,Exams,During assignments and exams I don't sleep
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,1,2,1,0,1,3,2,3,1,2,1,26.0,101.4,97.49,Syllabus,When I don’t study I feel stressed
+20,Female,Second Year,IT/CS/SOFTWARE/AI,0,2,2,0,2,2,0,2,2,2,2,3,1,60.31,69.02,96.48,Presentations,Work pressure
+20,Female,Fourth Year,IT/CS/SOFTWARE/AI,3,1,1,0,3,1,1,3,0,1,0,2,2,26.0,117.43,97.95,Exams,Tests or exams or assignments keep me worried
+22,Female,Second Year,IT/CS/SOFTWARE/AI,3,3,2,1,3,0,2,3,0,3,1,0,0,29.8,108.37,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,0,0,3,1,3,1,2,2,1,2,41.03,100.94,96.06,Exams,Exams or tests deadlines make me worried
+24,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,2,2,2,1,0,0,3,0,1,1,2,35.63,102.48,98.91,Exams,Mostly exams or tests or assignments keep me awake
+24,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,2,2,0,3,1,0,2,2,1,3,3,36.02,117.5,96.24,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,First Year,IT/CS/SOFTWARE/AI,2,0,3,2,3,2,1,1,3,2,2,0,3,40.58,108.79,97.4,Exams,Assignment submission
+18,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,0,0,0,1,1,2,3,2,2,1,2,49.72,108.75,98.23,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,2,0,3,1,1,1,1,2,3,2,3,34.9,69.83,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Third Year,IT/CS/SOFTWARE/AI,0,3,1,0,1,3,2,3,2,2,2,3,0,39.27,115.15,95.0,Exams,Exams or tests deadlines make me worried
+19,Female,Second Year,IT/CS/SOFTWARE/AI,3,1,2,1,0,3,1,0,2,1,1,1,2,26.0,86.38,98.05,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Third Year,IT/CS/SOFTWARE/AI,2,2,2,3,3,2,2,3,3,3,2,3,1,41.62,77.91,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Third Year,IT/CS/SOFTWARE/AI,1,1,1,0,0,3,2,3,1,2,3,1,3,31.18,103.52,98.46,Exams,Assignment submission
+22,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,3,0,1,3,3,3,3,1,0,3,1,28.52,99.13,98.55,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Third Year,IT/CS/SOFTWARE/AI,1,1,3,3,3,1,1,0,2,2,1,3,3,45.16,87.6,97.11,Presentations,When I don’t study I feel stressed
+22,Female,Fourth Year,IT/CS/SOFTWARE/AI,1,2,2,0,1,3,1,3,1,1,1,2,3,49.21,91.85,98.18,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Fourth Year,IT/CS/SOFTWARE/AI,1,2,2,3,2,0,1,0,3,3,1,3,3,36.12,108.58,95.0,Grades,When I don’t study I feel stressed
+20,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,2,3,3,0,1,2,1,2,1,3,3,26.0,65.32,96.34,Exams,When I don’t study I feel stressed
+19,Female,Third Year,IT/CS/SOFTWARE/AI,2,1,3,1,3,3,1,1,0,0,3,3,1,33.79,99.94,99.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,2,2,1,3,2,2,2,2,0,3,3,36.8,115.75,97.52,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Fourth Year,IT/CS/SOFTWARE/AI,3,2,2,1,2,3,3,3,1,1,3,3,3,29.47,76.99,96.02,Exams,Tests and exam deadlines
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,1,2,3,3,3,1,1,1,2,3,0,2,48.97,120.77,95.26,Exams deadlines,Mostly worried about exams or assignments
+24,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,0,1,0,2,2,1,0,2,1,0,1,26.0,103.73,97.18,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,0,1,2,0,2,0,3,1,2,1,2,0,3,50.71,88.96,96.56,Exams,Assignment submission
+24,Female,Second Year,IT/CS/SOFTWARE/AI,3,3,2,2,1,3,1,2,3,2,1,3,1,28.63,103.09,97.09,Exams ,During assignments and exams I don't sleep
+19,Male,Second Year,IT/CS/SOFTWARE/AI,2,0,3,1,2,0,2,3,1,2,0,1,1,42.81,115.3,96.86,Exams,During assignments and exams I don't sleep
+20,Female,Third Year,IT/CS/SOFTWARE/AI,0,2,0,0,3,0,0,0,2,2,0,0,3,52.65,92.7,99.0,Exams deadlines,When I study for exam exams deadlines and assignments keep me worried
+21,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,1,1,1,0,1,1,0,1,3,3,3,35.93,102.01,99.0,Presentations,Work pressure
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,0,2,3,3,1,1,2,1,1,1,1,38.73,99.43,99.0,Assignments,Tests or exams or assignments keep me worried
+18,Male,Second Year,IT/CS/SOFTWARE/AI,1,0,0,2,3,2,0,1,2,2,1,3,2,42.41,96.88,97.86,Exams deadlines,Tests or exams or assignments keep me worried
+21,Female,Second Year,IT/CS/SOFTWARE/AI,3,1,0,1,3,2,1,3,1,3,0,3,1,26.0,68.88,95.67,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,0,1,2,1,2,3,2,1,3,3,1,3,3,33.67,123.74,99.0,Presentations,During assignments and exams I don't sleep
+20,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,3,3,3,3,1,2,1,2,1,1,3,42.61,91.67,96.95,Assignments,Feel worried during exams and don't sleep
+21,Female,Third Year,IT/CS/SOFTWARE/AI,2,1,3,1,3,0,2,1,0,2,1,3,2,46.4,92.6,99.0,Exams,Mostly exams or tests or assignments keep me awake
+23,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,1,1,1,2,3,2,2,1,0,2,1,2,37.85,128.0,97.72,Exams,During exams
+23,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,1,1,2,3,0,0,2,3,2,0,39.04,105.18,97.29,Exams,Overthinking about grades
+21,Male,Second Year,IT/CS/SOFTWARE/AI,0,1,0,0,3,1,2,0,1,2,0,2,3,26.89,103.12,96.08,Exams,Overthinking about grades
+22,Female,Second Year,IT/CS/SOFTWARE/AI,1,3,1,2,3,1,0,1,3,3,0,0,1,46.31,106.34,99.0,Presentations,Mostly worried about exams or assignments
+24,Female,Fourth Year,IT/CS/SOFTWARE/AI,1,3,3,3,3,0,1,2,3,2,2,3,3,33.77,103.45,96.91,Exams,Exams or tests deadlines make me worried
+22,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,2,0,3,3,3,3,3,2,1,2,2,26.0,92.65,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,0,2,3,1,3,3,0,0,0,3,0,56.79,109.48,96.28,Exams,Work pressure
+24,Male,Second Year,IT/CS/SOFTWARE/AI,1,1,2,1,1,2,0,1,2,3,0,3,3,26.0,89.8,99.0,Exams,When I don’t study I feel stressed
+21,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,2,0,3,2,3,3,2,1,3,3,3,29.95,103.6,95.0,Exams,Tests or exams or assignments keep me worried
+23,Female,Third Year,IT/CS/SOFTWARE/AI,2,2,3,1,2,2,0,0,1,3,0,3,3,39.15,96.06,98.59,Exams,Exams and grades
+18,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,2,0,1,0,1,1,2,3,1,0,3,2,47.09,87.82,98.76,Syllabus,Assignment submission
+19,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,3,1,1,2,1,1,2,0,2,3,1,26.0,85.1,99.0,Exams,Work pressure
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,0,1,0,1,3,1,3,3,1,2,0,3,57.35,91.19,99.0,Presentations,During exams
+20,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,1,1,3,2,3,2,0,1,1,3,3,41.37,118.64,96.83,Exams,When I study for exam exams deadlines and assignments keep me worried
+21,Female,Second Year,IT/CS/SOFTWARE/AI,1,3,3,2,3,0,1,2,1,3,2,1,1,31.5,103.43,95.0,Exams,Exams or tests deadlines make me worried
+19,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,2,3,2,1,0,2,2,3,0,3,3,30.24,112.94,95.0,Exams,Mostly worried about exams or assignments
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,1,1,1,2,3,2,2,1,3,2,3,0,26.0,85.94,97.76,Exams,Feel worried during exams and don't sleep
+19,Female,Second Year,IT/CS/SOFTWARE/AI,2,1,2,2,1,1,2,1,1,3,3,3,3,34.23,95.06,97.69,Exams,Exams
+24,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,2,1,2,3,3,1,0,2,0,3,1,47.62,106.3,97.97,Exams,Overthinking about grades
+20,Male,Third Year,IT/CS/SOFTWARE/AI,1,2,2,0,1,3,1,3,1,1,0,0,3,41.9,125.07,97.25,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,First Year,IT/CS/SOFTWARE/AI,2,1,1,0,3,3,2,3,1,3,1,2,0,27.25,83.12,95.47,Assignments,Overthinking about grades
+22,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,2,2,0,3,1,1,1,1,3,1,3,2,30.59,85.08,97.27,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,2,1,3,3,0,0,2,2,0,3,2,38.48,86.77,98.76,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,2,0,3,3,2,1,1,2,3,1,3,35.53,88.31,98.22,Exams,Exams or tests deadlines make me worried
+18,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,0,1,2,1,1,0,1,2,0,0,1,26.0,96.31,97.78,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Second Year,IT/CS/SOFTWARE/AI,1,3,0,0,3,1,2,2,3,3,1,0,3,40.41,77.34,99.0,Exams ,Overthinking about grades
+24,Male,Third Year,IT/CS/SOFTWARE/AI,0,3,0,2,3,1,1,1,1,2,3,3,2,34.24,102.21,95.0,Failure,Assignment submission
+18,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,1,2,2,3,2,2,1,3,3,2,1,3,33.66,82.57,98.48,Exams deadlines,During exams
+22,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,2,1,2,2,3,1,1,2,1,2,0,26.0,85.78,97.74,Exams,Assignment submission
+23,Male,Second Year,IT/CS/SOFTWARE/AI,0,2,1,1,1,0,2,1,0,2,1,3,3,26.0,100.64,99.0,Grades,During exams
+21,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,3,2,1,3,0,0,2,2,1,1,3,3,31.85,74.65,95.42,Exams deadlines,When I don’t study I feel stressed
+18,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,2,1,3,0,2,1,2,2,1,0,0,30.5,108.35,97.75,Exams,Assignment submission
+23,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,2,0,3,3,0,0,1,2,2,3,3,44.95,89.34,99.0,Exams,Exams and grades
+19,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,1,0,3,1,2,2,1,3,3,3,3,28.88,104.64,98.55,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,1,1,3,2,2,2,0,3,3,3,3,26.0,104.6,95.8,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,First Year,IT/CS/SOFTWARE/AI,2,1,2,3,2,3,2,3,2,2,3,3,3,26.0,103.34,96.15,Exams,During exams
+23,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,1,1,0,3,3,1,3,3,0,1,2,47.72,100.54,96.44,Presentations,Feel worried during exams and don't sleep
+23,Female,First Year,IT/CS/SOFTWARE/AI,1,1,2,0,2,3,3,2,3,2,2,1,2,31.61,97.68,97.79,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,2,1,1,1,2,2,1,2,1,2,3,44.34,89.94,96.75,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Second Year,IT/CS/SOFTWARE/AI,3,0,1,1,0,2,1,1,2,2,1,2,1,26.0,65.0,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,2,0,0,3,2,1,0,2,1,3,3,32.11,70.75,96.91,Presentations,Tests and exam deadlines
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,0,2,3,3,2,0,2,1,3,2,3,3,35.11,82.01,98.27,Exams,Exams
+20,Female,Fourth Year,IT/CS/SOFTWARE/AI,0,1,2,1,3,2,0,0,3,2,3,0,3,26.0,106.8,99.0,Exams,Exams or tests deadlines make me worried
+22,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,3,1,0,1,1,0,3,2,1,0,3,33.06,95.3,98.32,Exams deadlines,Assignment submission
+18,Male,First Year,IT/CS/SOFTWARE/AI,3,1,2,0,2,3,1,2,2,3,1,0,1,26.0,73.57,97.63,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,3,0,3,1,0,1,0,3,3,3,1,63.54,94.86,99.0,Presentations,Mostly worried about exams or assignments
+23,Male,Second Year,IT/CS/SOFTWARE/AI,0,2,3,0,1,3,0,3,3,3,1,2,3,45.96,101.61,96.05,Grades,Feel worried during exams and don't sleep
+19,Female,Fourth Year,IT/CS/SOFTWARE/AI,3,1,0,1,3,2,0,1,1,3,3,3,3,54.68,92.81,95.0,Grades,During exams
+18,Male,Fourth Year,IT/CS/SOFTWARE/AI,0,1,2,1,3,1,3,1,1,0,2,2,1,26.0,92.56,97.26,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,1,0,3,1,3,1,1,0,0,3,2,26.0,103.83,96.58,Grades,During exams
+23,Male,Second Year,IT/CS/SOFTWARE/AI,1,0,2,1,3,1,1,3,1,2,3,2,2,48.71,100.96,96.29,Presentations,Tests and exam deadlines
+18,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,2,3,3,0,3,3,1,2,3,3,2,49.42,102.02,99.0,Presentations,Exams and grades
+20,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,1,2,1,3,3,1,3,2,0,1,1,3,43.17,94.95,98.63,Exams ,Overthinking about grades
+22,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,3,3,3,0,1,1,3,3,0,3,3,55.23,90.11,96.71,Exams,When I study for exam exams deadlines and assignments keep me worried
+22,Male,Second Year,IT/CS/SOFTWARE/AI,1,1,2,0,2,2,1,1,3,2,3,1,3,48.8,117.73,96.68,Exams,Assignment submission
+18,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,2,2,1,3,1,0,3,3,0,0,3,42.14,93.88,98.84,Syllabus,Assignment submission
+18,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,2,1,1,0,3,3,1,3,3,2,2,26.23,86.54,95.0,Assignments,Mostly worried about exams or assignments
+24,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,1,1,1,2,3,1,2,3,3,2,0,26.0,94.49,99.0,Exams,Mostly worried about exams or assignments
+24,Male,Third Year,IT/CS/SOFTWARE/AI,3,1,1,3,0,3,0,1,1,2,3,3,1,26.0,96.46,98.99,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,3,0,1,3,3,1,3,3,2,0,3,26.0,104.88,97.04,Exams,Tests or exams or assignments keep me worried
+19,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,2,1,3,0,0,0,0,1,3,3,2,37.57,106.84,95.8,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,First Year,IT/CS/SOFTWARE/AI,3,2,3,1,2,3,2,1,1,2,2,2,2,34.82,80.61,95.0,Exams,Mostly exams or tests or assignments keep me awake
+18,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,2,1,0,3,2,1,0,1,2,3,3,3,32.87,83.26,97.23,Exams,Exams or tests deadlines make me worried
+21,Male,Second Year,IT/CS/SOFTWARE/AI,3,3,2,1,2,3,3,2,2,2,3,2,3,26.0,76.77,95.97,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,1,3,2,2,1,1,3,0,3,3,3,1,41.7,107.73,95.63,Exams deadlines,Mostly exams or tests or assignments keep me awake
+19,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,2,2,1,1,1,3,3,2,1,1,3,44.01,98.04,98.22,Exams,Work pressure
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,0,3,3,3,2,1,1,1,3,3,41.64,99.4,98.57,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,2,1,3,3,1,0,3,3,3,2,3,26.0,66.5,98.92,Presentations,Exams and grades
+20,Female,Third Year,IT/CS/SOFTWARE/AI,3,1,2,1,1,1,1,1,3,3,1,3,3,26.0,71.8,97.53,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,3,1,0,3,3,2,0,0,3,3,3,1,3,62.84,104.3,96.81,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,2,3,2,2,3,3,1,0,2,3,2,1,37.92,93.14,95.83,Grades,During assignments and exams I don't sleep
+19,Male,Third Year,IT/CS/SOFTWARE/AI,1,3,3,2,3,3,1,2,0,2,2,3,3,62.67,112.78,95.97,Exams deadlines,Exams or tests deadlines make me worried
+24,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,2,0,0,2,1,2,2,2,3,0,3,46.69,103.29,99.0,Exams deadlines,Tests or exams or assignments keep me worried
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,1,0,1,3,3,2,1,1,2,1,3,3,48.09,105.95,97.9,Exams,Exams
+18,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,3,3,1,3,3,0,1,1,1,3,3,38.93,89.63,95.42,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,2,3,1,3,3,0,3,2,2,1,1,61.89,115.83,97.77,Exams deadlines,During assignments and exams I don't sleep
+21,Male,Third Year,IT/CS/SOFTWARE/AI,2,0,2,2,2,2,1,2,2,3,0,3,2,37.93,100.01,95.71,Presentations,When I study for exam exams deadlines and assignments keep me worried
+20,Male,First Year,IT/CS/SOFTWARE/AI,3,2,1,3,3,2,2,1,1,3,2,1,3,38.6,79.42,97.3,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,First Year,IT/CS/SOFTWARE/AI,1,2,3,1,3,3,1,1,3,2,2,2,2,62.84,109.47,97.4,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,IT/CS/SOFTWARE/AI,2,0,2,0,1,1,1,3,3,2,3,0,2,38.38,94.46,95.72,Exams deadlines,Tests and exam deadlines
+23,Female,First Year,IT/CS/SOFTWARE/AI,0,2,1,0,3,0,0,1,1,2,2,2,1,27.35,80.14,98.16,Exams,Feel worried during exams and don't sleep
+19,Male,First Year,IT/CS/SOFTWARE/AI,2,2,2,1,1,0,2,0,2,0,3,3,3,26.0,95.56,98.91,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,IT/CS/SOFTWARE/AI,0,1,1,2,0,3,2,3,2,3,1,2,3,52.08,97.77,96.09,Exams deadlines,Exams and grades
+24,Female,Fourth Year,IT/CS/SOFTWARE/AI,0,1,2,1,3,2,0,3,2,0,3,2,1,42.57,102.43,99.0,Exams,Exams and grades
+19,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,0,0,0,1,3,1,2,3,0,0,2,35.92,80.22,96.89,Syllabus,Overthinking about grades
+21,Male,Second Year,IT/CS/SOFTWARE/AI,1,3,0,0,0,3,2,1,3,2,0,3,3,34.94,89.33,97.77,Exams,Tests or exams or assignments keep me worried
+22,Male,First Year,IT/CS/SOFTWARE/AI,2,1,2,2,3,3,0,1,1,2,2,3,3,29.0,101.5,96.77,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,3,0,3,1,0,2,0,2,3,1,3,3,41.57,81.65,96.64,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,2,2,3,0,2,0,1,2,3,1,3,26.0,68.29,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Third Year,IT/CS/SOFTWARE/AI,3,3,2,2,3,1,2,0,2,2,0,1,2,38.19,95.63,99.0,Exams,During exams
+18,Male,Third Year,IT/CS/SOFTWARE/AI,1,2,2,0,3,3,1,1,0,3,3,3,2,43.29,118.6,95.65,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,0,3,0,3,1,2,2,0,3,0,3,1,27.26,85.01,96.88,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Third Year,IT/CS/SOFTWARE/AI,0,1,2,1,3,2,3,0,1,2,2,0,1,63.4,92.64,99.0,Grades,Exams
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,3,2,0,2,3,2,0,1,3,0,2,3,62.23,95.96,97.58,Exams,Exams or tests deadlines make me worried
+23,Female,First Year,IT/CS/SOFTWARE/AI,1,2,3,1,1,0,1,3,2,0,0,3,2,82.12,108.88,96.3,Exams,During assignments and exams I don't sleep
+24,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,2,3,0,1,3,2,3,2,1,0,3,32.71,90.54,98.77,Exams,Exams
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,1,2,3,2,1,0,2,3,0,3,1,41.65,97.43,97.9,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,1,2,1,3,3,2,2,3,2,3,3,26.0,106.36,95.88,Exams,Work pressure
+22,Male,Second Year,IT/CS/SOFTWARE/AI,0,2,3,1,2,3,3,0,1,3,1,3,1,36.95,98.39,96.32,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Fourth Year,IT/CS/SOFTWARE/AI,0,1,2,1,2,3,1,2,1,1,3,1,3,26.0,91.67,96.48,Exams,Tests and exam deadlines
+22,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,2,1,1,1,3,0,1,3,1,1,3,41.65,83.45,98.49,Failure,Feel worried during exams and don't sleep
+24,Female,First Year,IT/CS/SOFTWARE/AI,0,1,3,1,3,3,0,3,0,2,2,0,3,26.0,70.45,97.36,Presentations,Exams or tests deadlines make me worried
+20,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,2,3,3,1,2,0,1,1,2,1,3,36.32,96.86,97.73,Presentations,Assignment submission
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,1,2,1,3,2,2,2,3,0,3,3,26.0,81.21,95.71,Exams,Work pressure
+24,Female,First Year,IT/CS/SOFTWARE/AI,1,1,2,1,0,0,3,0,3,0,2,1,3,55.13,91.34,95.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,3,1,2,3,3,0,2,0,2,2,1,26.14,89.61,96.76,Presentations,Tests and exam deadlines
+22,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,3,2,3,3,1,2,1,1,1,2,2,33.41,111.59,96.35,Exams,During exams
+18,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,2,0,2,2,1,2,1,2,3,3,3,44.44,76.23,97.98,Presentations,During exams
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,2,1,3,3,1,3,1,2,1,1,2,35.7,118.96,96.43,Exams,Work pressure
+22,Female,Fourth Year,IT/CS/SOFTWARE/AI,1,2,2,3,0,3,0,2,3,3,1,3,1,34.62,79.77,97.49,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,2,1,1,1,2,3,2,2,1,3,3,27.27,102.67,98.23,Exams deadlines,Tests and exam deadlines
+22,Male,Third Year,IT/CS/SOFTWARE/AI,2,3,2,0,3,1,2,3,3,3,2,3,1,51.54,113.07,99.0,Exams,Exams and grades
+19,Female,First Year,IT/CS/SOFTWARE/AI,1,1,3,2,2,2,2,3,1,2,1,0,1,56.79,71.51,96.89,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,First Year,IT/CS/SOFTWARE/AI,2,3,2,1,0,2,1,1,0,2,0,3,0,39.43,89.42,97.13,Failure,Overthinking about grades
+23,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,1,0,3,1,2,0,2,0,3,2,3,35.39,102.9,97.03,Exams,Work pressure
+21,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,2,1,1,2,1,0,2,2,1,0,3,37.85,103.37,99.0,Presentations,Assignment submission
+22,Male,Second Year,IT/CS/SOFTWARE/AI,0,2,1,2,0,2,1,0,1,2,0,1,2,42.08,105.3,95.62,Exams deadlines,Tests and exam deadlines
+21,Female,Second Year,IT/CS/SOFTWARE/AI,3,3,0,1,3,3,2,0,3,0,2,0,3,50.88,109.08,97.71,Exams,Exams or tests deadlines make me worried
+22,Male,Second Year,IT/CS/SOFTWARE/AI,1,3,2,0,3,2,0,1,2,3,1,1,3,44.61,113.66,97.82,Exams,Exams and grades
+19,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,2,2,0,3,3,2,1,1,3,1,1,2,42.45,65.0,97.97,Presentations,During exams
+21,Male,Third Year,IT/CS/SOFTWARE/AI,3,2,3,1,2,0,1,2,2,3,3,0,3,26.0,103.42,98.11,Exams,Exams
+22,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,3,1,3,2,3,1,3,3,3,3,3,27.83,115.98,96.64,Exams,Feel worried during exams and don't sleep
+22,Male,Second Year,IT/CS/SOFTWARE/AI,2,0,1,2,1,0,2,2,2,3,0,0,3,37.74,102.82,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Second Year,IT/CS/SOFTWARE/AI,0,0,2,1,1,2,1,1,3,3,3,3,3,26.0,95.74,97.33,Exams,Assignment submission
+22,Female,Second Year,IT/CS/SOFTWARE/AI,2,0,1,0,1,2,3,0,2,2,2,3,3,34.19,87.09,98.8,Exams,Work pressure
+18,Male,Third Year,IT/CS/SOFTWARE/AI,3,2,2,1,1,2,0,1,2,3,1,2,3,33.82,95.79,97.72,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Third Year,IT/CS/SOFTWARE/AI,3,1,3,3,3,0,2,0,3,3,1,1,1,26.0,82.99,99.0,Exams,Feel worried during exams and don't sleep
+23,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,3,3,3,3,1,2,1,1,0,1,1,26.0,103.31,98.09,Exams,Exams
+20,Female,Third Year,IT/CS/SOFTWARE/AI,2,3,2,2,1,3,3,3,2,0,1,0,3,40.96,107.3,97.95,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Fourth Year,IT/CS/SOFTWARE/AI,1,1,2,1,2,2,2,0,1,3,2,3,2,26.0,101.77,96.92,Exams,Feel worried during exams and don't sleep
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,2,0,1,3,2,0,1,2,2,0,1,49.91,117.47,99.0,Exams,During exams
+19,Female,First Year,IT/CS/SOFTWARE/AI,3,3,1,1,3,1,1,0,1,0,2,3,3,36.23,102.06,98.56,Assignments,Overthinking about grades
+19,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,2,3,1,0,3,0,3,2,1,2,3,39.59,108.51,97.29,Exams,Exams
+22,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,2,0,0,3,2,1,2,2,2,0,2,31.98,105.91,97.39,Presentations,Mostly worried about exams or assignments
+21,Female,First Year,IT/CS/SOFTWARE/AI,0,2,1,2,3,1,3,0,1,1,3,3,3,47.11,92.11,98.54,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,2,1,1,1,2,1,0,0,3,2,3,3,26.0,116.97,96.61,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,0,1,3,3,2,3,1,0,3,3,26.0,83.27,97.46,Exams ,Tests and exam deadlines
+24,Female,Third Year,IT/CS/SOFTWARE/AI,2,0,2,3,2,3,0,1,1,2,2,3,3,33.06,105.71,97.9,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Fourth Year,IT/CS/SOFTWARE/AI,0,0,0,1,3,1,2,0,0,2,0,1,2,43.48,105.67,95.0,Exams,Assignment submission
+18,Male,First Year,IT/CS/SOFTWARE/AI,0,2,1,3,3,2,2,3,3,2,0,1,3,26.0,97.73,97.37,Presentations,Exams or tests deadlines make me worried
+18,Male,Third Year,IT/CS/SOFTWARE/AI,3,2,3,0,1,2,1,3,1,2,0,3,2,54.33,100.01,96.61,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,3,0,3,2,1,3,2,2,1,2,1,2,2,30.4,97.22,98.89,Exams,Mostly exams or tests or assignments keep me awake
+23,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,2,3,0,1,3,1,0,1,3,2,2,1,49.0,106.5,95.92,Presentations,Exams and grades
+18,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,1,2,0,1,3,1,3,2,1,2,3,47.51,98.63,96.21,Exams,Tests and exam deadlines
+18,Male,Second Year,IT/CS/SOFTWARE/AI,1,3,0,1,1,1,3,0,1,2,3,3,1,30.26,104.66,95.92,Syllabus,Assignment submission
+19,Female,Third Year,IT/CS/SOFTWARE/AI,2,3,1,3,3,3,0,2,3,2,0,3,2,26.0,94.45,97.55,Presentations,Overthinking about grades
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,2,2,3,3,1,1,2,2,3,1,3,26.0,117.37,97.61,Exams,Exams or tests deadlines make me worried
+22,Male,Third Year,IT/CS/SOFTWARE/AI,3,0,0,2,3,0,0,1,0,3,3,1,3,39.41,103.32,97.15,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,1,1,1,1,2,2,1,3,3,1,3,3,31.39,112.72,96.39,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,IT/CS/SOFTWARE/AI,1,3,2,1,0,0,1,1,3,2,3,1,2,26.0,103.46,99.0,Exams,Work pressure
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,3,1,1,1,3,1,2,1,3,3,2,35.01,81.99,97.03,Exams,Assignment submission
+18,Male,Third Year,IT/CS/SOFTWARE/AI,3,3,3,0,0,3,1,0,1,2,0,2,2,26.0,100.34,99.0,Exams,Feel worried during exams and don't sleep
+20,Male,Second Year,IT/CS/SOFTWARE/AI,2,0,1,1,1,1,2,1,0,3,2,3,3,29.58,116.87,97.75,Syllabus,Work pressure
+22,Male,Third Year,IT/CS/SOFTWARE/AI,3,1,2,2,1,1,3,0,0,1,1,3,3,43.8,98.08,97.55,Exams,Feel worried during exams and don't sleep
+22,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,3,1,2,1,2,1,0,3,2,3,2,2,26.0,76.12,98.38,Exams deadlines,Tests or exams or assignments keep me worried
+21,Female,Fourth Year,IT/CS/SOFTWARE/AI,1,2,1,2,3,2,0,0,0,3,1,1,0,29.44,97.35,98.6,Exams,Feel worried during exams and don't sleep
+19,Female,Second Year,IT/CS/SOFTWARE/AI,0,3,2,1,0,2,2,0,1,1,3,3,3,28.61,114.01,99.0,Exams,During exams
+24,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,2,2,3,3,0,1,0,0,1,1,3,51.35,114.23,99.0,Exams deadlines,Tests or exams or assignments keep me worried
+18,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,1,1,1,3,1,1,0,3,3,2,3,46.11,104.35,95.7,Exams,When I don’t study I feel stressed
+18,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,1,1,0,1,3,1,2,3,1,0,2,26.0,86.37,99.0,Exams,Exams or tests deadlines make me worried
+23,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,2,1,0,3,2,2,1,2,0,2,2,58.52,93.52,95.62,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,1,1,2,1,2,0,1,0,3,3,1,39.19,98.32,99.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+19,Male,Third Year,IT/CS/SOFTWARE/AI,3,3,2,1,3,3,3,1,1,0,3,3,3,42.67,83.72,98.07,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Third Year,IT/CS/SOFTWARE/AI,3,1,2,1,2,3,1,1,1,1,3,1,1,27.3,94.01,97.1,Exams,Feel worried during exams and don't sleep
+21,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,2,3,0,3,3,1,3,3,3,1,3,62.48,95.89,97.01,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,3,3,3,1,0,1,3,1,1,2,26.0,93.64,96.33,Exams,Mostly worried about exams or assignments
+24,Female,Second Year,IT/CS/SOFTWARE/AI,0,2,2,2,2,1,1,0,1,3,1,1,1,35.46,114.86,97.48,Exams,During exams
+20,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,0,1,3,3,2,0,1,1,2,3,0,3,36.52,97.29,99.0,Exams,Exams
+20,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,2,3,0,3,3,1,0,1,3,3,0,0,26.0,89.81,97.4,Grades,Work pressure
+19,Male,Second Year,IT/CS/SOFTWARE/AI,1,1,1,2,1,3,1,1,2,0,1,3,1,44.36,91.98,98.94,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Third Year,IT/CS/SOFTWARE/AI,2,1,3,3,2,3,3,1,1,3,2,3,2,40.33,110.41,97.8,Grades,Feel worried during exams and don't sleep
+22,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,3,2,0,1,2,3,2,2,3,1,3,3,47.5,98.75,97.38,Grades,Assignment submission
+23,Male,Third Year,IT/CS/SOFTWARE/AI,0,1,0,1,3,1,0,0,2,2,0,3,3,26.0,77.85,95.56,Exams,Feel worried during exams and don't sleep
+22,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,2,1,0,2,2,1,3,2,1,0,3,34.21,76.62,95.87,Exams,Exams and grades
+20,Male,Second Year,IT/CS/SOFTWARE/AI,1,3,2,0,3,2,0,2,2,3,1,0,3,72.05,121.88,96.75,Exams,Mostly worried about exams or assignments
+19,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,2,1,2,3,0,3,2,1,0,3,3,3,26.0,71.14,97.2,Exams,Tests or exams or assignments keep me worried
+23,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,1,2,1,1,2,3,1,3,2,1,1,3,36.58,75.35,96.21,Exams deadlines,Tests or exams or assignments keep me worried
+21,Male,Third Year,IT/CS/SOFTWARE/AI,2,1,1,3,1,2,2,0,0,1,2,0,2,42.87,102.95,95.36,Exams,Exams and grades
+21,Male,Second Year,IT/CS/SOFTWARE/AI,1,0,1,1,1,3,3,3,1,1,1,3,3,26.6,105.89,97.36,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,3,2,2,3,3,1,2,2,3,1,3,3,33.35,102.24,98.32,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,1,2,0,3,2,1,3,1,2,1,0,3,59.14,111.02,96.99,Exams,Mostly worried about exams or assignments
+20,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,1,2,0,3,2,0,0,2,1,2,2,64.74,124.05,95.5,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,1,3,1,1,1,0,3,0,3,2,1,3,58.48,82.76,95.35,Presentations,Tests or exams or assignments keep me worried
+22,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,2,2,3,2,3,1,1,0,1,1,3,3,43.63,95.84,96.38,Exams deadlines,Exams or tests deadlines make me worried
+18,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,2,1,3,0,3,2,1,0,3,1,2,27.82,85.21,99.0,Exams,Tests and exam deadlines
+21,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,2,3,3,1,2,1,1,0,1,3,3,50.13,90.55,97.1,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Fourth Year,IT/CS/SOFTWARE/AI,1,3,1,1,1,1,2,0,3,2,2,3,3,26.0,78.39,95.0,Exams,Feel worried during exams and don't sleep
+24,Male,First Year,IT/CS/SOFTWARE/AI,2,2,0,0,3,2,1,2,0,2,2,2,3,26.0,115.36,97.31,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,0,0,2,1,3,0,2,2,0,3,2,43.5,107.94,96.0,Exams,Tests or exams or assignments keep me worried
+18,Female,First Year,IT/CS/SOFTWARE/AI,2,2,3,1,1,1,1,2,3,2,0,1,2,47.93,89.35,98.24,Syllabus,When I don’t study I feel stressed
+19,Male,Second Year,IT/CS/SOFTWARE/AI,0,2,2,3,1,0,1,3,1,2,2,2,3,30.09,81.88,95.57,Exams,Overthinking about grades
+22,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,2,0,3,3,1,1,2,3,3,1,3,26.0,98.42,97.88,Exams,During assignments and exams I don't sleep
+22,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,1,3,3,3,2,0,1,3,2,0,1,3,38.13,105.04,98.33,Grades,Work pressure
+19,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,2,3,3,2,3,1,1,2,3,2,3,55.58,83.54,99.0,Exams,Tests or exams or assignments keep me worried
+18,Female,Second Year,IT/CS/SOFTWARE/AI,3,3,2,1,1,1,1,1,0,1,2,0,0,52.34,98.17,96.75,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,3,0,2,0,3,1,1,3,2,2,0,1,3,35.37,75.91,98.86,Grades,Exams and grades
+21,Male,Second Year,IT/CS/SOFTWARE/AI,0,1,1,1,0,0,3,1,3,3,0,1,3,26.64,101.37,96.27,Exams,Exams or tests deadlines make me worried
+22,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,1,1,1,1,0,0,1,1,0,0,1,2,48.57,96.71,99.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+23,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,2,3,2,3,1,0,2,1,1,3,1,51.71,98.57,98.6,Exams,Exams and grades
+20,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,1,0,1,3,1,2,1,1,2,0,2,37.07,95.66,96.1,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,2,2,3,1,3,2,3,0,2,1,3,46.83,105.36,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Fourth Year,IT/CS/SOFTWARE/AI,1,1,2,1,3,3,3,1,3,1,0,0,3,32.53,102.34,96.43,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Third Year,IT/CS/SOFTWARE/AI,2,1,3,3,0,1,1,1,3,2,0,3,3,29.39,119.4,97.94,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,2,2,2,3,1,0,2,3,3,1,3,3,54.42,67.55,95.0,Exams,Mostly exams or tests or assignments keep me awake
+19,Female,Second Year,IT/CS/SOFTWARE/AI,2,1,3,3,1,2,3,0,3,3,3,2,2,38.61,100.66,95.35,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Third Year,IT/CS/SOFTWARE/AI,1,3,2,3,1,3,2,1,0,0,2,3,2,65.72,108.51,97.64,Exams,When I study for exam exams deadlines and assignments keep me worried
+22,Female,Fourth Year,IT/CS/SOFTWARE/AI,3,1,2,2,2,3,3,2,2,3,1,3,3,32.26,68.11,97.78,Failure,Assignment submission
+24,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,2,2,1,2,0,0,1,2,0,1,3,2,26.0,88.19,95.61,Syllabus,During assignments and exams I don't sleep
+20,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,2,3,2,3,1,1,1,2,0,3,1,38.51,68.73,98.32,Exams deadlines,Overthinking about grades
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,1,0,1,2,1,1,2,0,3,2,3,34.26,65.0,95.85,Syllabus,Tests or exams or assignments keep me worried
+23,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,2,1,3,0,1,1,3,3,3,3,1,26.0,92.48,95.57,Exams ,When I don’t study I feel stressed
+21,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,1,0,3,0,2,2,1,1,3,3,2,28.34,102.76,98.25,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,1,3,2,2,0,3,1,2,3,3,2,34.93,102.38,95.11,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Second Year,IT/CS/SOFTWARE/AI,1,0,2,1,2,2,1,1,0,0,0,0,2,27.15,89.57,97.35,Exams,During assignments and exams I don't sleep
+18,Male,Third Year,IT/CS/SOFTWARE/AI,3,1,2,0,1,3,1,1,3,3,3,3,3,40.95,110.47,97.83,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,1,0,2,3,0,0,2,2,1,1,2,36.03,107.39,95.0,Exams deadlines,Work pressure
+21,Female,Third Year,IT/CS/SOFTWARE/AI,1,1,2,0,0,1,2,0,0,3,0,2,3,49.99,100.93,98.01,Exams,Assignment submission
+24,Male,Second Year,IT/CS/SOFTWARE/AI,3,0,2,0,2,2,1,1,3,1,1,2,3,44.3,106.24,99.0,Exams ,Feel worried during exams and don't sleep
+24,Female,Third Year,IT/CS/SOFTWARE/AI,2,3,3,1,2,1,1,3,3,2,3,1,1,26.63,103.09,98.05,Exams,Exams and grades
+23,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,0,3,1,1,3,3,3,1,3,0,1,26.0,128.0,97.88,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Third Year,IT/CS/SOFTWARE/AI,2,3,0,1,1,3,0,0,3,2,3,3,1,50.54,95.75,96.99,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Fourth Year,IT/CS/SOFTWARE/AI,1,2,2,1,3,3,1,1,2,1,3,3,1,26.0,102.06,99.0,Syllabus,When I study for exam exams deadlines and assignments keep me worried
+19,Female,Third Year,IT/CS/SOFTWARE/AI,0,1,1,2,3,3,3,0,1,2,2,1,3,32.51,90.3,96.75,Exams,Tests or exams or assignments keep me worried
+24,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,1,0,1,0,2,2,3,3,0,1,1,32.49,109.77,95.0,Exams,Exams or tests deadlines make me worried
+19,Female,Third Year,IT/CS/SOFTWARE/AI,3,1,2,1,3,3,3,3,3,2,2,2,1,32.46,102.39,95.65,Exams,Mostly worried about exams or assignments
+21,Male,First Year,IT/CS/SOFTWARE/AI,3,1,2,1,3,2,3,1,2,3,1,1,2,55.14,110.36,95.06,Presentations,Assignment submission
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,2,1,1,3,2,3,3,2,1,3,3,43.41,75.28,97.34,Syllabus,When I don’t study I feel stressed
+20,Male,Third Year,IT/CS/SOFTWARE/AI,2,1,2,1,3,2,0,2,0,3,3,3,0,45.52,99.66,97.83,Exams,Assignment submission
+18,Female,Third Year,IT/CS/SOFTWARE/AI,1,0,2,3,3,1,1,2,1,1,3,2,1,54.87,65.0,96.89,Exams ,Tests or exams or assignments keep me worried
+19,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,1,2,0,2,2,0,0,2,1,3,3,26.0,98.53,99.0,Exams,Mostly worried about exams or assignments
+24,Male,Second Year,IT/CS/SOFTWARE/AI,1,3,2,3,1,3,2,1,0,1,3,0,2,42.46,84.71,96.35,Presentations,During assignments and exams I don't sleep
+24,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,3,0,3,1,2,0,3,0,0,1,3,30.19,103.56,95.0,Failure,Assignment submission
+19,Male,Second Year,IT/CS/SOFTWARE/AI,1,1,2,2,3,0,1,0,2,1,2,0,2,46.17,94.74,98.26,Exams ,Assignment submission
+24,Male,First Year,IT/CS/SOFTWARE/AI,2,3,1,1,3,2,2,0,1,1,3,1,3,54.26,92.81,97.07,Syllabus,Mostly worried about exams or assignments
+23,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,1,2,0,1,1,1,0,1,2,1,2,3,29.66,106.74,97.77,Failure,Exams and grades
+20,Male,First Year,IT/CS/SOFTWARE/AI,3,0,0,1,1,2,1,1,1,3,0,2,3,37.64,104.26,96.74,Exams ,During assignments and exams I don't sleep
+19,Female,First Year,IT/CS/SOFTWARE/AI,1,2,1,3,3,0,0,2,3,3,1,3,3,26.0,114.49,99.0,Presentations,Mostly worried about exams or assignments
+18,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,1,2,3,2,2,1,0,2,0,3,3,68.87,110.85,98.87,Presentations,Exams
+20,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,2,3,0,3,3,0,3,0,3,2,3,3,34.73,94.37,97.98,Assignments,Exams or tests deadlines make me worried
+19,Female,Third Year,IT/CS/SOFTWARE/AI,2,1,1,1,1,2,2,2,0,3,1,3,3,40.29,84.77,98.64,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,IT/CS/SOFTWARE/AI,1,3,1,0,3,1,1,3,3,3,1,3,3,46.9,107.44,96.97,Exams,When I study for exam exams deadlines and assignments keep me worried
+20,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,2,2,3,1,3,3,1,2,2,3,0,26.0,74.87,97.74,Exams,Overthinking about grades
+20,Male,First Year,IT/CS/SOFTWARE/AI,3,2,2,3,3,3,1,1,1,2,1,2,3,31.62,65.0,95.47,Exams deadlines,Overthinking about grades
+21,Male,Second Year,IT/CS/SOFTWARE/AI,3,3,1,1,1,0,2,1,2,1,1,0,2,28.49,102.17,95.25,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,2,1,0,1,3,1,3,3,0,3,3,35.75,101.21,99.0,Exams,Mostly exams or tests or assignments keep me awake
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,0,2,0,0,2,2,1,0,1,0,3,3,3,33.48,89.12,96.88,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,3,2,3,1,0,1,1,1,2,3,3,2,36.29,91.83,99.0,Exams,Feel worried during exams and don't sleep
+18,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,1,0,1,3,2,2,3,0,0,2,2,69.85,98.48,99.0,Exams,Feel worried during exams and don't sleep
+22,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,2,1,1,3,0,2,3,1,3,3,2,51.2,87.33,96.07,Assignments,Tests or exams or assignments keep me worried
+18,Female,Second Year,IT/CS/SOFTWARE/AI,2,1,2,2,0,3,0,3,3,3,0,3,0,51.56,97.79,95.41,Exams deadlines,Mostly exams or tests or assignments keep me awake
+24,Female,Second Year,IT/CS/SOFTWARE/AI,2,1,2,1,2,3,2,1,2,2,1,3,3,26.0,73.06,97.55,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,0,1,2,1,3,1,0,3,1,1,2,3,3,37.57,66.32,97.09,Exams,Tests and exam deadlines
+21,Female,Second Year,IT/CS/SOFTWARE/AI,3,1,3,3,3,2,2,2,3,2,0,2,1,67.01,77.31,96.78,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,2,3,2,2,1,1,2,1,0,3,2,44.04,104.94,97.56,Exams,During exams
+21,Male,Second Year,IT/CS/SOFTWARE/AI,1,2,1,1,0,3,1,2,2,1,1,3,2,48.61,86.17,98.73,Exams,Overthinking about grades
+21,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,2,0,2,2,1,1,1,2,0,2,3,42.34,99.68,96.44,Exams,Work pressure
+19,Female,Second Year,IT/CS/SOFTWARE/AI,1,0,3,0,3,0,0,1,1,1,3,2,1,29.08,82.58,96.84,Exams,Overthinking about grades
+20,Female,Fourth Year,IT/CS/SOFTWARE/AI,0,3,1,0,1,2,3,0,3,2,0,2,2,42.27,81.51,98.47,Exams,Mostly exams or tests or assignments keep me awake
+21,Male,First Year,IT/CS/SOFTWARE/AI,1,2,3,2,3,1,1,2,1,0,1,3,3,29.86,88.69,99.0,Exams deadlines,When I study for exam exams deadlines and assignments keep me worried
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,2,2,3,1,2,3,0,0,2,3,3,1,34.81,104.06,95.0,Syllabus,During exams
+19,Female,Second Year,IT/CS/SOFTWARE/AI,1,3,1,1,2,0,2,1,3,3,2,2,1,65.63,99.05,97.49,Exams,Mostly exams or tests or assignments keep me awake
+22,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,0,3,3,3,0,2,3,3,1,3,1,50.26,69.92,95.0,Exams,When I don’t study I feel stressed
+21,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,2,1,1,3,0,3,0,1,1,3,3,27.79,115.18,96.9,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Third Year,IT/CS/SOFTWARE/AI,2,1,2,0,1,2,2,0,0,3,1,2,2,26.0,65.0,97.02,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,2,1,3,3,1,3,2,1,3,3,2,31.84,112.0,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Second Year,IT/CS/SOFTWARE/AI,1,0,1,2,1,2,1,2,1,3,3,0,0,26.0,105.68,98.23,Exams,Exams and grades
+24,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,0,1,0,1,3,3,1,2,3,2,2,51.46,81.31,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,3,1,2,3,3,1,3,2,2,3,2,48.22,74.16,95.96,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,3,2,1,2,2,3,0,0,1,3,3,3,34.12,108.73,97.74,Exams,Tests and exam deadlines
+18,Male,Second Year,IT/CS/SOFTWARE/AI,2,0,1,1,1,3,1,1,1,2,1,3,2,56.79,94.0,95.0,Grades,Exams and grades
+19,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,0,3,1,3,2,1,3,2,3,3,1,45.45,102.65,95.0,Exams,Mostly worried about exams or assignments
+19,Male,Second Year,IT/CS/SOFTWARE/AI,0,2,2,0,3,3,3,0,0,1,0,3,2,29.65,92.24,95.27,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,2,3,3,3,2,0,2,2,1,3,3,27.6,107.79,98.62,Grades,Tests and exam deadlines
+18,Female,Third Year,IT/CS/SOFTWARE/AI,2,2,3,1,1,3,3,1,2,3,3,1,3,32.29,99.15,96.13,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,1,1,3,1,1,3,2,2,3,3,26.0,88.56,95.6,Exams,Tests and exam deadlines
+20,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,1,0,1,1,1,2,0,3,1,3,2,47.94,75.53,97.42,Exams,When I don’t study I feel stressed
+21,Male,Third Year,IT/CS/SOFTWARE/AI,3,2,1,0,3,3,1,3,3,2,0,3,2,42.53,97.06,95.15,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Third Year,IT/CS/SOFTWARE/AI,2,2,2,2,2,0,2,0,1,2,0,3,3,38.17,111.31,95.0,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,1,2,1,0,1,3,3,3,3,0,54.36,95.14,98.22,Exams,Mostly worried about exams or assignments
+18,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,3,1,3,1,2,3,1,1,0,1,3,36.1,75.07,95.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+20,Male,Second Year,IT/CS/SOFTWARE/AI,3,3,2,1,2,3,1,0,2,0,3,3,3,26.0,91.01,95.26,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Second Year,IT/CS/SOFTWARE/AI,2,1,3,2,1,3,3,1,3,3,3,3,1,35.34,87.26,97.96,Exams deadlines,Tests or exams or assignments keep me worried
+21,Male,Second Year,IT/CS/SOFTWARE/AI,2,0,3,3,1,2,0,1,1,2,1,3,3,42.24,100.5,99.0,Grades,During exams
+19,Female,Third Year,IT/CS/SOFTWARE/AI,3,3,2,2,2,3,3,3,2,0,3,3,1,37.0,112.73,99.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,2,1,3,3,3,2,2,2,3,3,3,1,33.4,115.81,98.16,Exams,When I don’t study I feel stressed
+24,Female,Second Year,IT/CS/SOFTWARE/AI,0,1,3,0,1,3,2,3,1,2,0,1,3,34.72,91.99,97.82,Assignments,Tests and exam deadlines
+18,Female,First Year,IT/CS/SOFTWARE/AI,3,2,1,3,3,3,3,3,2,3,1,0,3,37.17,98.31,96.34,Exams deadlines,Tests or exams or assignments keep me worried
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,1,2,1,3,3,1,0,1,3,3,1,3,78.42,72.93,97.88,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,2,0,1,1,1,1,2,1,1,3,3,45.82,97.87,98.55,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,IT/CS/SOFTWARE/AI,1,1,2,1,3,3,3,3,3,2,1,0,1,40.45,112.72,95.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Third Year,IT/CS/SOFTWARE/AI,0,2,2,3,0,1,3,0,3,2,0,1,3,43.0,111.98,95.51,Presentations,During assignments and exams I don't sleep
+22,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,3,2,2,3,3,2,1,1,1,2,3,3,39.8,97.01,97.81,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Second Year,IT/CS/SOFTWARE/AI,1,0,3,0,3,1,0,3,1,0,0,3,1,26.0,110.56,97.39,Exams deadlines,Exams and grades
+22,Male,Third Year,IT/CS/SOFTWARE/AI,3,2,0,2,2,2,1,3,1,2,1,0,1,26.0,104.12,95.0,Exams,Work pressure
+20,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,1,2,3,3,0,0,2,0,3,3,3,26.0,97.97,97.2,Exams deadlines,During assignments and exams I don't sleep
+22,Female,Third Year,IT/CS/SOFTWARE/AI,2,2,2,3,1,1,1,2,3,2,1,1,3,35.27,87.74,96.6,Exams,Tests and exam deadlines
+24,Male,Second Year,IT/CS/SOFTWARE/AI,2,3,2,1,3,1,0,1,3,1,2,3,3,45.24,91.96,97.02,Exams,When I study for exam exams deadlines and assignments keep me worried
+18,Male,Second Year,IT/CS/SOFTWARE/AI,1,3,0,0,1,3,3,1,0,2,3,3,2,43.18,73.17,98.53,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,1,3,3,3,1,1,0,2,1,2,3,71.07,82.19,97.22,Exams,Mostly exams or tests or assignments keep me awake
+22,Male,Second Year,IT/CS/SOFTWARE/AI,1,0,2,0,0,3,3,2,2,2,3,0,2,54.39,87.72,97.72,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,1,2,3,3,3,1,1,0,2,0,1,3,41.7,87.68,97.24,Assignments,Assignment submission
+24,Female,Second Year,IT/CS/SOFTWARE/AI,0,3,2,3,3,3,2,0,1,1,3,3,3,39.65,103.39,97.03,Exams,Exams
+19,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,1,2,0,3,1,1,0,3,2,1,0,2,51.56,102.22,96.27,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,First Year,IT/CS/SOFTWARE/AI,3,1,1,0,3,3,1,1,1,3,2,3,3,26.0,83.21,96.56,Assignments,Overthinking about grades
+20,Male,Third Year,IT/CS/SOFTWARE/AI,1,1,1,2,0,2,1,2,3,3,2,2,3,28.84,106.0,96.56,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,IT/CS/SOFTWARE/AI,3,1,2,1,1,0,2,0,1,2,2,3,3,35.79,109.18,96.56,Exams,During exams
+24,Female,Fourth Year,IT/CS/SOFTWARE/AI,0,3,0,1,2,3,2,0,1,0,3,1,3,35.6,78.34,96.57,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Second Year,IT/CS/SOFTWARE/AI,3,3,2,3,2,3,2,1,0,1,0,3,2,43.49,90.87,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,First Year,IT/CS/SOFTWARE/AI,2,1,3,1,0,3,1,3,0,2,3,3,3,40.6,81.81,96.62,Presentations,Feel worried during exams and don't sleep
+21,Female,Fourth Year,IT/CS/SOFTWARE/AI,1,3,2,0,3,0,3,1,1,3,2,0,3,26.0,100.48,99.0,Presentations,Mostly exams or tests or assignments keep me awake
+20,Male,Second Year,IT/CS/SOFTWARE/AI,1,1,2,0,3,1,1,1,0,2,3,3,3,41.39,111.26,97.13,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Third Year,IT/CS/SOFTWARE/AI,3,0,3,3,3,3,1,2,1,2,1,1,2,26.0,106.01,97.21,Failure,Assignment submission
+18,Female,Second Year,IT/CS/SOFTWARE/AI,1,2,2,2,3,1,0,1,3,1,3,3,1,39.53,89.25,96.57,Presentations,When I study for exam exams deadlines and assignments keep me worried
+23,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,3,2,3,3,1,2,0,1,0,1,1,26.0,111.56,95.24,Exams,Mostly worried about exams or assignments
+20,Female,Third Year,IT/CS/SOFTWARE/AI,0,1,2,1,2,2,2,1,1,2,3,3,2,64.59,112.66,97.53,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,First Year,IT/CS/SOFTWARE/AI,3,2,2,0,1,3,3,0,1,3,1,3,1,30.38,98.24,97.44,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Second Year,IT/CS/SOFTWARE/AI,0,2,2,2,1,0,2,0,3,3,3,2,1,37.33,94.31,95.17,Exams,Mostly exams or tests or assignments keep me awake
+20,Male,First Year,IT/CS/SOFTWARE/AI,2,1,1,0,3,1,1,3,3,1,1,2,3,50.52,78.52,97.09,Exams,When I don’t study I feel stressed
+18,Male,Third Year,IT/CS/SOFTWARE/AI,2,2,2,2,2,3,1,3,3,3,2,3,3,39.32,91.92,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,1,3,2,2,1,0,2,0,0,3,0,26.0,106.42,96.19,Exams ,Mostly worried about exams or assignments
+24,Male,Fourth Year,IT/CS/SOFTWARE/AI,3,1,3,3,0,3,2,0,1,2,3,1,0,42.14,90.51,98.75,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Second Year,IT/CS/SOFTWARE/AI,3,2,3,1,3,3,3,1,2,2,2,0,2,29.13,88.26,96.51,Failure,Exams or tests deadlines make me worried
+23,Male,Second Year,IT/CS/SOFTWARE/AI,1,1,2,2,0,3,2,0,0,2,3,2,0,46.54,120.63,99.0,Exams deadlines,Feel worried during exams and don't sleep
+21,Male,Second Year,IT/CS/SOFTWARE/AI,3,0,1,1,3,3,3,3,1,2,1,1,3,38.74,81.15,96.19,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Second Year,IT/CS/SOFTWARE/AI,2,0,2,2,3,0,2,1,1,3,2,1,1,26.0,82.85,97.16,Exams,Mostly worried about exams or assignments
+21,Female,Second Year,IT/CS/SOFTWARE/AI,2,0,2,1,1,2,1,1,3,3,1,1,0,49.51,84.68,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Third Year,IT/CS/SOFTWARE/AI,2,1,2,3,2,3,1,0,1,3,3,1,3,33.42,91.06,97.49,Grades,Mostly exams or tests or assignments keep me awake
+20,Female,Fourth Year,IT/CS/SOFTWARE/AI,2,1,1,1,3,2,2,1,1,3,3,3,1,61.57,112.55,97.84,Syllabus,Overthinking about grades
+24,Male,Second Year,IT/CS/SOFTWARE/AI,2,2,3,2,3,2,3,1,3,3,1,2,3,40.7,81.9,99.0,Presentations,Mostly worried about exams or assignments
+24,Female,Third Year,IT/CS/SOFTWARE/AI,3,2,2,0,3,3,1,3,3,1,3,0,1,39.09,65.0,95.87,Exams,Overthinking about grades
+24,Female,Second Year,IT/CS/SOFTWARE/AI,2,3,3,0,0,3,0,2,3,1,1,3,3,54.69,112.41,95.0,Assignments,When I study for exam exams deadlines and assignments keep me worried
+19,Female,Second Year,IT/CS/SOFTWARE/AI,2,1,2,0,3,1,1,3,1,3,1,1,1,51.93,74.56,97.37,Exams,Mostly exams or tests or assignments keep me awake
+19,Male,Second Year,IT/CS/SOFTWARE/AI,2,1,0,2,3,3,3,3,1,2,1,3,3,33.57,71.9,96.88,Exams,Exams and grades
+24,Male,Second Year,IT/CS/SOFTWARE/AI,3,1,1,2,3,3,3,0,1,3,1,1,3,35.7,89.53,96.7,Exams,Feel worried during exams and don't sleep
+24,Female,Second Year,IT/CS/SOFTWARE/AI,3,2,1,1,0,2,1,3,0,3,2,3,2,43.94,93.07,96.75,Exams,During exams
+20,Male,Third Year,IT/CS/SOFTWARE/AI,3,3,2,2,3,2,1,0,0,3,3,0,3,26.0,103.76,97.38,Exams deadlines,During exams
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,3,0,1,2,2,3,1,2,2,1,0,51.17,70.53,95.0,Exams,Exams or tests deadlines make me worried
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,2,2,3,3,0,3,3,0,0,3,37.66,99.57,96.67,Exams,Assignment submission
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,1,2,2,2,1,0,3,2,2,1,50.78,103.86,96.98,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,0,2,1,2,3,2,0,3,0,2,2,48.5,113.95,98.37,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,2,0,2,1,1,3,0,1,2,3,47.16,109.01,99.0,Exams,Assignment submission
+20,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,2,2,3,3,3,3,1,1,1,2,34.6,107.46,97.47,Exams,Exams or tests deadlines make me worried
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,0,2,3,1,0,2,1,3,2,3,43.55,105.15,97.52,Assignments,Feel worried during exams and don't sleep
+24,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,2,1,0,3,1,2,1,3,3,2,1,34.15,117.46,96.0,Exams,Exams or tests deadlines make me worried
+22,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,1,0,0,2,2,0,3,0,3,1,37.92,109.26,95.09,Grades,Mostly exams or tests or assignments keep me awake
+22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,3,1,1,1,3,3,3,1,1,1,3,26.0,97.69,95.67,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,1,0,2,3,2,0,3,2,3,3,46.99,88.46,97.74,Exams ,Tests and exam deadlines
+18,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,1,2,3,3,3,2,1,2,1,1,3,47.14,103.74,96.32,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,3,2,1,0,1,3,0,2,1,3,3,52.33,102.62,95.24,Exams,Mostly exams or tests or assignments keep me awake
+18,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,3,2,1,1,3,1,3,3,0,3,1,26.0,116.56,98.95,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,3,0,3,3,0,2,3,3,2,2,39.96,94.38,98.42,Exams,Exams and grades
+23,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,2,1,2,2,0,1,2,0,2,1,41.05,109.16,96.52,Presentations,During exams
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,2,1,3,3,2,1,3,2,3,3,26.0,82.68,95.0,Exams,Exams or tests deadlines make me worried
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,1,2,1,0,3,3,1,0,3,3,63.0,116.73,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,0,3,2,2,3,0,1,2,3,2,57.6,90.99,97.54,Exams,Mostly exams or tests or assignments keep me awake
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,1,2,3,2,3,2,3,1,3,2,41.48,82.69,97.69,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,3,3,0,0,2,1,0,0,1,3,3,45.34,111.25,96.18,Exams,During assignments and exams I don't sleep
+24,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,2,0,1,3,2,2,2,2,1,1,3,26.0,93.59,96.49,Assignments,Mostly exams or tests or assignments keep me awake
+19,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,2,0,3,2,3,0,3,0,2,0,44.08,91.08,95.73,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,1,0,3,2,1,0,2,2,3,1,52.71,105.49,97.18,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,2,2,3,0,1,1,1,1,1,2,2,26.0,97.68,97.61,Exams,Assignment submission
+21,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,3,2,3,2,1,1,0,3,2,2,2,43.84,86.56,98.16,Exams,Mostly worried about exams or assignments
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,0,1,3,2,3,1,3,0,2,1,26.0,113.52,95.0,Exams deadlines,Tests or exams or assignments keep me worried
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,2,1,0,1,1,3,3,0,2,2,1,3,52.07,92.9,95.13,Exams,Mostly worried about exams or assignments
+19,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,2,2,1,3,2,0,0,2,0,0,2,52.09,70.96,99.0,Exams,Overthinking about grades
+20,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,0,0,1,3,1,0,2,1,2,3,26.0,89.26,95.82,Exams,Exams
+21,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,3,1,2,1,3,2,0,2,1,1,2,47.98,73.72,96.76,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,3,1,1,2,1,0,2,1,2,2,55.81,78.77,99.0,Exams,Exams
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,1,2,3,0,3,0,3,1,3,3,26.0,87.97,96.15,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,2,2,2,2,1,1,3,0,3,3,39.09,80.44,95.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+18,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,2,2,2,1,3,3,2,1,3,2,26.0,86.95,95.99,Exams,Mostly worried about exams or assignments
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,1,1,2,3,3,1,1,3,0,3,3,65.68,98.01,97.76,Exams deadlines,Exams
+18,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,1,0,1,2,3,0,0,3,1,0,28.64,100.18,95.81,Exams,Mostly exams or tests or assignments keep me awake
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,1,3,2,0,1,0,0,3,1,2,26.0,93.32,96.48,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,3,1,0,2,2,3,1,1,1,2,2,28.83,93.53,97.02,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,1,1,3,2,3,1,1,0,3,2,44.53,100.5,97.25,Exams,Mostly exams or tests or assignments keep me awake
+24,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,2,1,3,3,2,3,1,3,3,2,0,48.88,94.01,96.91,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,2,2,0,2,2,3,0,2,2,3,2,61.43,78.9,98.56,Exams,Work pressure
+24,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,3,1,3,2,2,3,1,3,3,3,2,40.79,118.78,98.13,Exams,Tests or exams or assignments keep me worried
+23,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,0,1,3,3,1,3,1,3,2,3,1,29.94,97.66,96.99,Exams,During assignments and exams I don't sleep
+18,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,0,2,0,2,3,1,3,1,0,3,33.72,99.95,96.21,Presentations,Tests or exams or assignments keep me worried
+23,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,1,2,2,3,0,0,1,0,3,1,26.0,102.58,98.22,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,1,1,3,0,0,0,1,3,2,2,51.23,98.44,97.98,Exams,When I don’t study I feel stressed
+18,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,1,1,3,3,2,3,1,0,2,3,3,36.48,89.98,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,0,2,2,2,1,3,0,2,2,1,28.47,103.17,97.77,Exams,Exams
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,2,3,2,2,2,0,2,2,3,1,53.43,95.95,95.68,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,1,1,1,2,2,1,0,0,2,2,2,3,46.49,79.94,99.0,Exams,Mostly exams or tests or assignments keep me awake
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,2,2,3,3,2,3,1,3,1,2,1,37.62,118.99,97.63,Exams,Overthinking about grades
+24,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,2,1,2,3,2,1,2,2,3,3,28.55,105.2,98.11,Exams,Overthinking about grades
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,1,1,2,3,2,3,1,1,1,3,2,26.74,99.02,97.27,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,2,3,2,3,3,1,2,3,1,3,26.0,104.97,95.0,Exams ,Tests or exams or assignments keep me worried
+21,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,2,2,2,2,2,1,2,0,3,3,31.09,115.13,96.62,Exams,Exams or tests deadlines make me worried
+20,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,1,1,2,3,3,0,2,1,2,1,32.22,98.79,98.51,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,1,2,0,3,3,3,3,2,1,1,3,51.67,83.65,97.83,Exams deadlines,Exams
+20,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,0,1,0,1,2,1,3,0,3,1,46.97,123.45,96.21,Exams,Exams
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,2,2,3,0,3,1,3,0,3,2,26.0,106.27,98.14,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,2,2,2,3,1,0,3,0,2,3,26.0,107.73,95.5,Exams,Work pressure
+23,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,1,1,1,3,3,3,3,2,1,2,2,77.63,102.25,98.27,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,0,1,3,1,2,0,1,2,3,1,3,1,26.0,88.99,95.71,Exams,Assignment submission
+18,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,2,2,1,2,3,1,2,0,2,3,61.79,100.97,97.96,Presentations,Exams and grades
+19,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,2,2,3,2,1,2,3,1,1,2,1,35.35,110.43,97.33,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,3,2,2,1,2,3,1,3,2,1,1,35.03,92.56,95.23,Exams,Tests and exam deadlines
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,1,1,3,3,1,0,2,0,2,3,34.11,98.01,95.41,Syllabus,Exams
+20,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,2,1,2,3,2,2,1,0,1,2,38.51,67.75,95.98,Exams,Mostly worried about exams or assignments
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,1,2,1,3,3,0,3,1,3,1,43.16,81.46,97.62,Assignments,Assignment submission
+22,Male,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,2,1,1,3,1,2,2,1,3,3,48.6,95.93,96.66,Syllabus,Exams or tests deadlines make me worried
+23,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,1,3,3,1,3,2,2,0,1,3,1,44.29,99.91,98.35,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,1,1,1,2,1,3,0,2,3,1,3,3,49.19,98.53,98.58,Exams,Exams or tests deadlines make me worried
+23,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,2,3,0,3,3,1,2,2,3,2,26.54,72.51,99.0,Exams,When I don’t study I feel stressed
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,0,2,3,1,2,1,0,3,1,2,26.0,87.47,98.56,Exams,When I don’t study I feel stressed
+24,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,1,0,1,2,3,3,1,0,0,0,1,30.62,116.4,95.78,Exams,Work pressure
+22,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,1,3,2,3,2,3,1,1,3,1,0,1,40.71,102.58,98.14,Exams,Mostly exams or tests or assignments keep me awake
+18,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,2,1,3,3,2,1,1,2,1,2,40.53,103.93,96.98,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,1,0,0,1,2,3,1,0,1,2,1,39.26,100.18,98.56,Exams,Exams or tests deadlines make me worried
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,1,2,3,0,1,0,2,1,1,0,38.38,86.17,97.48,Exams,Overthinking about grades
+23,Male,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,3,0,2,3,2,1,0,3,2,1,3,40.46,127.42,96.58,Exams,Tests or exams or assignments keep me worried
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,2,2,3,2,3,1,2,0,2,3,52.67,98.58,99.0,Exams,When I don’t study I feel stressed
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,1,2,0,2,1,0,2,3,0,2,42.28,86.31,96.84,Syllabus,Exams and grades
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,1,3,3,2,2,1,1,2,1,3,49.57,101.6,99.0,Exams,Tests and exam deadlines
+23,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,2,1,1,2,3,3,1,1,2,3,33.13,128.0,97.99,Exams,During exams
+20,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,1,2,0,2,0,1,2,2,1,2,1,28.07,84.34,98.82,Exams,Mostly worried about exams or assignments
+20,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,1,0,3,3,2,0,1,2,2,3,39.54,96.37,98.5,Exams,Work pressure
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,3,0,2,2,3,1,2,1,2,3,26.0,100.31,98.3,Failure,Exams or tests deadlines make me worried
+19,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,2,0,3,2,0,2,0,3,1,3,2,26.47,106.5,96.24,Exams,When I study for exam exams deadlines and assignments keep me worried
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,2,0,0,2,3,3,1,1,2,0,3,3,26.0,115.04,98.35,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,0,1,1,1,1,0,1,3,1,3,3,55.16,128.0,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,1,1,3,2,1,1,3,2,3,2,29.16,85.6,95.73,Exams,Tests or exams or assignments keep me worried
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,3,3,3,3,1,2,3,1,1,1,26.0,101.82,97.46,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,2,1,0,2,2,2,3,3,1,0,2,44.85,105.49,96.81,Presentations,Exams
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,1,2,3,3,3,0,2,1,3,0,41.03,71.76,95.85,Exams ,During exams
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,0,3,3,3,1,0,3,1,1,3,38.0,95.57,96.66,Syllabus,Exams
+18,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,0,2,2,3,1,1,2,1,1,2,45.42,107.17,95.95,Exams,Exams
+19,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,1,0,2,0,0,1,3,1,1,2,38.28,99.6,95.0,Exams,Tests and exam deadlines
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,1,2,3,0,3,0,3,2,2,1,37.96,94.3,96.13,Exams,Exams and grades
+18,Male,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,3,0,3,2,3,1,2,1,3,3,35.29,98.48,98.31,Failure,Assignment submission
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,1,1,0,1,2,3,3,1,1,3,1,1,33.65,91.0,98.05,Exams,Mostly worried about exams or assignments
+19,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,3,1,3,2,2,1,0,2,0,3,3,31.7,108.05,98.88,Exams,Mostly exams or tests or assignments keep me awake
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,1,2,1,2,1,1,1,0,3,3,62.58,85.39,97.4,Exams,During exams
+22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,1,0,3,1,1,1,2,1,1,2,36.39,88.36,95.1,Assignments,Feel worried during exams and don't sleep
+18,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,2,0,3,2,3,2,1,2,2,3,2,27.04,98.41,96.16,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,2,0,3,0,2,3,3,2,0,3,41.03,99.3,98.27,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,3,0,3,2,0,2,1,3,2,2,2,41.63,103.87,95.73,Exams ,Exams
+24,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,2,3,1,3,0,2,3,0,2,3,59.85,84.61,95.78,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,2,2,1,0,3,2,2,1,3,1,3,1,36.5,84.89,96.91,Exams,Assignment submission
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,1,2,2,2,3,1,3,1,1,1,26.52,78.18,98.83,Assignments,Exams or tests deadlines make me worried
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,0,1,3,1,3,0,3,2,1,3,29.1,75.6,96.24,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,2,3,1,3,1,0,1,1,3,2,3,3,54.03,83.06,97.25,Exams,Mostly exams or tests or assignments keep me awake
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,2,0,2,3,3,1,3,1,2,1,26.0,111.38,95.57,Exams,Overthinking about grades
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,3,0,0,2,3,2,0,1,3,3,2,41.2,112.07,98.23,Assignments,Assignment submission
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,1,0,1,3,3,0,3,1,2,2,26.81,99.13,97.08,Exams,Exams
+20,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,1,3,3,3,1,0,2,3,3,3,48.78,105.56,97.05,Presentations,Overthinking about grades
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,1,3,1,2,1,3,2,1,3,2,31.41,102.93,95.71,Exams,Tests or exams or assignments keep me worried
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,0,3,3,3,1,1,2,2,3,1,50.44,98.97,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,1,3,2,3,3,1,2,0,3,3,64.08,89.76,95.0,Presentations,During assignments and exams I don't sleep
+22,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,0,0,2,3,2,0,2,1,1,1,37.95,112.35,97.81,Exams,Tests or exams or assignments keep me worried
+23,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,1,1,1,2,1,1,1,0,3,3,42.83,106.78,99.0,Exams,Exams and grades
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,1,1,3,2,0,0,3,1,2,3,26.0,103.35,99.0,Exams deadlines,During exams
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,0,1,3,2,3,3,3,2,2,2,31.81,113.17,98.8,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,0,0,3,3,3,3,1,3,0,0,3,27.3,90.3,96.91,Exams ,Mostly worried about exams or assignments
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,1,3,3,1,2,2,0,2,2,2,3,26.0,65.0,96.71,Exams,Tests or exams or assignments keep me worried
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,1,0,2,1,3,1,0,3,1,2,2,30.88,123.71,97.4,Exams ,Assignment submission
+24,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,3,0,2,3,2,2,0,2,2,3,3,41.41,108.54,97.81,Exams,Overthinking about grades
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,0,0,2,1,1,3,1,2,0,2,3,38.54,104.02,97.94,Exams,Tests and exam deadlines
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,0,0,3,0,1,3,1,2,1,3,43.41,127.8,96.97,Failure,Mostly exams or tests or assignments keep me awake
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,1,2,1,3,3,1,1,1,1,3,55.31,112.83,97.4,Exams ,Exams
+18,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,0,1,3,2,0,1,2,1,3,2,44.97,66.88,99.0,Assignments,Work pressure
+23,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,2,1,2,0,1,1,0,1,2,3,51.71,84.9,95.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,0,2,1,0,3,0,2,2,2,0,37.29,90.51,97.51,Exams deadlines,Assignment submission
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,1,2,1,0,3,0,1,3,3,1,49.41,111.59,98.67,Presentations,During assignments and exams I don't sleep
+20,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,2,3,2,3,2,0,2,1,1,3,35.11,69.13,97.09,Exams,During assignments and exams I don't sleep
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,3,1,3,0,3,0,3,1,1,1,26.0,94.83,96.32,Exams deadlines,Work pressure
+18,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,1,2,1,0,2,2,1,0,3,2,3,2,48.22,106.15,98.33,Exams,During exams
+21,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,0,3,3,3,2,2,3,1,0,3,40.52,81.03,95.0,Exams,Exams and grades
+19,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,0,1,2,3,2,2,2,3,0,3,1,42.28,113.78,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,2,0,2,2,3,1,0,0,2,2,26.0,92.42,98.12,Syllabus,Overthinking about grades
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,1,0,1,0,3,1,2,1,3,2,58.41,112.55,96.79,Presentations,Mostly worried about exams or assignments
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,3,1,3,2,2,0,3,1,3,2,48.77,82.18,97.02,Exams,When I don’t study I feel stressed
+21,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,1,1,2,3,0,3,2,1,2,1,59.99,92.39,95.0,Presentations,Mostly worried about exams or assignments
+18,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,1,1,2,2,3,1,3,0,1,3,28.01,97.82,97.25,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,1,0,0,1,0,1,2,3,2,3,1,48.79,76.27,96.59,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,1,2,3,2,1,2,0,3,2,1,3,29.19,75.23,98.41,Exams,Mostly exams or tests or assignments keep me awake
+22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,2,1,2,1,0,1,1,2,1,2,1,37.13,70.42,98.46,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,3,2,3,3,1,0,1,1,3,1,42.07,85.1,95.6,Presentations,Mostly worried about exams or assignments
+23,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,2,2,0,3,2,0,2,2,2,2,35.2,88.43,98.28,Exams,Feel worried during exams and don't sleep
+23,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,3,2,0,3,3,0,2,2,2,3,1,51.44,101.08,96.31,Exams,Feel worried during exams and don't sleep
+19,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,2,2,2,3,3,0,3,3,2,2,45.8,85.39,95.0,Presentations,Tests and exam deadlines
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,1,2,3,1,3,1,0,0,1,1,32.81,65.0,96.56,Exams,Mostly worried about exams or assignments
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,2,2,3,2,1,0,3,0,1,3,59.75,73.95,95.17,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,3,1,2,2,3,2,2,3,1,1,56.69,87.05,96.41,Exams,Mostly exams or tests or assignments keep me awake
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,1,3,1,3,2,1,2,2,1,2,26.0,71.78,96.95,Failure,Exams
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,2,0,3,3,3,0,2,1,3,2,31.68,98.62,99.0,Exams deadlines,Exams
+21,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,2,3,3,2,0,1,1,0,1,1,29.71,97.01,99.0,Syllabus,Work pressure
+21,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,1,2,2,1,1,0,2,1,1,3,52.1,83.31,97.54,Presentations,When I don’t study I feel stressed
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,2,1,3,1,2,1,3,0,3,3,26.0,83.79,97.8,Exams,Mostly worried about exams or assignments
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,3,2,1,3,2,3,0,2,1,3,3,35.95,98.2,98.26,Grades,Exams and grades
+18,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,3,0,0,3,2,1,0,0,1,2,2,48.08,108.45,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,0,3,3,1,2,1,3,2,2,1,31.37,107.76,98.64,Exams,Tests and exam deadlines
+19,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,1,1,1,3,3,2,2,2,3,3,32.14,104.64,96.11,Presentations,Exams and grades
+22,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,2,3,3,2,3,1,1,3,1,3,2,39.01,110.86,96.45,Exams ,Work pressure
+21,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,2,1,2,2,3,0,2,1,2,3,26.0,80.01,95.37,Exams,When I study for exam exams deadlines and assignments keep me worried
+18,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,1,0,3,2,0,0,3,1,3,3,26.0,87.63,96.19,Exams,When I study for exam exams deadlines and assignments keep me worried
+18,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,1,2,3,2,0,0,2,1,3,3,56.22,106.29,97.41,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,3,2,1,1,2,2,1,2,2,0,2,31.72,101.72,98.28,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,3,2,2,3,2,1,3,1,3,1,38.27,69.45,97.71,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,3,1,1,2,2,3,0,3,1,2,1,33.85,122.08,96.03,Exams deadlines,When I don’t study I feel stressed
+19,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,0,0,1,2,0,0,3,0,3,1,37.26,95.87,97.21,Exams,Overthinking about grades
+18,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,0,1,1,2,1,3,3,0,2,1,3,49.59,116.08,97.38,Exams,Assignment submission
+19,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,3,2,3,2,2,1,3,1,3,1,27.97,107.71,96.21,Exams,Exams and grades
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,0,2,3,2,1,3,2,2,3,2,68.61,95.57,95.0,Exams,Tests and exam deadlines
+21,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,2,0,1,1,2,2,3,2,1,1,54.95,104.8,97.76,Failure,Mostly exams or tests or assignments keep me awake
+19,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,1,1,2,3,3,1,3,1,1,1,44.52,113.89,98.79,Presentations,During exams
+18,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,2,2,1,0,1,1,2,1,3,3,42.77,109.62,96.91,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,0,1,3,3,3,1,3,1,3,2,61.58,100.2,98.61,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,3,2,2,2,0,2,0,3,1,0,3,29.58,97.39,99.0,Exams,Exams and grades
+22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,3,0,3,2,2,1,2,1,1,2,3,26.0,94.29,99.0,Syllabus,Work pressure
+22,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,1,1,3,1,2,1,1,2,2,1,45.35,94.31,95.0,Exams,Mostly worried about exams or assignments
+24,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,1,0,1,2,3,2,3,3,2,3,1,47.28,96.28,96.81,Exams ,Exams
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,3,2,1,2,2,1,0,3,1,1,3,30.2,112.94,98.21,Presentations,When I don’t study I feel stressed
+24,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,1,2,2,2,2,1,2,2,3,1,39.79,94.84,98.98,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,0,1,3,1,2,1,1,1,3,3,2,26.0,105.64,98.35,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,1,1,2,2,0,1,1,2,2,0,43.45,92.85,98.59,Exams,During exams
+22,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,0,2,3,3,1,1,2,0,2,2,30.97,92.97,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,3,3,2,1,3,0,2,0,3,3,44.74,74.27,97.22,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,1,3,2,0,0,1,2,1,2,3,26.0,102.56,96.8,Presentations,Overthinking about grades
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,2,1,2,3,3,0,3,1,2,3,49.48,116.87,99.0,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,1,1,0,3,3,1,2,1,2,3,38.4,115.4,99.0,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,2,1,1,0,2,1,3,0,1,1,2,3,26.0,99.99,98.05,Exams,Exams
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,3,2,1,2,3,3,2,3,2,1,2,44.31,128.0,98.36,Assignments,Overthinking about grades
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,1,2,3,3,2,1,2,2,1,3,40.31,96.24,97.97,Exams deadlines,Mostly exams or tests or assignments keep me awake
+21,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,3,1,3,3,2,3,1,3,1,1,1,26.0,114.56,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,2,3,3,1,1,3,3,0,1,3,51.27,96.05,97.9,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,1,3,0,2,3,0,3,0,3,1,2,3,51.64,98.37,99.0,Syllabus,When I don’t study I feel stressed
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,3,3,1,3,3,1,1,1,3,2,46.47,85.84,99.0,Exams deadlines,Tests or exams or assignments keep me worried
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,1,3,3,3,3,0,3,3,3,3,47.71,75.24,96.12,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,0,3,3,2,3,3,3,3,3,1,41.76,71.06,98.97,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,3,1,1,3,1,2,0,3,3,3,57.45,96.04,97.69,Exams,Tests and exam deadlines
+19,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,0,1,3,1,3,0,3,2,2,2,26.0,83.66,97.08,Assignments,Mostly worried about exams or assignments
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,1,1,1,3,0,2,1,3,3,3,3,26.0,74.42,98.64,Exams,Mostly exams or tests or assignments keep me awake
+22,Female,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,3,3,1,1,3,3,0,2,2,3,3,32.29,71.84,96.34,Exams,Overthinking about grades
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,3,1,2,3,3,3,0,3,0,3,1,50.74,86.69,99.0,Presentations,Exams
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,0,3,1,3,1,2,2,1,1,2,28.23,118.27,97.7,Presentations,During assignments and exams I don't sleep
+23,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,3,2,1,2,1,0,3,1,2,3,35.6,115.75,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,2,1,3,0,2,0,0,0,2,2,3,37.17,98.47,95.87,Exams,Tests or exams or assignments keep me worried
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,1,2,1,2,1,0,0,1,3,2,37.84,112.83,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,2,3,3,1,3,2,1,3,1,1,0,34.78,106.32,96.48,Exams,Exams and grades
+23,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,0,2,3,3,3,1,1,1,3,1,36.54,83.98,95.91,Exams,Mostly exams or tests or assignments keep me awake
+20,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,3,3,3,2,3,2,0,3,1,1,3,35.58,119.68,96.59,Exams,Feel worried during exams and don't sleep
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,1,3,1,2,3,1,3,2,2,3,71.15,82.78,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,0,2,0,2,3,2,1,1,3,1,1,3,26.23,96.95,96.48,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,0,3,2,0,2,3,2,1,3,1,2,0,26.0,94.78,98.07,Failure,Exams
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,2,0,1,2,0,3,0,3,1,3,1,27.99,92.49,95.19,Presentations,When I don’t study I feel stressed
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,1,2,1,0,1,3,2,1,1,3,39.42,91.77,96.97,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,2,3,2,2,2,2,2,2,2,3,28.61,106.69,99.0,Exams,Tests and exam deadlines
+22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,0,3,0,2,2,0,1,0,1,1,1,44.53,93.96,97.94,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,1,2,1,3,1,2,1,2,3,0,44.86,72.98,98.08,Exams,When I study for exam exams deadlines and assignments keep me worried
+24,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,2,2,3,2,3,1,2,1,3,3,34.67,110.86,96.32,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,3,3,2,3,2,0,2,1,2,3,39.73,73.21,97.01,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,3,2,1,2,2,1,1,2,2,1,3,26.0,79.74,95.8,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,3,2,2,1,1,3,0,1,0,1,2,32.66,116.38,98.84,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,1,1,3,0,1,1,2,2,2,3,39.79,102.62,96.06,Assignments,Work pressure
+23,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,0,3,2,2,1,1,1,1,3,3,26.0,108.66,99.0,Exams deadlines,Mostly exams or tests or assignments keep me awake
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,2,0,2,1,1,0,1,2,2,3,1,35.3,102.71,95.0,Failure,When I study for exam exams deadlines and assignments keep me worried
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,3,2,3,2,2,1,2,1,3,1,36.18,96.55,98.46,Exams,During exams
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,3,1,2,3,3,1,3,1,3,0,26.0,95.3,97.48,Presentations,Tests and exam deadlines
+23,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,0,2,2,2,0,1,3,3,3,3,40.02,111.45,95.72,Presentations,Feel worried during exams and don't sleep
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,2,2,2,3,3,3,1,2,0,3,2,55.76,73.51,97.66,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,1,1,2,3,0,1,1,1,2,2,32.59,84.86,97.12,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,1,3,2,0,1,0,1,1,2,1,26.0,81.24,95.39,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,2,2,3,3,2,1,1,2,2,2,31.31,96.89,96.76,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,0,2,1,2,3,3,2,2,1,1,34.48,128.0,99.0,Assignments,Mostly worried about exams or assignments
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,0,2,2,3,2,2,3,2,3,2,46.8,85.86,95.0,Exams,Exams or tests deadlines make me worried
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,3,2,3,2,2,1,0,2,1,1,2,53.95,111.55,96.66,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,1,2,2,3,2,1,1,0,1,3,48.22,102.59,96.78,Exams,Exams and grades
+20,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,0,2,2,3,2,3,3,3,1,0,39.35,112.0,95.55,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,2,2,3,2,3,1,2,0,2,2,42.39,107.5,98.72,Exams ,Assignment submission
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,2,1,1,0,1,3,1,3,2,2,1,26.0,89.94,98.74,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,2,2,0,1,0,1,2,2,3,3,28.08,72.33,99.0,Exams ,Mostly exams or tests or assignments keep me awake
+18,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,0,1,2,2,2,1,2,3,1,3,48.5,110.47,98.26,Exams,Feel worried during exams and don't sleep
+20,Male,First Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,1,3,2,2,1,1,2,1,1,3,35.48,91.39,99.0,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,1,2,1,2,1,0,2,2,3,3,31.29,103.61,95.83,Exams,Tests and exam deadlines
+24,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,3,1,1,3,2,2,0,3,2,2,1,28.54,104.09,99.0,Assignments,Mostly worried about exams or assignments
+18,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,2,2,3,1,3,1,2,2,1,2,39.08,97.39,97.29,Failure,Mostly exams or tests or assignments keep me awake
+21,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,2,0,2,3,2,3,2,1,1,3,31.49,117.48,97.21,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,1,2,2,1,3,2,3,1,1,2,30.56,112.29,98.42,Grades,Tests or exams or assignments keep me worried
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,3,2,3,2,3,1,2,1,3,2,34.17,105.08,96.39,Exams,Tests or exams or assignments keep me worried
+20,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,1,3,0,0,1,0,2,1,2,0,3,1,51.29,109.2,95.88,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,3,2,0,0,3,3,0,2,3,3,3,39.28,120.85,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,0,2,2,2,1,1,3,1,1,0,0,2,1,26.0,88.56,96.82,Exams deadlines,Tests or exams or assignments keep me worried
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,2,2,1,3,3,2,0,0,1,2,1,30.31,97.34,96.56,Exams,Mostly worried about exams or assignments
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,1,2,0,3,0,1,1,2,1,2,3,48.64,107.54,98.67,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,1,2,1,3,3,1,2,2,1,1,41.93,106.48,95.8,Exams,Work pressure
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,3,3,2,0,3,2,3,0,1,1,2,3,36.14,122.44,99.0,Exams,During assignments and exams I don't sleep
+18,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,1,1,1,3,1,0,2,0,0,1,72.56,84.72,98.88,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,2,2,3,2,3,0,2,1,0,1,26.0,103.99,97.22,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,0,0,3,3,0,1,1,2,1,0,40.98,113.6,97.5,Exams,Feel worried during exams and don't sleep
+20,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,0,2,3,1,2,3,2,0,2,3,53.06,105.18,98.5,Exams,Exams and grades
+22,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,1,2,0,3,3,0,1,3,2,1,3,26.0,89.47,96.43,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,1,3,3,3,2,0,0,2,1,1,3,51.38,95.12,99.0,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,1,2,1,3,3,2,0,2,2,2,2,41.16,86.0,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,1,3,2,3,3,3,1,2,3,3,39.52,92.59,96.02,Exams deadlines,During assignments and exams I don't sleep
+22,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,3,2,1,1,2,2,3,2,2,3,1,46.59,86.52,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,0,3,0,1,1,3,1,0,3,0,1,1,26.0,104.22,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,3,2,2,2,3,0,1,1,2,2,45.75,72.02,96.34,Exams,Mostly worried about exams or assignments
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,2,2,2,2,2,2,1,2,3,0,2,26.0,98.84,95.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,2,1,3,2,3,3,0,3,1,3,2,30.27,85.87,97.99,Exams,Tests or exams or assignments keep me worried
+19,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,0,0,1,2,1,1,1,1,3,2,3,50.23,107.53,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,1,2,2,2,3,2,2,1,3,1,1,3,42.0,104.23,97.6,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,0,0,0,2,2,3,1,3,1,3,3,33.12,86.06,98.03,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,0,2,2,1,0,3,3,3,1,1,3,28.51,88.18,95.53,Exams,During assignments and exams I don't sleep
+18,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,0,0,3,1,3,0,2,2,2,2,38.86,85.44,98.62,Presentations,Tests and exam deadlines
+19,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,2,1,1,3,1,3,2,3,1,3,3,26.0,111.21,96.56,Exams,Feel worried during exams and don't sleep
+24,Female,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,3,1,3,3,1,2,0,3,3,3,1,38.34,112.87,97.41,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,2,3,1,1,1,3,1,3,2,3,2,45.35,90.6,99.0,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Female,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,0,2,0,2,1,3,1,0,2,2,3,3,26.0,102.13,99.0,Exams,During assignments and exams I don't sleep
+18,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,1,1,3,3,3,0,3,3,2,0,2,63.31,83.29,98.78,Grades,Exams and grades
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,3,1,0,2,2,1,2,1,2,1,3,2,40.89,79.83,96.39,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,1,0,2,3,2,3,1,2,1,3,3,50.3,108.19,97.81,Presentations,Mostly exams or tests or assignments keep me awake
+24,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,1,2,0,1,3,2,3,1,2,3,1,2,33.41,87.03,98.71,Exams,Work pressure
+21,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,2,0,3,2,1,0,3,0,1,2,52.5,86.91,95.0,Failure,During exams
+22,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,0,2,1,2,2,2,1,1,2,2,1,0,57.6,91.75,96.23,Exams,Work pressure
+20,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,0,3,1,3,0,0,1,3,2,1,2,55.41,97.57,96.93,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,3,2,1,2,1,2,2,2,2,2,1,2,3,40.93,119.12,98.03,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,2,3,0,0,1,3,3,2,2,1,2,1,54.08,81.24,98.54,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Third Year,NATURAL SCIENCES/SOCIAL SCIENCES,2,2,1,2,3,3,1,1,1,3,1,0,1,33.18,65.0,95.0,Presentations,Exams and grades
+22,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,3,1,1,2,3,0,3,1,0,2,1,3,45.17,98.79,97.66,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,NATURAL SCIENCES/SOCIAL SCIENCES,1,1,2,2,2,2,2,2,0,3,0,2,2,26.0,96.86,97.85,Exams,Mostly worried about exams or assignments
+24,Male,Fourth Year,BUSINESS ADMINISTRATION,2,1,0,1,3,0,1,2,0,3,0,0,3,38.16,75.35,99.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Third Year,BUSINESS ADMINISTRATION,0,1,2,1,3,3,1,2,1,3,0,3,1,66.11,96.79,98.96,Assignments,Feel worried during exams and don't sleep
+18,Male,Fourth Year,BUSINESS ADMINISTRATION,3,3,0,1,1,0,2,3,1,3,0,1,1,37.33,89.25,97.56,Exams,Mostly exams or tests or assignments keep me awake
+21,Male,Third Year,BUSINESS ADMINISTRATION,1,2,2,1,1,3,2,3,2,2,0,3,1,26.82,95.53,96.45,Exams,Tests and exam deadlines
+20,Male,Fourth Year,BUSINESS ADMINISTRATION,2,2,2,1,3,3,0,3,0,1,0,1,3,36.51,118.37,97.08,Exams,When I don’t study I feel stressed
+22,Male,Second Year,BUSINESS ADMINISTRATION,0,2,1,0,3,0,2,1,2,1,0,3,1,26.0,91.12,97.7,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Fourth Year,BUSINESS ADMINISTRATION,0,2,1,0,3,0,0,3,1,3,2,3,1,40.86,116.16,98.36,Presentations,Tests and exam deadlines
+20,Male,Fourth Year,BUSINESS ADMINISTRATION,0,0,1,1,3,2,1,2,1,3,1,3,2,36.94,128.0,96.64,Syllabus,Tests or exams or assignments keep me worried
+18,Male,Fourth Year,BUSINESS ADMINISTRATION,0,3,1,1,1,3,1,1,1,3,1,1,3,26.0,128.0,98.64,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Fourth Year,BUSINESS ADMINISTRATION,1,0,1,2,3,0,2,3,2,3,0,1,1,55.19,106.64,99.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Fourth Year,BUSINESS ADMINISTRATION,2,1,0,0,1,1,0,2,0,2,0,3,3,34.06,90.91,95.0,Presentations,During assignments and exams I don't sleep
+19,Male,Third Year,BUSINESS ADMINISTRATION,3,2,1,1,3,1,2,2,0,2,0,3,1,33.99,107.35,99.0,Failure,Feel worried during exams and don't sleep
+23,Male,Fourth Year,BUSINESS ADMINISTRATION,1,2,1,2,1,1,0,3,1,3,0,3,3,31.89,98.86,98.89,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Fourth Year,BUSINESS ADMINISTRATION,1,3,1,1,3,2,0,3,2,3,2,3,3,28.96,111.7,97.96,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Fourth Year,BUSINESS ADMINISTRATION,1,1,2,1,3,3,1,2,2,2,0,0,1,30.35,69.27,95.5,Presentations,Mostly exams or tests or assignments keep me awake
+20,Male,Second Year,BUSINESS ADMINISTRATION,1,3,1,2,1,3,1,3,2,2,2,1,2,43.37,86.81,97.12,Assignments,Tests and exam deadlines
+20,Male,Fourth Year,BUSINESS ADMINISTRATION,2,3,2,2,1,0,1,2,2,1,2,3,2,30.16,107.3,95.3,Presentations,Assignment submission
+21,Male,Third Year,BUSINESS ADMINISTRATION,2,2,0,1,2,3,2,3,2,1,0,3,1,41.57,95.87,98.26,Assignments,Exams or tests deadlines make me worried
+19,Male,Fourth Year,BUSINESS ADMINISTRATION,2,2,2,1,1,1,2,2,2,3,2,3,3,42.74,112.17,98.13,Failure,Exams or tests deadlines make me worried
+23,Male,Fourth Year,BUSINESS ADMINISTRATION,2,0,2,2,2,1,2,1,1,3,1,1,2,36.42,85.82,97.27,Exams,Mostly exams or tests or assignments keep me awake
+18,Male,Fourth Year,BUSINESS ADMINISTRATION,0,2,3,1,1,3,0,2,1,3,0,0,1,36.1,85.07,96.63,Presentations,Tests and exam deadlines
+20,Male,Fourth Year,BUSINESS ADMINISTRATION,0,2,2,1,3,2,3,1,2,2,0,3,3,32.55,103.88,98.18,Exams,Exams or tests deadlines make me worried
+24,Male,Third Year,BUSINESS ADMINISTRATION,1,0,1,1,1,1,2,2,1,1,1,1,2,57.63,110.86,95.95,Failure,Exams and grades
+23,Male,Fourth Year,BUSINESS ADMINISTRATION,1,2,1,1,3,0,0,2,1,2,0,1,1,36.7,91.07,95.64,Presentations,Tests or exams or assignments keep me worried
+24,Male,Fourth Year,BUSINESS ADMINISTRATION,2,0,3,1,3,1,3,3,1,2,0,1,2,31.14,88.05,96.9,Failure,During exams
+22,Male,Fourth Year,BUSINESS ADMINISTRATION,0,2,0,1,3,0,2,1,1,3,1,1,3,40.54,128.0,97.64,Presentations,When I don’t study I feel stressed
+23,Male,Fourth Year,BUSINESS ADMINISTRATION,2,2,2,0,3,3,2,3,1,2,2,3,1,37.82,100.75,98.05,Exams,Assignment submission
+24,Male,Fourth Year,BUSINESS ADMINISTRATION,2,3,1,1,3,3,3,2,1,1,0,0,3,26.0,108.99,97.7,Exams,During exams
+18,Male,Fourth Year,BUSINESS ADMINISTRATION,3,0,1,1,1,1,1,1,1,3,1,3,1,48.52,114.58,96.07,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Third Year,BUSINESS ADMINISTRATION,2,0,1,1,3,3,2,3,0,3,0,1,3,26.0,80.02,98.99,Exams,When I study for exam exams deadlines and assignments keep me worried
+21,Male,Fourth Year,BUSINESS ADMINISTRATION,3,2,2,0,1,0,1,2,1,3,0,1,3,26.0,100.38,96.58,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Third Year,BUSINESS ADMINISTRATION,0,0,1,2,2,1,2,1,1,3,2,0,1,48.08,81.35,95.99,Syllabus,Work pressure
+20,Male,Fourth Year,BUSINESS ADMINISTRATION,2,2,1,1,1,2,2,3,2,3,1,1,2,51.29,114.17,96.36,Exams,Work pressure
+18,Male,Third Year,BUSINESS ADMINISTRATION,0,0,1,1,3,0,3,1,1,3,2,3,3,26.82,122.22,95.64,Exams,Assignment submission
+23,Male,Fourth Year,BUSINESS ADMINISTRATION,0,1,3,1,2,1,1,2,1,3,1,3,3,28.6,124.78,98.29,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Third Year,BUSINESS ADMINISTRATION,1,0,0,1,3,0,0,2,1,2,0,0,1,30.48,107.92,98.99,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Fourth Year,BUSINESS ADMINISTRATION,0,1,1,1,2,1,2,2,2,2,2,3,1,38.39,107.61,97.58,Presentations,Overthinking about grades
+20,Male,Fourth Year,BUSINESS ADMINISTRATION,0,2,3,2,2,1,2,3,2,1,0,3,3,26.42,100.45,99.0,Syllabus,During exams
+22,Male,Third Year,BUSINESS ADMINISTRATION,3,2,1,1,3,1,0,1,1,2,0,3,3,48.64,101.17,98.53,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Fourth Year,BUSINESS ADMINISTRATION,2,2,2,2,2,2,1,1,1,3,0,0,2,35.62,85.97,95.47,Exams,Feel worried during exams and don't sleep
+20,Male,Fourth Year,BUSINESS ADMINISTRATION,0,2,1,2,3,0,1,1,2,2,0,3,1,40.35,106.64,98.22,Exams,When I study for exam exams deadlines and assignments keep me worried
+19,Male,Second Year,BUSINESS ADMINISTRATION,0,3,1,0,3,2,3,2,1,3,2,3,3,45.53,96.65,98.01,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Third Year,BUSINESS ADMINISTRATION,2,2,0,1,3,1,0,2,1,3,0,0,2,42.92,106.38,96.35,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Fourth Year,BUSINESS ADMINISTRATION,0,3,0,1,3,3,1,1,1,2,0,3,1,29.06,90.04,95.66,Exams,Exams
+20,Male,Third Year,BUSINESS ADMINISTRATION,3,1,1,2,3,3,1,2,1,3,1,3,3,52.63,104.59,99.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+21,Male,Second Year,BUSINESS ADMINISTRATION,2,2,1,1,3,0,2,1,1,1,0,0,3,80.06,94.13,97.77,Presentations,Exams or tests deadlines make me worried
+19,Male,Second Year,BUSINESS ADMINISTRATION,2,2,1,1,1,1,1,3,1,3,0,0,2,42.96,108.67,97.21,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Third Year,BUSINESS ADMINISTRATION,0,3,1,1,2,3,0,2,1,2,0,0,3,41.1,100.94,95.99,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Third Year,BUSINESS ADMINISTRATION,0,1,1,0,1,0,0,3,1,2,0,1,1,35.89,88.92,96.19,Exams,Work pressure
+21,Male,Third Year,BUSINESS ADMINISTRATION,1,2,0,1,2,3,3,2,2,2,0,3,2,34.09,77.31,96.31,Exams,Work pressure
+22,Male,Third Year,BUSINESS ADMINISTRATION,0,2,3,0,1,0,2,2,1,3,0,3,1,45.39,104.83,98.42,Exams,Exams or tests deadlines make me worried
+21,Male,Fourth Year,BUSINESS ADMINISTRATION,3,2,0,1,1,2,1,3,1,3,0,3,1,42.51,85.26,96.43,Exams,Exams or tests deadlines make me worried
+19,Male,Third Year,BUSINESS ADMINISTRATION,3,2,1,1,1,3,2,1,1,2,2,3,1,26.0,111.79,98.44,Failure,When I don’t study I feel stressed
+19,Male,Fourth Year,BUSINESS ADMINISTRATION,1,2,1,1,2,0,1,1,1,3,0,3,3,38.31,107.86,95.0,Exams deadlines,Exams and grades
+22,Male,Fourth Year,BUSINESS ADMINISTRATION,2,2,1,1,3,3,0,2,2,3,0,1,3,40.23,105.82,97.96,Failure,When I don’t study I feel stressed
+23,Male,Fourth Year,BUSINESS ADMINISTRATION,2,1,3,2,1,2,1,2,2,3,0,3,3,26.0,87.5,98.25,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,BUSINESS ADMINISTRATION,2,3,1,1,3,0,2,3,1,3,2,3,1,26.0,83.82,96.27,Exams,Overthinking about grades
+24,Male,Fourth Year,BUSINESS ADMINISTRATION,1,2,3,1,3,0,1,2,2,3,0,1,3,26.0,77.79,96.12,Grades,When I don’t study I feel stressed
+19,Female,Second Year,CS,2,2,3,1,3,3,1,3,3,2,2,2,3,26.0,95.65,99.0,Exams,During assignments and exams I don't sleep
+19,Female,Second Year,CS,2,2,3,1,1,3,1,3,3,2,2,3,2,34.88,111.25,96.74,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,CS,2,2,1,1,1,3,3,3,3,2,2,2,2,54.0,93.05,99.0,Grades,Work pressure
+19,Female,Second Year,CS,2,2,1,1,3,3,1,3,1,2,2,2,3,32.98,103.8,97.87,Presentations,Mostly worried about exams or assignments
+21,Female,Second Year,CS,2,2,3,1,1,3,1,3,1,2,2,3,3,30.11,97.8,97.29,Presentations,Tests or exams or assignments keep me worried
+21,Female,Second Year,CS,2,2,3,1,3,3,3,3,1,2,2,2,2,26.0,111.15,98.1,Exams,During exams
+19,Female,Second Year,CS,2,2,1,1,1,3,3,3,1,2,2,3,2,54.62,127.8,98.92,Exams,Assignment submission
+24,Female,Second Year,CS,2,2,1,1,3,3,1,3,3,2,2,3,3,38.95,74.51,95.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,CS,2,2,1,1,1,3,3,3,3,2,2,3,2,29.5,84.73,97.28,Exams ,Assignment submission
+18,Female,Second Year,CS,2,2,3,1,1,3,3,3,1,2,2,3,3,26.0,105.66,95.16,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Female,Second Year,CS,2,2,1,1,1,3,1,3,1,2,2,3,2,58.83,82.53,98.71,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,CS,2,2,1,1,1,3,1,3,1,2,2,2,2,45.38,112.25,98.52,Exams deadlines,Mostly worried about exams or assignments
+21,Female,Second Year,CS,2,2,3,1,3,3,3,3,1,2,2,2,2,26.0,112.47,96.07,Exams,Exams or tests deadlines make me worried
+19,Female,Second Year,CS,2,2,1,1,1,3,1,3,3,2,2,3,3,41.37,103.87,97.9,Presentations,When I don’t study I feel stressed
+22,Female,Second Year,CS,2,2,3,1,3,3,3,3,1,2,2,3,3,26.0,109.17,97.67,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Female,Second Year,CS,2,2,3,1,3,3,3,3,1,2,2,3,2,37.14,78.02,98.86,Exams deadlines,Tests and exam deadlines
+21,Female,Second Year,CS,2,2,1,1,1,3,1,3,3,2,2,2,2,42.53,88.38,99.0,Exams deadlines,Exams
+19,Female,Second Year,CS,2,2,1,1,3,2,0,0,1,3,2,1,3,33.05,98.71,95.71,Exams ,Overthinking about grades
+18,Female,Second Year,CS,2,1,1,1,3,2,0,2,0,1,0,3,3,60.25,90.53,97.99,Exams,Work pressure
+19,Male,Second Year,CS,2,2,1,1,2,2,3,2,0,1,0,3,3,37.22,92.96,96.13,Presentations,During assignments and exams I don't sleep
+22,Female,Second Year,CS,2,1,1,1,3,2,3,2,0,1,0,3,3,33.21,94.81,96.8,Exams,Work pressure
+19,Female,Second Year,CS,2,2,1,1,2,2,3,2,0,1,0,1,3,26.0,110.38,95.0,Exams,Exams
+23,Female,Second Year,CS,2,1,1,1,3,2,0,0,0,3,0,1,3,32.18,121.09,98.56,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,CS,2,2,1,1,2,2,3,0,1,1,2,3,3,55.96,87.11,98.93,Exams ,During assignments and exams I don't sleep
+23,Female,Second Year,CS,2,1,1,1,3,2,3,0,1,1,0,3,3,52.74,91.68,95.81,Exams,Feel worried during exams and don't sleep
+23,Female,Second Year,CS,2,1,1,1,3,2,3,2,0,1,2,3,3,41.63,90.47,98.23,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Second Year,CS,2,2,1,1,3,2,3,0,1,1,0,1,3,46.42,103.29,97.29,Exams,Tests or exams or assignments keep me worried
+24,Female,Second Year,CS,2,1,1,1,3,2,3,2,1,3,0,1,3,39.88,104.76,99.0,Exams,Assignment submission
+18,Female,Second Year,CS,2,1,1,1,2,2,0,0,1,1,2,1,3,51.38,128.0,98.17,Exams,Exams and grades
+24,Female,Second Year,CS,2,1,1,1,2,2,3,2,1,1,2,3,3,47.59,83.44,96.7,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Female,Second Year,CS,2,1,1,1,2,2,0,2,0,1,2,3,3,46.8,94.86,97.59,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Female,Second Year,CS,2,2,1,1,2,2,3,2,1,3,0,1,3,49.81,95.03,96.35,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Female,Second Year,CS,2,1,1,1,3,2,0,0,0,3,0,3,3,48.56,75.27,96.9,Exams deadlines,Feel worried during exams and don't sleep
+20,Female,Second Year,CS,2,1,1,1,3,2,0,2,0,1,2,1,3,48.63,109.69,97.82,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+23,Male,Second Year,CIVIL/MECHANICAL ENGINEERING,1,2,2,1,1,1,1,2,1,2,1,0,3,38.66,88.02,96.98,Exams,Tests and exam deadlines
+24,Female,Fourth Year,CIVIL/MECHANICAL ENGINEERING,1,1,2,1,1,2,1,2,2,2,1,2,3,37.28,71.45,96.77,Grades,Work pressure
+21,Female,Second Year,CIVIL/MECHANICAL ENGINEERING,1,2,1,1,1,1,1,2,1,2,1,0,3,33.84,93.86,98.13,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,CIVIL/MECHANICAL ENGINEERING,1,2,1,1,1,2,1,2,2,2,1,0,3,26.0,92.48,98.55,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Second Year,CIVIL/MECHANICAL ENGINEERING,1,2,1,1,1,2,1,2,1,2,1,0,3,48.68,77.16,97.02,Presentations,Tests or exams or assignments keep me worried
+19,Male,Fourth Year,CIVIL/MECHANICAL ENGINEERING,1,2,2,1,1,2,1,2,1,2,1,2,3,40.24,104.61,95.98,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Female,Fourth Year,CIVIL/MECHANICAL ENGINEERING,1,1,2,1,1,1,1,2,1,2,1,2,3,43.63,108.53,96.15,Exams deadlines,Exams and grades
+19,Female,Fourth Year,CIVIL/MECHANICAL ENGINEERING,1,1,2,1,1,1,1,2,2,2,1,2,3,26.0,88.74,96.58,Grades,Exams or tests deadlines make me worried
+19,Male,Second Year,CIVIL/MECHANICAL ENGINEERING,1,1,2,1,1,2,1,2,1,2,1,2,3,40.07,96.47,95.0,Exams,Tests and exam deadlines
+21,Male,Second Year,CIVIL/MECHANICAL ENGINEERING,1,1,2,1,1,1,1,2,2,2,1,0,3,26.0,103.88,95.42,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Second Year,CIVIL/MECHANICAL ENGINEERING,1,1,1,1,1,1,1,2,1,2,1,0,3,33.81,101.38,97.57,Failure,Exams or tests deadlines make me worried
+21,Female,Second Year,CIVIL/MECHANICAL ENGINEERING,1,2,1,1,1,2,1,2,1,2,1,2,3,26.0,77.03,96.49,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Second Year,CIVIL/MECHANICAL ENGINEERING,1,2,2,1,1,1,1,2,2,2,1,0,3,29.27,105.79,96.95,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Fourth Year,CIVIL/MECHANICAL ENGINEERING,1,2,1,1,1,2,1,2,2,2,1,2,3,33.88,100.33,97.88,Failure,Mostly exams or tests or assignments keep me awake
+22,Female,Second Year,CIVIL/MECHANICAL ENGINEERING,1,2,1,1,1,1,1,2,1,2,1,0,3,28.43,96.23,98.03,Exams,During exams
+20,Female,Fourth Year,CIVIL/MECHANICAL ENGINEERING,1,1,2,1,1,1,1,2,2,2,1,0,3,30.78,76.05,96.6,Exams deadlines,Exams or tests deadlines make me worried
+21,Male,Second Year,CS,2,2,1,1,2,3,1,2,2,2,2,2,1,26.0,86.35,95.78,Exams,Exams and grades
+18,Male,Second Year,CS,2,2,1,1,2,3,1,2,2,2,2,2,1,46.15,84.87,96.98,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+22,Male,Second Year,CS,2,2,1,1,2,3,1,2,2,2,2,2,1,30.86,102.7,98.64,Failure,Mostly exams or tests or assignments keep me awake
+22,Male,Second Year,CS,2,2,1,1,2,3,1,2,2,2,2,2,1,52.44,76.51,95.47,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+21,Male,Second Year,CS,2,2,1,1,2,3,1,2,2,2,2,2,1,61.08,103.99,97.32,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,CS,2,2,1,1,2,3,1,2,2,2,2,2,1,26.0,99.01,96.83,Exams,During exams
+23,Male,Second Year,CS,2,2,1,1,2,3,1,2,2,2,2,2,1,38.68,98.81,98.83,Exams ,Tests or exams or assignments keep me worried
+18,Male,Second Year,CS,2,2,1,1,2,3,1,2,2,2,2,2,1,54.9,97.35,97.2,Grades,During exams
+20,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0,26.0,128.0,97.96,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+20,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0,45.09,122.91,98.6,Presentations,Assignment submission
+22,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0,57.34,92.58,97.55,Syllabus,During assignments and exams I don't sleep
+19,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0,45.1,88.33,97.53,Exams,Overthinking about grades
+23,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0,64.62,124.35,97.45,Exams,Overthinking about grades
+20,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0,32.55,112.37,96.88,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0,51.42,89.88,97.32,Exams,Mostly exams or tests or assignments keep me awake
+20,Male,Second Year,CS,3,2,2,3,3,3,3,3,1,3,2,3,0,47.59,123.79,98.49,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+18,Male,Second Year,CS,3,0,1,3,3,3,0,0,2,3,3,3,3,26.0,100.47,95.94,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+24,Male,Second Year,CS,3,0,1,3,3,3,0,0,2,3,3,3,3,48.54,98.63,95.22,Presentations,Exams or tests deadlines make me worried
+18,Male,Second Year,CS,3,0,1,3,3,3,0,0,2,3,3,3,3,26.0,103.96,99.0,Exams deadlines,Work pressure
+23,Male,Second Year,CS,3,0,1,3,3,3,0,0,2,3,3,3,3,26.0,116.68,98.82,Failure,Exams
+23,Male,Second Year,CS,3,0,1,3,3,3,0,0,2,3,3,3,3,33.53,112.22,98.22,Syllabus,Overthinking about grades
+22,Male,Second Year,CS,3,0,1,3,3,3,0,0,2,3,3,3,3,46.28,68.0,97.04,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+19,Male,Second Year,CS,3,0,1,3,3,3,0,0,2,3,3,3,3,38.02,90.41,98.74,Exams,Assignment submission
+21,Male,Second Year,CS,3,0,1,3,3,3,0,0,2,3,3,3,3,56.04,109.2,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues

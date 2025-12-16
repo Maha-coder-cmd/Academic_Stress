@@ -1,0 +1,901 @@
+Stress_measurement,Heart_rate,Blood_oxygen,Triggers,Headache_sleep_stress_causes
+37.0,90.0,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+37.0,89.0,96.0,Presentations,Mostly worried about exams or assignments
+39.0,90.0,98.0,Presentations,Work pressure
+36.0,99.0,98.0,Exams deadlines,When I study for exam exams deadlines and assignments keep me worried
+36.0,94.0,99.0,Exams,None
+35.0,105.0,98.0,Failure,Tests and exam deadlines
+34.0,108.0,99.0,Exams,Exams or tests deadlines make me worried
+28.0,101.0,98.0,Exams,Exams
+37.0,115.0,99.0,Exams,Tests or exams or assignments keep me worried
+97.0,100.0,99.0,Exams,Mostly exams or tests or assignments keep me awake
+36.0,96.0,99.0,Exams deadlines,Overthinking about grades
+35.0,113.0,96.0,Exams,Exams and grades
+35.0,87.0,95.0,Assignments,During assignments and exams I don't sleep
+35.0,77.0,99.0,Exams,Feel worried during exams and don't sleep
+26.0,65.0,98.0,None,None
+34.0,128.0,96.0,Exams,During exams
+32.0,105.0,95.0,Exams,When I don’t study I feel stressed
+31.0,106.0,95.0,Presentations,None
+38.0,86.0,96.0,Exams ,None
+37.0,92.0,96.0,Syllabus,None
+38.0,96.0,97.0,Grades,Assignment submission
+42.01,83.01,98.53,Presentations,None
+26.0,79.43,97.58,Exams,When I don’t study I feel stressed
+37.53,85.57,98.73,Exams deadlines,None
+38.68,112.66,98.1,Exams,None
+42.91,84.12,98.73,Failure,Feel worried during exams and don't sleep
+35.18,87.92,99.0,Exams,None
+31.79,92.42,98.2,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+43.52,103.13,99.0,Exams,Assignment submission
+30.61,86.11,98.32,Exams,When I study for exam exams deadlines and assignments keep me worried
+36.17,85.75,96.12,Exams,None
+48.13,104.67,96.36,Exams,When I don’t study I feel stressed
+39.39,100.23,98.72,Exams,Work pressure
+47.23,98.16,97.82,Exams,Feel worried during exams and don't sleep
+26.0,92.87,96.66,Exams deadlines,Exams and grades
+33.92,117.69,96.05,Exams,Mostly exams or tests or assignments keep me awake
+26.0,92.66,97.63,Exams,Exams and grades
+47.69,108.09,96.85,Exams,Mostly exams or tests or assignments keep me awake
+49.73,94.62,95.43,Exams,None
+26.0,104.04,97.6,Exams,Feel worried during exams and don't sleep
+31.8,99.41,98.34,Exams,Tests or exams or assignments keep me worried
+44.14,88.18,96.82,Presentations,Mostly worried about exams or assignments
+26.0,103.9,96.66,Exams ,Overthinking about grades
+44.47,103.35,98.4,Exams deadlines,Tests or exams or assignments keep me worried
+31.86,96.15,95.0,Grades,Mostly worried about exams or assignments
+26.0,83.6,97.99,Exams deadlines,None
+32.49,115.01,96.84,Failure,During exams
+26.0,94.43,95.93,Exams,None
+49.49,73.61,98.05,Exams,During assignments and exams I don't sleep
+29.47,77.46,97.49,Exams deadlines,During exams
+41.01,97.54,99.0,Presentations,Feel worried during exams and don't sleep
+26.0,99.69,97.72,Exams deadlines,Overthinking about grades
+49.41,102.12,99.0,Exams deadlines,During assignments and exams I don't sleep
+28.84,84.56,96.78,Exams,Exams
+46.62,94.2,95.13,Exams,Overthinking about grades
+42.14,108.7,99.0,None,Overthinking about grades
+43.54,83.7,95.0,Exams,Tests and exam deadlines
+26.42,91.56,96.44,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+52.64,99.39,97.14,Exams,Exams and grades
+26.0,90.59,97.3,Exams,During exams
+39.58,110.68,96.62,Grades,None
+26.0,87.32,99.0,Exams,None
+49.46,84.89,98.81,Exams,Exams or tests deadlines make me worried
+35.58,96.68,96.38,Exams deadlines,When I study for exam exams deadlines and assignments keep me worried
+31.41,80.47,95.42,Exams deadlines,None
+59.8,99.43,97.2,Presentations,Overthinking about grades
+55.98,100.24,96.75,Exams,Exams
+43.74,118.24,97.66,Exams,None
+26.0,119.82,99.0,Exams ,When I study for exam exams deadlines and assignments keep me worried
+32.42,117.23,95.68,Failure,Exams or tests deadlines make me worried
+46.74,91.84,97.37,Exams,When I study for exam exams deadlines and assignments keep me worried
+42.47,116.49,97.52,Exams,None
+26.0,96.57,96.09,Exams,During assignments and exams I don't sleep
+26.0,92.67,98.78,Presentations,During exams
+38.19,90.62,96.88,Presentations,Overthinking about grades
+45.27,115.53,97.14,Grades,None
+34.64,100.55,97.65,Presentations,Work pressure
+39.02,100.36,99.0,Exams deadlines,During assignments and exams I don't sleep
+26.0,93.31,95.14,Exams,When I don’t study I feel stressed
+42.17,113.73,96.26,Failure,When I don’t study I feel stressed
+26.0,95.01,95.75,Syllabus,None
+68.61,90.0,96.04,Presentations,Feel worried during exams and don't sleep
+26.0,77.17,99.0,Failure,None
+26.0,122.36,99.0,Exams ,Mostly worried about exams or assignments
+32.62,101.91,99.0,Exams,Exams or tests deadlines make me worried
+34.34,107.87,98.05,Exams deadlines,Tests and exam deadlines
+35.89,78.43,97.02,None,Mostly worried about exams or assignments
+41.0,89.64,98.1,Exams deadlines,None
+39.93,102.05,97.46,Exams,None
+27.69,101.57,97.23,Exams,Tests and exam deadlines
+59.72,102.52,96.21,Exams,Exams
+41.41,82.02,99.0,Presentations,Mostly worried about exams or assignments
+44.46,73.38,98.8,Exams,None
+26.0,90.79,97.79,Exams,Feel worried during exams and don't sleep
+33.69,95.82,96.99,Exams,Overthinking about grades
+58.29,65.0,97.02,None,Feel worried during exams and don't sleep
+41.89,92.15,95.0,Exams deadlines,Tests or exams or assignments keep me worried
+61.86,76.26,98.7,Exams,Exams or tests deadlines make me worried
+36.91,82.84,96.87,Exams,None
+45.89,120.93,99.0,Exams,Exams and grades
+62.1,103.24,98.65,Exams,Exams and grades
+38.69,87.7,98.9,Exams,None
+48.68,94.63,99.0,Exams,Mostly worried about exams or assignments
+63.17,107.23,95.0,Exams,Work pressure
+26.0,90.15,99.0,Exams,When I don’t study I feel stressed
+28.01,83.37,97.43,Exams,During assignments and exams I don't sleep
+28.4,101.51,99.0,Exams,During assignments and exams I don't sleep
+26.0,101.4,97.49,Syllabus,When I don’t study I feel stressed
+60.31,69.02,96.48,Presentations,Work pressure
+26.0,117.43,97.95,Exams,Tests or exams or assignments keep me worried
+29.8,108.37,99.0,Exams,None
+41.03,100.94,96.06,Exams,Exams or tests deadlines make me worried
+35.63,102.48,98.91,Exams,Mostly exams or tests or assignments keep me awake
+36.02,117.5,96.24,Syllabus,None
+40.58,108.79,97.4,Exams,Assignment submission
+49.72,108.75,98.23,Failure,None
+34.9,69.83,99.0,Exams,None
+39.27,115.15,95.0,Exams,Exams or tests deadlines make me worried
+26.0,86.38,98.05,Exams deadlines,None
+41.62,77.91,95.0,Exams,None
+31.18,103.52,98.46,Exams,Assignment submission
+28.52,99.13,98.55,None,None
+45.16,87.6,97.11,Presentations,When I don’t study I feel stressed
+49.21,91.85,98.18,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+36.12,108.58,95.0,Grades,When I don’t study I feel stressed
+26.0,65.32,96.34,None,When I don’t study I feel stressed
+33.79,99.94,99.0,Presentations,None
+36.8,115.75,97.52,Presentations,None
+29.47,76.99,96.02,Exams,Tests and exam deadlines
+48.97,120.77,95.26,Exams deadlines,Mostly worried about exams or assignments
+26.0,103.73,97.18,Exams,None
+50.71,88.96,96.56,Exams,Assignment submission
+28.63,103.09,97.09,Exams ,During assignments and exams I don't sleep
+42.81,115.3,96.86,Exams,During assignments and exams I don't sleep
+52.65,92.7,99.0,Exams deadlines,When I study for exam exams deadlines and assignments keep me worried
+35.93,102.01,99.0,Presentations,Work pressure
+38.73,99.43,99.0,Assignments,Tests or exams or assignments keep me worried
+42.41,96.88,97.86,Exams deadlines,Tests or exams or assignments keep me worried
+26.0,68.88,95.67,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+33.67,123.74,99.0,Presentations,During assignments and exams I don't sleep
+42.61,91.67,96.95,Assignments,Feel worried during exams and don't sleep
+46.4,92.6,99.0,Exams,Mostly exams or tests or assignments keep me awake
+37.85,128.0,97.72,Exams,During exams
+39.04,105.18,97.29,Exams,Overthinking about grades
+26.89,103.12,96.08,Exams,Overthinking about grades
+46.31,106.34,99.0,Presentations,Mostly worried about exams or assignments
+33.77,103.45,96.91,Exams,Exams or tests deadlines make me worried
+26.0,92.65,95.0,None,None
+56.79,109.48,96.28,None,Work pressure
+26.0,89.8,99.0,Exams,When I don’t study I feel stressed
+29.95,103.6,95.0,Exams,Tests or exams or assignments keep me worried
+39.15,96.06,98.59,Exams,Exams and grades
+47.09,87.82,98.76,Syllabus,Assignment submission
+26.0,85.1,99.0,Exams,Work pressure
+57.35,91.19,99.0,Presentations,During exams
+41.37,118.64,96.83,Exams,When I study for exam exams deadlines and assignments keep me worried
+31.5,103.43,95.0,Exams,Exams or tests deadlines make me worried
+30.24,112.94,95.0,Exams,Mostly worried about exams or assignments
+26.0,85.94,97.76,Exams,Feel worried during exams and don't sleep
+34.23,95.06,97.69,Exams,Exams
+47.62,106.3,97.97,Exams,Overthinking about grades
+41.9,125.07,97.25,Exams,None
+27.25,83.12,95.47,Assignments,Overthinking about grades
+30.59,85.08,97.27,Grades,None
+38.48,86.77,98.76,Exams,None
+35.53,88.31,98.22,Exams,Exams or tests deadlines make me worried
+26.0,96.31,97.78,Exams deadlines,None
+40.41,77.34,99.0,Exams ,Overthinking about grades
+34.24,102.21,95.0,Failure,Assignment submission
+33.66,82.57,98.48,Exams deadlines,During exams
+26.0,85.78,97.74,Exams,Assignment submission
+26.0,100.64,99.0,Grades,During exams
+31.85,74.65,95.42,Exams deadlines,When I don’t study I feel stressed
+30.5,108.35,97.75,Exams,Assignment submission
+44.95,89.34,99.0,Exams,Exams and grades
+28.88,104.64,98.55,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,104.6,95.8,Syllabus,None
+26.0,103.34,96.15,Exams,During exams
+47.72,100.54,96.44,Presentations,Feel worried during exams and don't sleep
+31.61,97.68,97.79,Failure,None
+44.34,89.94,96.75,Assignments,None
+26.0,65.0,99.0,Exams,None
+32.11,70.75,96.91,Presentations,Tests and exam deadlines
+35.11,82.01,98.27,None,Exams
+26.0,106.8,99.0,Exams,Exams or tests deadlines make me worried
+33.06,95.3,98.32,Exams deadlines,Assignment submission
+26.0,73.57,97.63,Exams deadlines,None
+63.54,94.86,99.0,Presentations,Mostly worried about exams or assignments
+45.96,101.61,96.05,Grades,Feel worried during exams and don't sleep
+54.68,92.81,95.0,Grades,During exams
+26.0,92.56,97.26,Exams,None
+26.0,103.83,96.58,Grades,During exams
+48.71,100.96,96.29,Presentations,Tests and exam deadlines
+49.42,102.02,99.0,Presentations,Exams and grades
+43.17,94.95,98.63,Exams ,Overthinking about grades
+55.23,90.11,96.71,Exams,When I study for exam exams deadlines and assignments keep me worried
+48.8,117.73,96.68,Exams,Assignment submission
+42.14,93.88,98.84,Syllabus,Assignment submission
+26.23,86.54,95.0,Assignments,Mostly worried about exams or assignments
+26.0,94.49,99.0,Exams,Mostly worried about exams or assignments
+26.0,96.46,98.99,Exams ,None
+26.0,104.88,97.04,Exams,Tests or exams or assignments keep me worried
+37.57,106.84,95.8,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+34.82,80.61,95.0,Exams,Mostly exams or tests or assignments keep me awake
+32.87,83.26,97.23,Exams,Exams or tests deadlines make me worried
+26.0,76.77,95.97,Exams,None
+41.7,107.73,95.63,Exams deadlines,Mostly exams or tests or assignments keep me awake
+44.01,98.04,98.22,Exams,Work pressure
+41.64,99.4,98.57,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,66.5,98.92,Presentations,Exams and grades
+26.0,71.8,97.53,Failure,None
+62.84,104.3,96.81,Grades,None
+37.92,93.14,95.83,Grades,During assignments and exams I don't sleep
+62.67,112.78,95.97,Exams deadlines,Exams or tests deadlines make me worried
+46.69,103.29,99.0,Exams deadlines,Tests or exams or assignments keep me worried
+48.09,105.95,97.9,Exams,Exams
+38.93,89.63,95.42,Presentations,None
+61.89,115.83,97.77,Exams deadlines,During assignments and exams I don't sleep
+37.93,100.01,95.71,Presentations,When I study for exam exams deadlines and assignments keep me worried
+38.6,79.42,97.3,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+62.84,109.47,97.4,Assignments,None
+38.38,94.46,95.72,Exams deadlines,Tests and exam deadlines
+27.35,80.14,98.16,Exams,Feel worried during exams and don't sleep
+26.0,95.56,98.91,Exams deadlines,None
+52.08,97.77,96.09,Exams deadlines,Exams and grades
+42.57,102.43,99.0,Exams,Exams and grades
+35.92,80.22,96.89,Syllabus,Overthinking about grades
+34.94,89.33,97.77,Exams,Tests or exams or assignments keep me worried
+29.0,101.5,96.77,Exams deadlines,None
+41.57,81.65,96.64,None,None
+26.0,68.29,95.0,Exams,None
+38.19,95.63,99.0,Exams,During exams
+43.29,118.6,95.65,Exams,None
+27.26,85.01,96.88,Exams,None
+63.4,92.64,99.0,Grades,Exams
+62.23,95.96,97.58,Exams,Exams or tests deadlines make me worried
+82.12,108.88,96.3,Exams,During assignments and exams I don't sleep
+32.71,90.54,98.77,Exams,Exams
+41.65,97.43,97.9,Exams,None
+26.0,106.36,95.88,Exams,Work pressure
+36.95,98.39,96.32,Exams deadlines,None
+26.0,91.67,96.48,Exams,Tests and exam deadlines
+41.65,83.45,98.49,Failure,Feel worried during exams and don't sleep
+26.0,70.45,97.36,Presentations,Exams or tests deadlines make me worried
+36.32,96.86,97.73,Presentations,Assignment submission
+26.0,81.21,95.71,Exams,Work pressure
+55.13,91.34,95.0,Presentations,None
+26.14,89.61,96.76,Presentations,Tests and exam deadlines
+33.41,111.59,96.35,Exams,During exams
+44.44,76.23,97.98,Presentations,During exams
+35.7,118.96,96.43,Exams,Work pressure
+34.62,79.77,97.49,Exams deadlines,None
+27.27,102.67,98.23,Exams deadlines,Tests and exam deadlines
+51.54,113.07,99.0,Exams,Exams and grades
+56.79,71.51,96.89,Exams,None
+39.43,89.42,97.13,Failure,Overthinking about grades
+35.39,102.9,97.03,Exams,Work pressure
+37.85,103.37,99.0,Presentations,Assignment submission
+42.08,105.3,95.62,Exams deadlines,Tests and exam deadlines
+50.88,109.08,97.71,Exams,Exams or tests deadlines make me worried
+44.61,113.66,97.82,Exams,Exams and grades
+42.45,65.0,97.97,Presentations,During exams
+26.0,103.42,98.11,None,Exams
+27.83,115.98,96.64,Exams,Feel worried during exams and don't sleep
+37.74,102.82,99.0,Exams,None
+26.0,95.74,97.33,Exams,Assignment submission
+34.19,87.09,98.8,Exams,Work pressure
+33.82,95.79,97.72,Exams deadlines,None
+26.0,82.99,99.0,Exams,Feel worried during exams and don't sleep
+26.0,103.31,98.09,Exams,Exams
+40.96,107.3,97.95,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,101.77,96.92,Exams,Feel worried during exams and don't sleep
+49.91,117.47,99.0,Exams,During exams
+36.23,102.06,98.56,Assignments,Overthinking about grades
+39.59,108.51,97.29,Exams,Exams
+31.98,105.91,97.39,Presentations,Mostly worried about exams or assignments
+47.11,92.11,98.54,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,116.97,96.61,Syllabus,None
+26.0,83.27,97.46,Exams ,Tests and exam deadlines
+33.06,105.71,97.9,Syllabus,None
+43.48,105.67,95.0,Exams,Assignment submission
+26.0,97.73,97.37,Presentations,Exams or tests deadlines make me worried
+54.33,100.01,96.61,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+30.4,97.22,98.89,Exams,Mostly exams or tests or assignments keep me awake
+49.0,106.5,95.92,Presentations,Exams and grades
+47.51,98.63,96.21,Exams,Tests and exam deadlines
+30.26,104.66,95.92,Syllabus,Assignment submission
+26.0,94.45,97.55,Presentations,Overthinking about grades
+26.0,117.37,97.61,Exams,Exams or tests deadlines make me worried
+39.41,103.32,97.15,Exams,None
+31.39,112.72,96.39,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,103.46,99.0,Exams,Work pressure
+35.01,81.99,97.03,Exams,Assignment submission
+26.0,100.34,99.0,Exams,Feel worried during exams and don't sleep
+29.58,116.87,97.75,Syllabus,Work pressure
+43.8,98.08,97.55,Exams,Feel worried during exams and don't sleep
+26.0,76.12,98.38,Exams deadlines,Tests or exams or assignments keep me worried
+29.44,97.35,98.6,Exams,Feel worried during exams and don't sleep
+28.61,114.01,99.0,None,During exams
+51.35,114.23,99.0,Exams deadlines,Tests or exams or assignments keep me worried
+46.11,104.35,95.7,Exams,When I don’t study I feel stressed
+26.0,86.37,99.0,Exams,Exams or tests deadlines make me worried
+58.52,93.52,95.62,Exams,None
+39.19,98.32,99.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+42.67,83.72,98.07,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+27.3,94.01,97.1,Exams,Feel worried during exams and don't sleep
+62.48,95.89,97.01,Presentations,None
+26.0,93.64,96.33,Exams,Mostly worried about exams or assignments
+35.46,114.86,97.48,Exams,During exams
+36.52,97.29,99.0,Exams,Exams
+26.0,89.81,97.4,Grades,Work pressure
+44.36,91.98,98.94,Exams,None
+40.33,110.41,97.8,Grades,Feel worried during exams and don't sleep
+47.5,98.75,97.38,Grades,Assignment submission
+26.0,77.85,95.56,Exams,Feel worried during exams and don't sleep
+34.21,76.62,95.87,Exams,Exams and grades
+72.05,121.88,96.75,Exams,Mostly worried about exams or assignments
+26.0,71.14,97.2,Exams,Tests or exams or assignments keep me worried
+36.58,75.35,96.21,Exams deadlines,Tests or exams or assignments keep me worried
+42.87,102.95,95.36,Exams,Exams and grades
+26.6,105.89,97.36,Exams,None
+33.35,102.24,98.32,Presentations,None
+59.14,111.02,96.99,Exams,Mostly worried about exams or assignments
+64.74,124.05,95.5,Exams,None
+58.48,82.76,95.35,Presentations,Tests or exams or assignments keep me worried
+43.63,95.84,96.38,Exams deadlines,Exams or tests deadlines make me worried
+27.82,85.21,99.0,Exams,Tests and exam deadlines
+50.13,90.55,97.1,Exams,None
+26.0,78.39,95.0,Exams,Feel worried during exams and don't sleep
+26.0,115.36,97.31,Presentations,None
+43.5,107.94,96.0,Exams,Tests or exams or assignments keep me worried
+47.93,89.35,98.24,Syllabus,When I don’t study I feel stressed
+30.09,81.88,95.57,Exams,Overthinking about grades
+26.0,98.42,97.88,Exams,During assignments and exams I don't sleep
+38.13,105.04,98.33,Grades,Work pressure
+55.58,83.54,99.0,None,Tests or exams or assignments keep me worried
+52.34,98.17,96.75,Exams,None
+35.37,75.91,98.86,Grades,Exams and grades
+26.64,101.37,96.27,Exams,Exams or tests deadlines make me worried
+48.57,96.71,99.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+51.71,98.57,98.6,Exams,Exams and grades
+37.07,95.66,96.1,Grades,None
+46.83,105.36,99.0,Exams,None
+32.53,102.34,96.43,Grades,It depends sometimes stress is due to assignments and sometimes personal issues
+29.39,119.4,97.94,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+54.42,67.55,95.0,Exams,Mostly exams or tests or assignments keep me awake
+38.61,100.66,95.35,Exams ,None
+65.72,108.51,97.64,None,When I study for exam exams deadlines and assignments keep me worried
+32.26,68.11,97.78,Failure,Assignment submission
+26.0,88.19,95.61,Syllabus,During assignments and exams I don't sleep
+38.51,68.73,98.32,Exams deadlines,Overthinking about grades
+34.26,65.0,95.85,Syllabus,Tests or exams or assignments keep me worried
+26.0,92.48,95.57,Exams ,When I don’t study I feel stressed
+28.34,102.76,98.25,Exams,None
+34.93,102.38,95.11,Exams,None
+27.15,89.57,97.35,Exams,During assignments and exams I don't sleep
+40.95,110.47,97.83,Syllabus,None
+36.03,107.39,95.0,Exams deadlines,Work pressure
+49.99,100.93,98.01,Exams,Assignment submission
+44.3,106.24,99.0,Exams ,Feel worried during exams and don't sleep
+26.63,103.09,98.05,Exams,Exams and grades
+26.0,128.0,97.88,Exams,None
+50.54,95.75,96.99,Exams,None
+26.0,102.06,99.0,Syllabus,When I study for exam exams deadlines and assignments keep me worried
+32.51,90.3,96.75,None,Tests or exams or assignments keep me worried
+32.49,109.77,95.0,Exams,Exams or tests deadlines make me worried
+32.46,102.39,95.65,Exams,Mostly worried about exams or assignments
+55.14,110.36,95.06,Presentations,Assignment submission
+43.41,75.28,97.34,Syllabus,When I don’t study I feel stressed
+45.52,99.66,97.83,Exams,Assignment submission
+54.87,65.0,96.89,Exams ,Tests or exams or assignments keep me worried
+26.0,98.53,99.0,Exams,Mostly worried about exams or assignments
+42.46,84.71,96.35,Presentations,During assignments and exams I don't sleep
+30.19,103.56,95.0,Failure,Assignment submission
+46.17,94.74,98.26,Exams ,Assignment submission
+54.26,92.81,97.07,Syllabus,Mostly worried about exams or assignments
+29.66,106.74,97.77,Failure,Exams and grades
+37.64,104.26,96.74,Exams ,During assignments and exams I don't sleep
+26.0,114.49,99.0,Presentations,Mostly worried about exams or assignments
+68.87,110.85,98.87,Presentations,Exams
+34.73,94.37,97.98,Assignments,Exams or tests deadlines make me worried
+40.29,84.77,98.64,Exams,None
+46.9,107.44,96.97,Exams,When I study for exam exams deadlines and assignments keep me worried
+26.0,74.87,97.74,Exams,Overthinking about grades
+31.62,65.0,95.47,Exams deadlines,Overthinking about grades
+28.49,102.17,95.25,Failure,None
+35.75,101.21,99.0,Exams,Mostly exams or tests or assignments keep me awake
+33.48,89.12,96.88,Exams,None
+36.29,91.83,99.0,Exams,Feel worried during exams and don't sleep
+69.85,98.48,99.0,Exams,Feel worried during exams and don't sleep
+51.2,87.33,96.07,Assignments,Tests or exams or assignments keep me worried
+51.56,97.79,95.41,Exams deadlines,Mostly exams or tests or assignments keep me awake
+26.0,73.06,97.55,Exams,None
+37.57,66.32,97.09,Exams,Tests and exam deadlines
+67.01,77.31,96.78,Failure,None
+44.04,104.94,97.56,Exams,During exams
+48.61,86.17,98.73,Exams,Overthinking about grades
+42.34,99.68,96.44,Exams,Work pressure
+29.08,82.58,96.84,Exams,Overthinking about grades
+42.27,81.51,98.47,Exams,Mostly exams or tests or assignments keep me awake
+29.86,88.69,99.0,Exams deadlines,When I study for exam exams deadlines and assignments keep me worried
+34.81,104.06,95.0,Syllabus,During exams
+65.63,99.05,97.49,Exams,Mostly exams or tests or assignments keep me awake
+50.26,69.92,95.0,Exams,When I don’t study I feel stressed
+27.79,115.18,96.9,Exams,None
+26.0,65.0,97.02,Presentations,None
+31.84,112.0,99.0,None,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,105.68,98.23,Exams,Exams and grades
+51.46,81.31,99.0,None,None
+48.22,74.16,95.96,None,None
+34.12,108.73,97.74,Exams,Tests and exam deadlines
+56.79,94.0,95.0,Grades,Exams and grades
+45.45,102.65,95.0,Exams,Mostly worried about exams or assignments
+29.65,92.24,95.27,Exams,None
+27.6,107.79,98.62,Grades,Tests and exam deadlines
+32.29,99.15,96.13,Grades,None
+26.0,88.56,95.6,Exams,Tests and exam deadlines
+47.94,75.53,97.42,Exams,When I don’t study I feel stressed
+42.53,97.06,95.15,Presentations,None
+38.17,111.31,95.0,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+54.36,95.14,98.22,Exams,Mostly worried about exams or assignments
+36.1,75.07,95.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+26.0,91.01,95.26,Exams,None
+35.34,87.26,97.96,Exams deadlines,Tests or exams or assignments keep me worried
+42.24,100.5,99.0,Grades,During exams
+37.0,112.73,99.0,Presentations,None
+33.4,115.81,98.16,Exams,When I don’t study I feel stressed
+34.72,91.99,97.82,Assignments,Tests and exam deadlines
+37.17,98.31,96.34,Exams deadlines,Tests or exams or assignments keep me worried
+78.42,72.93,97.88,Failure,It depends sometimes stress is due to assignments and sometimes personal issues
+45.82,97.87,98.55,Exams deadlines,None
+40.45,112.72,95.0,Presentations,None
+43.0,111.98,95.51,Presentations,During assignments and exams I don't sleep
+39.8,97.01,97.81,Exams deadlines,None
+26.0,110.56,97.39,Exams deadlines,Exams and grades
+26.0,104.12,95.0,Exams,Work pressure
+26.0,97.97,97.2,Exams deadlines,During assignments and exams I don't sleep
+35.27,87.74,96.6,Exams,Tests and exam deadlines
+45.24,91.96,97.02,Exams,When I study for exam exams deadlines and assignments keep me worried
+43.18,73.17,98.53,Presentations,None
+71.07,82.19,97.22,Exams,Mostly exams or tests or assignments keep me awake
+54.39,87.72,97.72,Assignments,None
+41.7,87.68,97.24,Assignments,Assignment submission
+39.65,103.39,97.03,Exams,Exams
+51.56,102.22,96.27,Syllabus,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,83.21,96.56,Assignments,Overthinking about grades
+28.84,106.0,96.56,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+35.79,109.18,96.56,Exams,During exams
+35.6,78.34,96.57,Exams,None
+43.49,90.87,99.0,Exams,None
+40.6,81.81,96.62,Presentations,Feel worried during exams and don't sleep
+26.0,100.48,99.0,Presentations,Mostly exams or tests or assignments keep me awake
+41.39,111.26,97.13,Presentations,None
+26.0,106.01,97.21,Failure,Assignment submission
+39.53,89.25,96.57,Presentations,When I study for exam exams deadlines and assignments keep me worried
+26.0,111.56,95.24,Exams,Mostly worried about exams or assignments
+64.59,112.66,97.53,Exams,None
+30.38,98.24,97.44,Exams,None
+37.33,94.31,95.17,Exams,Mostly exams or tests or assignments keep me awake
+50.52,78.52,97.09,Exams,When I don’t study I feel stressed
+39.32,91.92,99.0,Exams,None
+26.0,106.42,96.19,Exams ,Mostly worried about exams or assignments
+42.14,90.51,98.75,Exams,None
+29.13,88.26,96.51,Failure,Exams or tests deadlines make me worried
+46.54,120.63,99.0,Exams deadlines,Feel worried during exams and don't sleep
+38.74,81.15,96.19,Exams,None
+26.0,82.85,97.16,Exams,Mostly worried about exams or assignments
+49.51,84.68,99.0,Exams,None
+33.42,91.06,97.49,Grades,Mostly exams or tests or assignments keep me awake
+61.57,112.55,97.84,Syllabus,Overthinking about grades
+40.7,81.9,99.0,Presentations,Mostly worried about exams or assignments
+39.09,65.0,95.87,Exams,Overthinking about grades
+54.69,112.41,95.0,Assignments,When I study for exam exams deadlines and assignments keep me worried
+51.93,74.56,97.37,Exams,Mostly exams or tests or assignments keep me awake
+33.57,71.9,96.88,Exams,Exams and grades
+35.7,89.53,96.7,Exams,Feel worried during exams and don't sleep
+43.94,93.07,96.75,Exams,During exams
+26.0,103.76,97.38,Exams deadlines,During exams
+51.17,70.53,95.0,Exams,Exams or tests deadlines make me worried
+37.66,99.57,96.67,Exams,Assignment submission
+50.78,103.86,96.98,Exams,None
+48.5,113.95,98.37,None,None
+47.16,109.01,99.0,Exams,Assignment submission
+34.6,107.46,97.47,Exams,Exams or tests deadlines make me worried
+43.55,105.15,97.52,Assignments,Feel worried during exams and don't sleep
+34.15,117.46,96.0,Exams,Exams or tests deadlines make me worried
+37.92,109.26,95.09,Grades,Mostly exams or tests or assignments keep me awake
+26.0,97.69,95.67,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+46.99,88.46,97.74,Exams ,Tests and exam deadlines
+47.14,103.74,96.32,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+52.33,102.62,95.24,Exams,Mostly exams or tests or assignments keep me awake
+26.0,116.56,98.95,Exams,None
+39.96,94.38,98.42,Exams,Exams and grades
+41.05,109.16,96.52,Presentations,During exams
+26.0,82.68,95.0,Exams,Exams or tests deadlines make me worried
+63.0,116.73,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+57.6,90.99,97.54,Exams,Mostly exams or tests or assignments keep me awake
+41.48,82.69,97.69,Exams deadlines,None
+45.34,111.25,96.18,Exams,During assignments and exams I don't sleep
+26.0,93.59,96.49,Assignments,Mostly exams or tests or assignments keep me awake
+44.08,91.08,95.73,Exams,None
+52.71,105.49,97.18,Exams,None
+26.0,97.68,97.61,Exams,Assignment submission
+43.84,86.56,98.16,Exams,Mostly worried about exams or assignments
+26.0,113.52,95.0,Exams deadlines,Tests or exams or assignments keep me worried
+52.07,92.9,95.13,None,Mostly worried about exams or assignments
+52.09,70.96,99.0,Exams,Overthinking about grades
+26.0,89.26,95.82,Exams,Exams
+47.98,73.72,96.76,Assignments,None
+55.81,78.77,99.0,Exams,Exams
+26.0,87.97,96.15,Exams deadlines,None
+39.09,80.44,95.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+26.0,86.95,95.99,Exams,Mostly worried about exams or assignments
+65.68,98.01,97.76,Exams deadlines,Exams
+28.64,100.18,95.81,Exams,Mostly exams or tests or assignments keep me awake
+26.0,93.32,96.48,Exams,None
+28.83,93.53,97.02,Exams deadlines,None
+44.53,100.5,97.25,Exams,Mostly exams or tests or assignments keep me awake
+48.88,94.01,96.91,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+61.43,78.9,98.56,Exams,Work pressure
+40.79,118.78,98.13,Exams,Tests or exams or assignments keep me worried
+29.94,97.66,96.99,Exams,During assignments and exams I don't sleep
+33.72,99.95,96.21,Presentations,Tests or exams or assignments keep me worried
+26.0,102.58,98.22,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+51.23,98.44,97.98,Exams,When I don’t study I feel stressed
+36.48,89.98,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+28.47,103.17,97.77,Exams,Exams
+53.43,95.95,95.68,Presentations,None
+46.49,79.94,99.0,Exams,Mostly exams or tests or assignments keep me awake
+37.62,118.99,97.63,Exams,Overthinking about grades
+28.55,105.2,98.11,Exams,Overthinking about grades
+26.74,99.02,97.27,Exams,None
+26.0,104.97,95.0,Exams ,Tests or exams or assignments keep me worried
+31.09,115.13,96.62,None,Exams or tests deadlines make me worried
+32.22,98.79,98.51,Exams,None
+51.67,83.65,97.83,Exams deadlines,Exams
+46.97,123.45,96.21,Exams,Exams
+26.0,106.27,98.14,Exams,None
+26.0,107.73,95.5,Exams,Work pressure
+77.63,102.25,98.27,Syllabus,None
+26.0,88.99,95.71,None,Assignment submission
+61.79,100.97,97.96,Presentations,Exams and grades
+35.35,110.43,97.33,Presentations,None
+35.03,92.56,95.23,Exams,Tests and exam deadlines
+34.11,98.01,95.41,Syllabus,Exams
+38.51,67.75,95.98,Exams,Mostly worried about exams or assignments
+43.16,81.46,97.62,Assignments,Assignment submission
+48.6,95.93,96.66,Syllabus,Exams or tests deadlines make me worried
+44.29,99.91,98.35,Exams deadlines,None
+49.19,98.53,98.58,Exams,Exams or tests deadlines make me worried
+26.54,72.51,99.0,Exams,When I don’t study I feel stressed
+26.0,87.47,98.56,None,When I don’t study I feel stressed
+30.62,116.4,95.78,Exams,Work pressure
+40.71,102.58,98.14,Exams,Mostly exams or tests or assignments keep me awake
+40.53,103.93,96.98,Presentations,None
+39.26,100.18,98.56,Exams,Exams or tests deadlines make me worried
+38.38,86.17,97.48,Exams,Overthinking about grades
+40.46,127.42,96.58,Exams,Tests or exams or assignments keep me worried
+52.67,98.58,99.0,Exams,When I don’t study I feel stressed
+42.28,86.31,96.84,Syllabus,Exams and grades
+49.57,101.6,99.0,Exams,Tests and exam deadlines
+33.13,128.0,97.99,Exams,During exams
+28.07,84.34,98.82,Exams,Mostly worried about exams or assignments
+39.54,96.37,98.5,Exams,Work pressure
+26.0,100.31,98.3,Failure,Exams or tests deadlines make me worried
+26.47,106.5,96.24,Exams,When I study for exam exams deadlines and assignments keep me worried
+26.0,115.04,98.35,Exams,None
+55.16,128.0,95.0,Exams,None
+29.16,85.6,95.73,Exams,Tests or exams or assignments keep me worried
+26.0,101.82,97.46,Exams deadlines,None
+44.85,105.49,96.81,Presentations,Exams
+41.03,71.76,95.85,Exams ,During exams
+38.0,95.57,96.66,Syllabus,Exams
+45.42,107.17,95.95,Exams,Exams
+38.28,99.6,95.0,None,Tests and exam deadlines
+37.96,94.3,96.13,None,Exams and grades
+35.29,98.48,98.31,Failure,Assignment submission
+33.65,91.0,98.05,Exams,Mostly worried about exams or assignments
+31.7,108.05,98.88,Exams,Mostly exams or tests or assignments keep me awake
+62.58,85.39,97.4,None,During exams
+36.39,88.36,95.1,Assignments,Feel worried during exams and don't sleep
+27.04,98.41,96.16,Exams,None
+41.03,99.3,98.27,Exams deadlines,None
+41.63,103.87,95.73,Exams ,Exams
+59.85,84.61,95.78,Exams deadlines,None
+36.5,84.89,96.91,Exams,Assignment submission
+26.52,78.18,98.83,Assignments,Exams or tests deadlines make me worried
+29.1,75.6,96.24,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+54.03,83.06,97.25,Exams,Mostly exams or tests or assignments keep me awake
+26.0,111.38,95.57,Exams,Overthinking about grades
+41.2,112.07,98.23,Assignments,Assignment submission
+26.81,99.13,97.08,Exams,Exams
+48.78,105.56,97.05,Presentations,Overthinking about grades
+31.41,102.93,95.71,Exams,Tests or exams or assignments keep me worried
+50.44,98.97,95.0,Exams,None
+64.08,89.76,95.0,Presentations,During assignments and exams I don't sleep
+37.95,112.35,97.81,Exams,Tests or exams or assignments keep me worried
+42.83,106.78,99.0,Exams,Exams and grades
+26.0,103.35,99.0,Exams deadlines,During exams
+31.81,113.17,98.8,Grades,None
+27.3,90.3,96.91,Exams ,Mostly worried about exams or assignments
+26.0,65.0,96.71,Exams,Tests or exams or assignments keep me worried
+30.88,123.71,97.4,Exams ,Assignment submission
+41.41,108.54,97.81,Exams,Overthinking about grades
+38.54,104.02,97.94,Exams,Tests and exam deadlines
+43.41,127.8,96.97,Failure,Mostly exams or tests or assignments keep me awake
+55.31,112.83,97.4,Exams ,Exams
+44.97,66.88,99.0,Assignments,Work pressure
+51.71,84.9,95.0,Exams,When I study for exam exams deadlines and assignments keep me worried
+37.29,90.51,97.51,Exams deadlines,Assignment submission
+49.41,111.59,98.67,Presentations,During assignments and exams I don't sleep
+35.11,69.13,97.09,Exams,During assignments and exams I don't sleep
+26.0,94.83,96.32,Exams deadlines,Work pressure
+48.22,106.15,98.33,None,During exams
+40.52,81.03,95.0,Exams,Exams and grades
+42.28,113.78,99.0,Exams,None
+26.0,92.42,98.12,Syllabus,Overthinking about grades
+58.41,112.55,96.79,Presentations,Mostly worried about exams or assignments
+48.77,82.18,97.02,Exams,When I don’t study I feel stressed
+59.99,92.39,95.0,Presentations,Mostly worried about exams or assignments
+28.01,97.82,97.25,Presentations,None
+48.79,76.27,96.59,Syllabus,None
+29.19,75.23,98.41,Exams,Mostly exams or tests or assignments keep me awake
+37.13,70.42,98.46,Exams,None
+42.07,85.1,95.6,Presentations,Mostly worried about exams or assignments
+35.2,88.43,98.28,Exams,Feel worried during exams and don't sleep
+51.44,101.08,96.31,Exams,Feel worried during exams and don't sleep
+45.8,85.39,95.0,Presentations,Tests and exam deadlines
+32.81,65.0,96.56,Exams,Mostly worried about exams or assignments
+59.75,73.95,95.17,Exams ,None
+56.69,87.05,96.41,Exams,Mostly exams or tests or assignments keep me awake
+26.0,71.78,96.95,Failure,Exams
+31.68,98.62,99.0,Exams deadlines,Exams
+29.71,97.01,99.0,Syllabus,Work pressure
+52.1,83.31,97.54,Presentations,When I don’t study I feel stressed
+26.0,83.79,97.8,Exams,Mostly worried about exams or assignments
+35.95,98.2,98.26,Grades,Exams and grades
+48.08,108.45,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+31.37,107.76,98.64,Exams,Tests and exam deadlines
+32.14,104.64,96.11,Presentations,Exams and grades
+39.01,110.86,96.45,Exams ,Work pressure
+26.0,80.01,95.37,Exams,When I study for exam exams deadlines and assignments keep me worried
+26.0,87.63,96.19,Exams,When I study for exam exams deadlines and assignments keep me worried
+56.22,106.29,97.41,Exams,None
+31.72,101.72,98.28,Syllabus,None
+38.27,69.45,97.71,Exams deadlines,None
+33.85,122.08,96.03,Exams deadlines,When I don’t study I feel stressed
+37.26,95.87,97.21,Exams,Overthinking about grades
+49.59,116.08,97.38,Exams,Assignment submission
+27.97,107.71,96.21,Exams,Exams and grades
+68.61,95.57,95.0,Exams,Tests and exam deadlines
+54.95,104.8,97.76,Failure,Mostly exams or tests or assignments keep me awake
+44.52,113.89,98.79,Presentations,During exams
+42.77,109.62,96.91,Exams deadlines,It depends sometimes stress is due to assignments and sometimes personal issues
+61.58,100.2,98.61,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+29.58,97.39,99.0,Exams,Exams and grades
+26.0,94.29,99.0,Syllabus,Work pressure
+45.35,94.31,95.0,Exams,Mostly worried about exams or assignments
+47.28,96.28,96.81,Exams ,Exams
+30.2,112.94,98.21,Presentations,When I don’t study I feel stressed
+39.79,94.84,98.98,Exams,None
+26.0,105.64,98.35,Exams,None
+43.45,92.85,98.59,None,During exams
+30.97,92.97,99.0,Exams,None
+44.74,74.27,97.22,Syllabus,None
+26.0,102.56,96.8,Presentations,Overthinking about grades
+49.48,116.87,99.0,Syllabus,None
+38.4,115.4,99.0,Assignments,None
+26.0,99.99,98.05,Exams,Exams
+44.31,128.0,98.36,Assignments,Overthinking about grades
+40.31,96.24,97.97,Exams deadlines,Mostly exams or tests or assignments keep me awake
+26.0,114.56,99.0,Exams,None
+51.27,96.05,97.9,Exams,None
+51.64,98.37,99.0,Syllabus,When I don’t study I feel stressed
+46.47,85.84,99.0,Exams deadlines,Tests or exams or assignments keep me worried
+47.71,75.24,96.12,Syllabus,None
+41.76,71.06,98.97,Exams,None
+57.45,96.04,97.69,Exams,Tests and exam deadlines
+26.0,83.66,97.08,Assignments,Mostly worried about exams or assignments
+26.0,74.42,98.64,Exams,Mostly exams or tests or assignments keep me awake
+32.29,71.84,96.34,Exams,Overthinking about grades
+50.74,86.69,99.0,Presentations,Exams
+28.23,118.27,97.7,Presentations,During assignments and exams I don't sleep
+35.6,115.75,99.0,Exams,None
+37.17,98.47,95.87,Exams,Tests or exams or assignments keep me worried
+37.84,112.83,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+34.78,106.32,96.48,None,Exams and grades
+36.54,83.98,95.91,Exams,Mostly exams or tests or assignments keep me awake
+35.58,119.68,96.59,Exams,Feel worried during exams and don't sleep
+71.15,82.78,95.0,Exams,None
+26.23,96.95,96.48,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,94.78,98.07,Failure,Exams
+27.99,92.49,95.19,Presentations,When I don’t study I feel stressed
+39.42,91.77,96.97,Exams ,It depends sometimes stress is due to assignments and sometimes personal issues
+28.61,106.69,99.0,Exams,Tests and exam deadlines
+44.53,93.96,97.94,Failure,None
+44.86,72.98,98.08,Exams,When I study for exam exams deadlines and assignments keep me worried
+34.67,110.86,96.32,Exams deadlines,None
+39.73,73.21,97.01,Syllabus,None
+26.0,79.74,95.8,Exams,None
+32.66,116.38,98.84,Exams,None
+39.79,102.62,96.06,Assignments,Work pressure
+26.0,108.66,99.0,Exams deadlines,Mostly exams or tests or assignments keep me awake
+35.3,102.71,95.0,Failure,When I study for exam exams deadlines and assignments keep me worried
+36.18,96.55,98.46,Exams,During exams
+26.0,95.3,97.48,Presentations,Tests and exam deadlines
+40.02,111.45,95.72,Presentations,Feel worried during exams and don't sleep
+55.76,73.51,97.66,Failure,None
+32.59,84.86,97.12,Exams,None
+26.0,81.24,95.39,Exams,None
+31.31,96.89,96.76,Exams,None
+34.48,128.0,99.0,Assignments,Mostly worried about exams or assignments
+46.8,85.86,95.0,Exams,Exams or tests deadlines make me worried
+53.95,111.55,96.66,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+48.22,102.59,96.78,Exams,Exams and grades
+39.35,112.0,95.55,Presentations,None
+42.39,107.5,98.72,Exams ,Assignment submission
+26.0,89.94,98.74,Failure,None
+28.08,72.33,99.0,Exams ,Mostly exams or tests or assignments keep me awake
+48.5,110.47,98.26,Exams,Feel worried during exams and don't sleep
+35.48,91.39,99.0,Assignments,It depends sometimes stress is due to assignments and sometimes personal issues
+31.29,103.61,95.83,Exams,Tests and exam deadlines
+28.54,104.09,99.0,Assignments,Mostly worried about exams or assignments
+39.08,97.39,97.29,Failure,Mostly exams or tests or assignments keep me awake
+31.49,117.48,97.21,Failure,None
+30.56,112.29,98.42,Grades,Tests or exams or assignments keep me worried
+34.17,105.08,96.39,Exams,Tests or exams or assignments keep me worried
+51.29,109.2,95.88,Exams,None
+39.28,120.85,95.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,88.56,96.82,Exams deadlines,Tests or exams or assignments keep me worried
+30.31,97.34,96.56,Exams,Mostly worried about exams or assignments
+48.64,107.54,98.67,Exams,None
+41.93,106.48,95.8,None,Work pressure
+36.14,122.44,99.0,Exams,During assignments and exams I don't sleep
+72.56,84.72,98.88,Exams,None
+26.0,103.99,97.22,Exams,None
+40.98,113.6,97.5,None,Feel worried during exams and don't sleep
+53.06,105.18,98.5,Exams,Exams and grades
+26.0,89.47,96.43,Exams deadlines,None
+51.38,95.12,99.0,Failure,None
+41.16,86.0,99.0,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+39.52,92.59,96.02,Exams deadlines,During assignments and exams I don't sleep
+46.59,86.52,99.0,Exams,None
+26.0,104.22,99.0,Exams,None
+45.75,72.02,96.34,None,Mostly worried about exams or assignments
+26.0,98.84,95.0,Presentations,None
+30.27,85.87,97.99,Exams,Tests or exams or assignments keep me worried
+50.23,107.53,99.0,Exams,None
+42.0,104.23,97.6,Exams,None
+33.12,86.06,98.03,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+28.51,88.18,95.53,Exams,During assignments and exams I don't sleep
+38.86,85.44,98.62,Presentations,Tests and exam deadlines
+26.0,111.21,96.56,Exams,Feel worried during exams and don't sleep
+38.34,112.87,97.41,Exams,None
+45.35,90.6,99.0,Assignments,None
+26.0,102.13,99.0,Exams,During assignments and exams I don't sleep
+63.31,83.29,98.78,Grades,Exams and grades
+40.89,79.83,96.39,Syllabus,None
+50.3,108.19,97.81,Presentations,Mostly exams or tests or assignments keep me awake
+33.41,87.03,98.71,Exams,Work pressure
+52.5,86.91,95.0,Failure,During exams
+57.6,91.75,96.23,Exams,Work pressure
+55.41,97.57,96.93,Exams,None
+40.93,119.12,98.03,Exams ,None
+54.08,81.24,98.54,Exams,None
+33.18,65.0,95.0,Presentations,Exams and grades
+45.17,98.79,97.66,Presentations,None
+26.0,96.86,97.85,Exams,Mostly worried about exams or assignments
+38.16,75.35,99.0,Presentations,None
+66.11,96.79,98.96,Assignments,Feel worried during exams and don't sleep
+37.33,89.25,97.56,Exams,Mostly exams or tests or assignments keep me awake
+26.82,95.53,96.45,Exams,Tests and exam deadlines
+36.51,118.37,97.08,Exams,When I don’t study I feel stressed
+26.0,91.12,97.7,Presentations,None
+40.86,116.16,98.36,Presentations,Tests and exam deadlines
+36.94,128.0,96.64,Syllabus,Tests or exams or assignments keep me worried
+26.0,128.0,98.64,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+55.19,106.64,99.0,Presentations,None
+34.06,90.91,95.0,Presentations,During assignments and exams I don't sleep
+33.99,107.35,99.0,Failure,Feel worried during exams and don't sleep
+31.89,98.86,98.89,Syllabus,None
+28.96,111.7,97.96,Exams,None
+30.35,69.27,95.5,Presentations,Mostly exams or tests or assignments keep me awake
+43.37,86.81,97.12,Assignments,Tests and exam deadlines
+30.16,107.3,95.3,Presentations,Assignment submission
+41.57,95.87,98.26,Assignments,Exams or tests deadlines make me worried
+42.74,112.17,98.13,Failure,Exams or tests deadlines make me worried
+36.42,85.82,97.27,Exams,Mostly exams or tests or assignments keep me awake
+36.1,85.07,96.63,Presentations,Tests and exam deadlines
+32.55,103.88,98.18,Exams,Exams or tests deadlines make me worried
+57.63,110.86,95.95,Failure,Exams and grades
+36.7,91.07,95.64,Presentations,Tests or exams or assignments keep me worried
+31.14,88.05,96.9,Failure,During exams
+40.54,128.0,97.64,Presentations,When I don’t study I feel stressed
+37.82,100.75,98.05,Exams,Assignment submission
+26.0,108.99,97.7,Exams,During exams
+48.52,114.58,96.07,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,80.02,98.99,Exams,When I study for exam exams deadlines and assignments keep me worried
+26.0,100.38,96.58,Exams,None
+48.08,81.35,95.99,Syllabus,Work pressure
+51.29,114.17,96.36,Exams,Work pressure
+26.82,122.22,95.64,Exams,Assignment submission
+28.6,124.78,98.29,Exams deadlines,None
+30.48,107.92,98.99,None,It depends sometimes stress is due to assignments and sometimes personal issues
+38.39,107.61,97.58,Presentations,Overthinking about grades
+26.42,100.45,99.0,Syllabus,During exams
+48.64,101.17,98.53,Exams,None
+35.62,85.97,95.47,Exams,Feel worried during exams and don't sleep
+40.35,106.64,98.22,Exams,When I study for exam exams deadlines and assignments keep me worried
+45.53,96.65,98.01,Presentations,None
+42.92,106.38,96.35,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+29.06,90.04,95.66,Exams,Exams
+52.63,104.59,99.0,None,When I study for exam exams deadlines and assignments keep me worried
+80.06,94.13,97.77,Presentations,Exams or tests deadlines make me worried
+42.96,108.67,97.21,Exams,None
+41.1,100.94,95.99,Exams,None
+35.89,88.92,96.19,Exams,Work pressure
+34.09,77.31,96.31,Exams,Work pressure
+45.39,104.83,98.42,Exams,Exams or tests deadlines make me worried
+42.51,85.26,96.43,Exams,Exams or tests deadlines make me worried
+26.0,111.79,98.44,Failure,When I don’t study I feel stressed
+38.31,107.86,95.0,Exams deadlines,Exams and grades
+40.23,105.82,97.96,Failure,When I don’t study I feel stressed
+26.0,87.5,98.25,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+26.0,83.82,96.27,Exams,Overthinking about grades
+26.0,77.79,96.12,Grades,When I don’t study I feel stressed
+26.0,95.65,99.0,Exams,During assignments and exams I don't sleep
+34.88,111.25,96.74,Exams,None
+54.0,93.05,99.0,Grades,Work pressure
+32.98,103.8,97.87,Presentations,Mostly worried about exams or assignments
+30.11,97.8,97.29,Presentations,Tests or exams or assignments keep me worried
+26.0,111.15,98.1,Exams,During exams
+54.62,127.8,98.92,Exams,Assignment submission
+38.95,74.51,95.0,Presentations,It depends sometimes stress is due to assignments and sometimes personal issues
+29.5,84.73,97.28,Exams ,Assignment submission
+26.0,105.66,95.16,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+58.83,82.53,98.71,Exams,None
+45.38,112.25,98.52,Exams deadlines,Mostly worried about exams or assignments
+26.0,112.47,96.07,Exams,Exams or tests deadlines make me worried
+41.37,103.87,97.9,Presentations,When I don’t study I feel stressed
+26.0,109.17,97.67,Presentations,None
+37.14,78.02,98.86,Exams deadlines,Tests and exam deadlines
+42.53,88.38,99.0,Exams deadlines,Exams
+33.05,98.71,95.71,Exams ,Overthinking about grades
+60.25,90.53,97.99,Exams,Work pressure
+37.22,92.96,96.13,Presentations,During assignments and exams I don't sleep
+33.21,94.81,96.8,Exams,Work pressure
+26.0,110.38,95.0,Exams,Exams
+32.18,121.09,98.56,Exams deadlines,None
+55.96,87.11,98.93,Exams ,During assignments and exams I don't sleep
+52.74,91.68,95.81,Exams,Feel worried during exams and don't sleep
+41.63,90.47,98.23,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+46.42,103.29,97.29,Exams,Tests or exams or assignments keep me worried
+39.88,104.76,99.0,Exams,Assignment submission
+51.38,128.0,98.17,Exams,Exams and grades
+47.59,83.44,96.7,Syllabus,None
+46.8,94.86,97.59,Exams,None
+49.81,95.03,96.35,Exams ,None
+48.56,75.27,96.9,Exams deadlines,Feel worried during exams and don't sleep
+48.63,109.69,97.82,Exams deadlines,None
+38.66,88.02,96.98,Exams,Tests and exam deadlines
+37.28,71.45,96.77,Grades,Work pressure
+33.84,93.86,98.13,Assignments,None
+26.0,92.48,98.55,Presentations,None
+48.68,77.16,97.02,Presentations,Tests or exams or assignments keep me worried
+40.24,104.61,95.98,Exams ,None
+43.63,108.53,96.15,Exams deadlines,Exams and grades
+26.0,88.74,96.58,Grades,Exams or tests deadlines make me worried
+40.07,96.47,95.0,Exams,Tests and exam deadlines
+26.0,103.88,95.42,Presentations,None
+33.81,101.38,97.57,Failure,Exams or tests deadlines make me worried
+26.0,77.03,96.49,Exams,It depends sometimes stress is due to assignments and sometimes personal issues
+29.27,105.79,96.95,Exams,None
+33.88,100.33,97.88,Failure,Mostly exams or tests or assignments keep me awake
+28.43,96.23,98.03,Exams,During exams
+30.78,76.05,96.6,Exams deadlines,Exams or tests deadlines make me worried
+26.0,86.35,95.78,Exams,Exams and grades
+46.15,84.87,96.98,Exams,None
+30.86,102.7,98.64,Failure,Mostly exams or tests or assignments keep me awake
+52.44,76.51,95.47,Exams,None
+61.08,103.99,97.32,Grades,None
+26.0,99.01,96.83,Exams,During exams
+38.68,98.81,98.83,Exams ,Tests or exams or assignments keep me worried
+54.9,97.35,97.2,Grades,During exams
+26.0,128.0,97.96,Assignments,None
+45.09,122.91,98.6,Presentations,Assignment submission
+57.34,92.58,97.55,Syllabus,During assignments and exams I don't sleep
+45.1,88.33,97.53,Exams,Overthinking about grades
+64.62,124.35,97.45,Exams,Overthinking about grades
+32.55,112.37,96.88,Exams,None
+51.42,89.88,97.32,Exams,Mostly exams or tests or assignments keep me awake
+47.59,123.79,98.49,Assignments,None
+26.0,100.47,95.94,Exams,None
+48.54,98.63,95.22,Presentations,Exams or tests deadlines make me worried
+26.0,103.96,99.0,Exams deadlines,Work pressure
+26.0,116.68,98.82,Failure,Exams
+33.53,112.22,98.22,Syllabus,Overthinking about grades
+46.28,68.0,97.04,Exams deadlines,None
+38.02,90.41,98.74,Exams,Assignment submission
+56.04,109.2,99.0,Exams,None
