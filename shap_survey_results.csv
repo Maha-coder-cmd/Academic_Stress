@@ -1,0 +1,14 @@
+Feature,SHAP_Importance,Effect_Direction
+headache,0.12646764238120076,Increases
+sleep_quality,0.09116101015044224,Increases
+peer_pressure,0.07567071193965558,Increases
+anxiety_level,0.06723127551737067,Increases
+social_support,0.042780252838440044,Decreases
+self_esteem,0.033897839176543855,Decreases
+depression,0.03300070561368012,Decreases
+study_load,0.03190735714708571,Increases
+noise_level,0.0012545438207896438,Increases
+teacher_student_relationship,0.0012164506767228674,Increases
+future_career_concerns,0.000881108595733094,Decreases
+living_conditions,0.000656230848789632,Increases
+basic_needs,0.0005475533124529403,Increases
